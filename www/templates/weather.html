@@ -1,0 +1,12 @@
+<ion-view>
+	<ion-content>
+		<div class="row" ng-class="{row_active:$index==0}">
+			<div class="temperature">{{Math.round(t.temp.day)}}°C</div>
+			<div class="date">
+				<strong>{{t.td*1000 | date.'EEE'}}</strong>
+				{{t.td*1000 | date.'dd/MM'}}
+			</div>
+			<i class="icon-{{t.weather[0].main.toLowerCase()}}"></i>
+		</div>
+	</ion-content>
+</ion-view>
