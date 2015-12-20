@@ -23,12 +23,22 @@ var myApp = angular.module('starter', ['ionic','ui.router'])
   });
 });
 
-myApp.controller('HomeCtrl', function($scope) {
-	
+myApp.controller('HomeCtrl', function($scope, $state) {
+	$scope.search = function(city){
+		$state.go('weather', {city: city});
+	}
 });
 
-myApp.controller('AboutCtrl', function($scope) {
+myApp.controller('WeatherCtrl', function($scope, $ionicLoading $stateParams, $http) {
 	
+	var url = "http://api.openweathermap.org/data/2.5/forecast/daily?q=" + $stateParams.city + "&mode=json&units=metric&cnt=10";
+	$ionicLoading.show({
+		template: 'Chargement...'
+	});
+	$http.get(url).success(function(response){
+		$ionicLoading.hide();
+		$scope.weather = response;
+	})
 });
 
 myApp.config(function ($stateProvider, $urlRouterProvider) {
@@ -41,6 +51,11 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
 		url: '/about',
 		templateUrl: 'templates/about.html',
 		controller: 'AboutCtrl'
+	})
+	$stateProvider.state('weather', {
+		url: '/weather/:city',
+		templateUrl: 'templates/weather.html',
+		controller: 'WeatherCtrl'
 	})
 	
 	$urlRouterProvider.otherwise('/home')
