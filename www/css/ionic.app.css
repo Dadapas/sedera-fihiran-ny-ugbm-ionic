@@ -9513,4 +9513,10 @@ a.button {
   -webkit-transition-duration: 0s;
   transition-duration: 0s; }
 
+#search {
+  position: fixed; }
+
+ion-item {
+  padding: 75px; }
+
 /*# sourceMappingURL=ionic.app.css.map */

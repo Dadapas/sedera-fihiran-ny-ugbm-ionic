@@ -22,23 +22,31 @@
     </head>
     <body ng-app="starter">
     <ion-pane>
+        <ion-nav-bar class="bar-stable">
+            <ion-nav-back-button>
+            </ion-nav-back-button>
+        </ion-nav-bar>
+            <ion-tabs class="tabs-icon-top tabs-color-active-positive">
+
+                <!-- Dashboard Tab -->
+                <ion-tab title="Home" icon-off="icon ion-home" icon-on="icon ion-home" href="#/home">
+                    <ion-nav-view name="tab-dash"></ion-nav-view>
+                </ion-tab>
+
+                <!-- Chats Tab -->
+                <ion-tab title="Sedera" icon-off="ion-ios-chatboxes-outline" icon-on="ion-ios-chatboxes" href="#/sedera">
+                    <ion-nav-view name="sedera"></ion-nav-view>
+                </ion-tab>
+
+                <!-- Account Tab -->
+                <ion-tab title="Apropos" icon-off="ion-ios-gear-outline" icon-on="ion-ios-gear" href="#/about">
+                    <ion-nav-view name="tab-account"></ion-nav-view>
+                </ion-tab>
+
+
+            </ion-tabs>
+           
         <ion-nav-view></ion-nav-view>
-        <ion-content>
-            <div class="tabs tabs-icon-left">
-                <a ui-sref="home" class="active tab-item">
-                    <i class="icon ion-home"></i>
-                    Tongasoa
-                </a>
-                <a ui-sref="sedera" class="tab-item">
-                    <i class="icon ion-search"></i>
-                    Itady hira
-                </a>
-                <a ng-click='doSomething()' ui-sref="about" class="tab-item">
-                    <i class="icon ion-help-buoy"></i>
-                    Mombamomba
-                </a>
-            </div>
-        </ion-content>
     </ion-pane>
 </body>
 </html>

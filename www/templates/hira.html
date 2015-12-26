@@ -1,4 +1,18 @@
-<ion-view class="padding" view-title="Hira">
-    <ion-nav-bar class="bar-positive">
-    </ion-nav-bar>
-</ion-view>
+<div ng-controller="HiraCtrl">
+    <ion-view class="padding" view-title="{{Sedera.titre}}">
+        <ion-nav-bar class="bar-positive">
+            <ion-nav-back-button></ion-nav-back-button>
+        </ion-nav-bar>
+
+        <ion-content class="padding">
+            <center>
+                <h1>{{Sedera.num}}</h1>
+                <h3 style="color: #009689; text-decoration: underline;">{{Sedera.titre}}</h3>
+
+                <div>
+                    {{ Sedera.hira}}
+                </div>
+            </center>
+        </ion-content>
+    </ion-view>
+</div>

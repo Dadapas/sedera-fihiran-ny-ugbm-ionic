@@ -20,3 +20,12 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 
 // Include all of Ionic
 @import "../www/lib/ionic/scss/ionic";
+
+#search {
+    position: fixed;
+    
+}
+
+ion-item {
+    padding: 75px;
+}
