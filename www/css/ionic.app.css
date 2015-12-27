@@ -9514,9 +9514,6 @@ a.button {
   transition-duration: 0s; }
 
 #search {
-  position: fixed; }
-
-ion-item {
-  padding: 75px; }
+  position: relative; }
 
 /*# sourceMappingURL=ionic.app.css.map */

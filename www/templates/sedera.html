@@ -1,19 +1,17 @@
 <ion-view view-title="Sedera" class="padding">
-    <ion-nav-bar class="bar-positive">
-        <div id="search" class="item-input-inset padding">
+    <ion-nav-bar class="bar bar-positive"></ion-nav-bar>
+    <ion-content class='padding-top padding-bottom' ng-controller="SederaCtrl">
+        <div id="search" class="item-input-inset">
             <label class="item-input-wrapper">
                 <i class="icon ion-ios-search placeholder-icon"></i>
-                <input required type="search" placeholder="Search">
+                <input onfocus ng-model="query" type="search" placeholder="Search">
             </label>
-            <button class="button button-clear">
+            <button class="button button-calm">
                 Cancel
             </button>
         </div>
-    </ion-nav-bar>
-
-    <ion-content class='padding-top padding-bottom' ng-controller="SederaCtrl">
         <ion-list>
-            <ion-item class='item-icon-right' ng-repeat="sedera in sederas" type="item-text-wrap" href="#/sedera/{{sedera.num}}">
+            <ion-item scroll="false" class='item-icon-right' ng-repeat="sedera in sederas | filter: query" type="item-text-wrap" href="#/sedera/{{sedera.num}}">
                 <h2>{{sedera.num}}</h2>
                 <p>{{sedera.titre}}</p>
                 <i class="icon ion-chevron-right icon-accessory"></i>
