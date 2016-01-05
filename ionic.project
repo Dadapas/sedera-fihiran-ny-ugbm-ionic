@@ -1,5 +1,4 @@
 {
-  "name": "sedera",
-  "app_id": "",
-  "gulpStartupTasks": ["sass", "watch"]
+  "name": "Sedera",
+  "app_id": "org.ugbm.sedera"
 }

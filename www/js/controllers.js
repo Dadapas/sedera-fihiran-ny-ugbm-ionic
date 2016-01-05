@@ -1,4 +1,4 @@
-angular.module('starter.controllers', [])
+angular.module('sedera.controllers', ['ngSanitize'])
 
 // Ici les messages de bienvenue dans l'application
 .controller('HomeCtrl', function ($scope) {
@@ -13,22 +13,25 @@ angular.module('starter.controllers', [])
      * Il est accompagner avec de input de type search (recherche)
      * On affiche par ordre croissant
      */
-    $scope.sederas = SederaFactory.getSederas();
+    $scope.sederas = SederaFactory.findAll();
 })
 
-.controller('HiraCtrl', function ($scope, SederaFactory, $stateParams) {
+.controller('HiraCtrl', function ($scope, SederaFactory, $stateParams, $http) {
     /*
      * Selection de tous les sedera hira
      * Dans le sedera par les parametre de $stateParams
      */
-    var sedera = SederaFactory.get(2);
-    $scope.Sedera = sedera;
+    $scope.Headers = SederaFactory.findOneByNum($stateParams.num);
+
+    $http.get('/sedera/sedera.json').success(function (data) {
+        $scope.Sedera = data;
+    });
 })
 
 .controller('AboutCtrl', function ($scope) {
     /*
      * Ici c'est l'appropos du sedera
      * ugbm
-     * A propos du concepteur et r�alisateur du projet
+     * A propos du concepteur et réalisateur du projet
      */
 });

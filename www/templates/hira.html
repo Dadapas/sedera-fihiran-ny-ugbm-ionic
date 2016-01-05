@@ -1,16 +1,16 @@
 <div ng-controller="HiraCtrl">
-    <ion-view class="padding" view-title="{{Sedera.titre}}">
+    <ion-view class="padding" view-title="{{ Headers.titre }}">
         <ion-nav-bar class="bar-positive">
             <ion-nav-back-button></ion-nav-back-button>
         </ion-nav-bar>
 
         <ion-content class="padding">
             <center>
-                <h1>{{Sedera.num}}</h1>
-                <h3 style="color: #009689; text-decoration: underline;">{{Sedera.titre}}</h3>
+                <h1>{{Headers.titre}}</h1>
+                <h3 style="color: #009689; text-decoration: underline;">{{Sedera.num}}</h3>
 
-                <div ng-type="text-html">
-                    {{ Sedera.hira }}
+                <div>
+					{{Sedera.hira}}
                 </div>
             </center>
         </ion-content>
