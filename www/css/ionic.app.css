@@ -9513,4 +9513,10 @@ a.button {
   -webkit-transition-duration: 0s;
   transition-duration: 0s; }
 
+.contenu {
+  font-family: "Cooper Black", Serif;
+  text-align: left;
+  font-size: medium;
+  padding-left: 100px; }
+
 /*# sourceMappingURL=ionic.app.css.map */

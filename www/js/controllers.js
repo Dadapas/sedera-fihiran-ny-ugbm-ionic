@@ -16,16 +16,8 @@ angular.module('sedera.controllers', ['ngSanitize'])
     $scope.sederas = SederaFactory.findAll();
 })
 
-.controller('HiraCtrl', function ($scope, SederaFactory, $stateParams, $http) {
-    /*
-     * Selection de tous les sedera hira
-     * Dans le sedera par les parametre de $stateParams
-     */
-    $scope.Headers = SederaFactory.findOneByNum($stateParams.num);
-
-    $http.get('/sedera/sedera.json').success(function (data) {
-        $scope.Sedera = data;
-    });
+.controller('HiraCtrl', function ($scope, SederaFactory, $stateParams) {
+    $scope.Sedera = SederaFactory.findOneByNum($stateParams.num);
 })
 
 .controller('AboutCtrl', function ($scope) {
