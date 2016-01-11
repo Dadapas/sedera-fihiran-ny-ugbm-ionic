@@ -1080,140 +1080,957 @@ angular.module('sedera.services', [])
             "num" : "210",
             "titre": "Prends ma vie dans tes bras",
             "hira": "<pre><h4 class='padding'>\n1.  Prends ma vie dans tes bras\n     Oh ! Jésus tendre ami\n     Car de Toi jaillira\n     La seule source de vie\n     Porte-moi dans ma foi\n     En ton amour serein\n     Oh, Seigneur \n     Guide–moi par ta main.\n\n          Oh Jésus tendre ami\n          Mon fidèle soutien\n          Eternel infini roi divin\n          Porte-moi dans ma foi\n          En ton amour serein\n          Oh ! Seigneur \n          Guide-moi par ta main\n\n2.  Si parfois je t’oublie\n     Egaré et confus\n     Tu demeures avec moi\n     Car tu m’aimes Jésus\n     Des tourments, des malheurs\n     Qui assaillent mon cœur\n     Grâce à Toi, \n     Je triomphe sans peur !\n\n3.  Dans la vie d’aujourd’hui\n     Rien ne vit, tout est vain\n     C’est la mort en esprit\n     De l’humain, inhumain\n     Mais jeT’ai rencontré\n     Et ma vie a changé\n     Tu m’a ressuscité, libéré.\n\n          Oh Jésus tendre ami\n          Mon fidèle soutien\n          Eternel infini roi divin\n          Quand je t’ai rencontré\n          Toute ma vie a changé\n          Tu m’as ressuscité, libéré</h4></pre>"
-          }/*,
-          {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "211",
+            "titre": "I have decided",
+            "hira": "<pre><h4 class='padding'>\n1.  I have decided\n     To follow Jésus\n     No turning back (2)\n\n2.  The world behind me\n     The cross before me\n     No turning back (2)\n\n3.  Though no one joins me\n     I still will follow\n     No turning back (2)\n\n4.  Will you decide now\n     To follow Jésus\n     No turning back (2)</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "212",
+            "titre": "Fitiavana tsy hay ambara re",
+            "hira": "<pre><h4 class='padding'>\n1.  Fitiavana tsy hay ambara re\n     No nasehonao ’lay tao Getsemane\n     Niaretanao ny fahoriana\n     Teo amin’ny hazofijaliana\n\n          Ry Jeso Tompo be fitia\n          Mpamonjy ny mania\n          Atolotro ny foko ho Anao\n          Ka raiso mba ho fonenanao\n          O ! anjakao.\n\n2.  Fitiavana tsy manam-paharoa\n     ‘Zay manintona ny fo ho mpankato\n     Famonjena tsy mba novidiana\n     Teo amin’ny hazo fijaliana\n\n3.  Fitiavana tsy miova sanatria\n     No natolotrao ry Jeso Kristy\n     Ka ny tenanao no nofantsihana\n     Teo amin’ny hazofijaliana</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "213",
+            "titre": "Moa mba fantatrao va re",
+            "hira": "<pre><h4 class='padding'>\n1.  Moa mba fantatrao va re ?\n     ‘Lay lehilahy iray\n     Namonjy marobe, \n     ‘Zay iraky ny Ray\n\n     Io no Jesosy nomena ho anao\n     ‘Zay mino no hiaina\n     Fiainan-danitra rahatrizay\n\n2.  Mpanota ô ! mihevera, \n     Ny andronao ety\n     Hirodana hianjera, \n     Tsy haharitra doria\n\n     Jesosy no banjino, \n     Voahombo ho anao, \n     Ny feonay mamelovelo\n     Miantso hoe «  avia izao  ».\n\n3.  Mandalo ny eto an-tany, \n     Ho foana sy ho lao\n     Koa sainonao hatrany\n     Ny hoavinao\n\n     Ny fasana nandavo, \n     Nandringana tokoa\n     Raha maty tsy mibebaka\n     Dia ho neninao tokoa</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "214",
+            "titre": "Fanomezan-tsarobidy",
+            "hira": "<pre><h4 class='padding'>\n1.  Fanomezan-tsarobidy\n     Efa natolotr’Andriamanitra\n     (Mba ho ahy)\n     Ho ahy, ho anao, \n     Ho an’izao tontolo izao, \n     ‘Zay tafasaraka\n     Noho ny ota natao taminy, \n     Tsy nohazonina tao an-dapa\n     Be voninahitra, \n     Jeso Tompo ‘lay teny\n     Tonga nofo\n     Miara-monina amiko\n     (Aminao)\n     Sy amin’izay manaiky\n     Hiaina ny fiainany.\n\n          (Jeso Tompo)\n          Tompon’ny finoana, \n          Fanantenana, fitiavana. \n          Ny firaisana Aminy\n          Tena hery, tena fiainana.\n\n2.  Efa noraisinao ve\n     Ilay zanak’Andriamanitra\n     (‘Zay nomena)\n     Nomena ho antsika\n     Mba ho fanavotana, \n     Ho fampihavanana\n     Amin’ny Tompo\n     Sy amintsika koa ;\n     Tsy fampihavanana\n     ‘Zay mandalo fa maharitra :\n     Jeso Tompo ‘lay teny\n     Tonga nofo\n     Feno fahasoavana\n     (Fifaliana)\n     Ka manavao izay manaiky\n     ‘Lay fiainantsoa.\n\n     (Jeso Tompo)…</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "215",
+            "titre": "Zao ny hafatsy",
+            "hira": "<pre><h4 class='padding'>\n1.  Zao ny hafatsy \n     Ambara andrareo\n     Mpivory maro\n     Intoa izahay\n     Minday ny feo\n     Mifalia (Mifalia re)\n\n          Mamoaza voa fibebahana\n          Izay mibebaky\n          Mahazo soa\n          Amen !\n\n2.  No hazo ratsy\n     Avô n’ambole\n     Dra voa mafy\n     Fa ndre ny voany\n     Ho vatobe\n     Ratsy (Dra mbô ratsy)\n\n3.  Ny hazo ratsy \n     Tsy mamoa oa\n     Fa vandy zay\n     Manahak’an-tena\n     Tsy mety toroa\n     Mahafiray !</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "216",
+            "titre": "Ranon’aina izay tena mateza",
+            "hira": "<pre><h4 class='padding'>\n1.  Ranon’aina izay tena mateza\n     Ao an-tampon’i Kalvary\n     Saro-dalana sady mideza\n     Nefa kosa tsy lavitra anao\n\n          Ranon’aina, tsara loatra\n          Mora azon’ny maniry azy re\n          Tsy mba eto fa any an-koatra\n          ‘Zay tafiditra ao \n          Dia tretrika tokoa.\n\n2.  Loharano tsy mety ho ritra\n     Fa maharitra mandrakizay\n     Manadio ny loto rehetra\n     Ikambanana amin’ny Ray\n\n3.  Ny fitiavan’i Jesosy Tompo\n     No manolotra io rano io\n     Ka manafaka ny mampisento\n     Hatak’andro, tapaho ny hevitrao.\n\n4.  Tonga Jeso hamonjy ny maro\n     Izay mibebaka dia matokia\n     Ny Fanahy masin’ny Tompo\n     Manadio ny loto ao am-po\n\n5.  Ireo Jiosy manao ranolava\n     Mba hanototra io rano io\n     Nefa kosa tsy maintsy misava\n     Ny fiboikany tsara tokoa</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "217",
+            "titre": "Paio ’ty misy Ananahary",
+            "hira": "<pre><h4 class='padding'>\nPaio ’ty misy Ananahary\nAho rô tsy te hijaly, Ale paio\nPaio ‘’ty misy Ananahary\n\nLongoe, longoe, longoe\nTsy mifily volon’olo, ndrate rate\nNdrate rate lo lo lo, hety hete\nTie tie, Nanahare\nLongoe, longoe, longoe.</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "218",
+            "titre": "Ary fantatsika fa",
+            "hira": "<pre><h4 class='padding'>\n1.  Ary fantatsika fa\n     Ny zavatra rehetra\n     Miara-miasa hahasoa\n     Izay tia an’Andriamanitra\n     Koa heveronao\n     Fa ireo fahasoavan’i Jesosy\n     Dia ampy hahasambatra ô\n     Anao mandrakizay.\n\n2.  Izaho hoy Jeso\n     Mahalala ny hevitra \n     Hiheverako anao\n     Hanananao fiadanana\n     Koa heveronao\n     Satria sitraky ny Tompo\n     ‘Zato fahorianao\n     manatòna Azy izao\n\n3.  Ny fifaliana \n     Avy tamin’i Jehovah\n     Raisiko ho fiarovana\n     Raha sendra ady mila handreraka\n     Koa heveronao\n     Ry foko ô, Jesosy tsy mandao\n     Andriamanitra Fitiavana ô\n     Matokia Azy izao.\n\n4.  Ny tenako Jeso \n     Maloto ka sasao\n     Mba ho mendrika handray\n     Ny fitiavana atolotrao\n     ‘Zaho izao Jeso\n     Dia vonona hanaraka Anao\n     Ka ny fiainako rehetraEntiko hiderana \n     Anao</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "219",
+            "titre": "Fa ia e ! ia ro no nanavao anao e ",
+            "hira": "<pre><h4 class='padding'>\nFa ia e ! ia ro no nanavao anao e !\nRo vona tsa miraika hatramin’izao e !\nFa leky nogodagodanina anao e !e !\nVona tsa miraika mba ho vao e !\n\nAtsia toy !\nJeso roa ro fanavaozana !\nAry tena fanorenana !\nFa leky fo mainty sy rovitsa e !\nVona ! ro ianteherana, a ! a ! a !\nVona ro iorenana\nE ! e ! e ! e !\n\nFa ia e ! ia ro no nanorina anao e !\nRo vona tsa miantomboka hatrizao e !\nFa leky notolorana Azy anao e ! e !\nNahifikao koa raha kilaolao e !\n\nAtsia toy !…</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "220",
+            "titre": "Tu peux naître de nouveau",
+            "hira": "<pre><h4 class='padding'>\n1.  Tu peux naître de nouveau, \n     Tu peux tout recommencer\n     Balayer ta vie passée\n     Et repartir à zéro (bis)\n     Avec Jésus pour berger\n     Et repartir à zéro (bis)\n     Avec Jésus pour berger\n\n2.  Tu peux boire cette eau\n     Source de la pureté, \n     Source de la verité.\n     Tu peux boire de cette eau (bis)\n     Source de l’éternité.\n     Tu peux boire de cette eau (bis)\n     Source de l’éternité.\n\n3.  Tu peux être pardonné\n     Pour tous tes péchés passés\n     Car Jésus a tout payé\n     Tu peux recevoir la paix (bis)\n     Source de la liberté, \n     Et repartir à zéro (bis)\n     Avec Jésus pour berger.</h4></pre>",
+            "mark": "(REPRODUIT AVEC AUTORISATION,ALAIN BERGESE 1989)"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "221",
+            "titre": "Comme l’argile",
+            "hira": "<pre><h4 class='padding'>\n1.  Comme l’argile, \n     L’insecte fragile\n     L’esclave docile, \n     Je t’appartiens\n     De tout mon être, \n     Tu es seul le maître\n     Je veux me soumettre\n     Je t’appartiens.\n\n     Si tu condamnes\n     Je tends mon âme\n     Au cœur des flammes\n     Je n’y peux rien\n\n     Avec les peines \n     L’amour et la haine\n     Coulant dans mes veines\n     Je t’appartiens\n\n2.  Que puis-je faire\n     Pour te satisfaire\n     Seigneur de la terre\n     Sur mon chemin\n     Comme les anges\n     Chanter tes louanges\n     Mais je ne suis pas un ange\n     Tu le sais bien\n\n     Je ne suis qu’un homme\n     Rien qu’un pauvre homme\n     Qui t’aime comme\n     Comme un copain\n\n     Souvent je pense\n     Que dans ton immense\n     Palais de clémence\n     Tu dois être bien, \n     Je t’appartiens.</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "222",
+            "titre": "Le sage sur le roc",
+            "hira": "<pre><h4 class='padding'>\n1.  Le sage sur le roc, \n     A bâti sa maison, \n     Et la tempête arriva\n     La pluie tomba, \n     Et le vent souffla, \n     Et la maison résista.\n\n2.  Le fou, sur le sable\n     A bâti sa maison \n     Et la tempête arriva.\n     La pluie tomba\n     Et le vent souffla \n     Et la maison s’écroula.\n\n3.  Bâtissez votre vie\n     Sur Jésus, le Sauveur \n     Et vous serez tous bénis.\n     Vous serez tous bénis\n     Pendant toute votre vie \n     Batissez donc sur Jésus</h4></pre>",
+            "mark": "(TIRÉ DU RECUEIL – CHŒUR JOYEUX)"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "223",
+            "titre": "Je suis jeune et délivré",
+            "hira": "<pre><h4 class='padding'>\n1.  Je suis jeune et délivré\n     Du fardeau de mes péchés\n     Maintenant je suis fort et heureux, \n     Marchant avec l’Eternel\n     Parmi ceux qui vont au Ciel\n     Vers la sainte demeure de Dieu.\n     Oui, d’être jeune, \n     C’est merveilleux\n     C’est mieux encore d’être sauvé\n     Pourtant voici le mieux de tout :\n     Jeune et sauvé de tous péchés.\n\n2.  Je suis jeune et bien content\n     De servir par le talent\n     Que la grâce de Dieu m’a donné\n     Tous sont appelés de Dieu\n     A mener les malheureux\n     Vers Jésus le Sauveur des perdus.\n\n3.  Je suis jeune et toi aussi\n     Ecoute mon chant ici ;\n     Ne désires-tu pas le bonheur ?\n     Dieu t’appelle à son salut, \n     Viens ! Reçois-Le par Jésus, \n     Sois heureux comme moi \n     Dans ton cœur.</h4></pre>",
+            "mark": "(TIRÉ DU RECUEIL – CHŒURS JOYEUX)"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "224",
+            "titre": "Sur le chemin va sans peur",
+            "hira": "<pre><h4 class='padding'>\n1.  Sur le chemin va sans peur\n     Car Jésus est devant toi, \n     Il veut être ton Sauveur\n     Oh ! suis-Le, oh ! suis-Le par la foi\n\n          Et maintenant saisis\n          La main de ton Sauveur, \n          Car Lui seul te donne\n          L’Eternel bonheur\n          Il a donné sa vie sur la croix\n          Oh ! suis-Le, oh ! suis-Le\n          Par la foi\n\n2.  Et si tombes en chemin, \n     Regarde à Jésus ton Roi, \n     Il est dans le lieu très saint\n     Et Il prie, et Il prie pour toi\n\n3.  Un jour Jésus reviendra\n     oh ! quel immense bonheur\n     Dans son ciel Il te prendra\n     Bénis-Le, bénis-Le dans ton cœur</h4></pre>",
+            "mark": "(TIRÉ DU RECUEIL – CHŒURS JOYEUX)"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "225",
+            "titre": "Tamin’ny fo no tena ninoanay",
+            "hira": "<pre><h4 class='padding'>\n1.  Tamin’ny fo no tena ninoanay\n     Fa Jesosy no tonga hamonjy anay\n     Tamin’ny vava no tena nanekenay\n     Fa ny rany no nanadio anay.\n\n          Vavaky ny Tompo mba ho iray\n          Fanahy izay nomeny mampiray\n          Fanahy fitiavana koa ny Ray\n          Nahoana lahy raha mifankatia\n          Mifankatiava hoy ny Tompo\n          F’izany no hamantaran’\n          Ny olona rehetra \n          Fa mpianatro ianareo\n\n2.  Tsy iray finoana f’iray ao aminao\n     Tsy iray fiaviana f’iray an-dapanao\n     Tsy iray fiteny fa samy henoinao\n     Tsy iray fihodirana fa samy zanakao</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "226",
+            "titre": "Manana latabatra",
+            "hira": "<pre><h4 class='padding'>\n1.  Manana latabatra\n     Voaomana Jeso\n     Hamahanany ireo olo-masina\n     Ny voafidy no antsoiny \n     Hiaraka mihinana\n     Ny fanahy izay reraka dia afa-po\n\n          O ! avia ka mihinàna\n          Fa miandry anao Jeso\n          Ny latabatry ny Tompo\n          Azonao ihinanana\n          ‘Lay namoky marobe\n          Nanova rano ho divay\n          Miantso ny noana \n          Hiara-komana Aminy\n\n2.  Ho avy faingana handray\n     Ny fofombadiny Jeso\n     Ho eo anilany mandrakizay doria\n     Ireo maro any an-danitra \n     Ho avy hanatrika\n     Ny fampakarambadin’i \n     Kristy Jeso.\n\n3.  Fivorian-dehibe\n     Sy feno voninahitra\n     Ho fotsy manjopiaka ireo masina\n     Hiara-paly sy hihoby\n     Sy hiaraka manjaka\n     Amin’i Kristy Tompo \n     Mandrakizay</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "227",
+            "titre": "Jeso Mpamonjiko",
+            "hira": "<pre><h4 class='padding'>\n1.  Jeso Mpamonjiko\n     Avy Aminao ry Ray.\n\n2.  Baiboly teny soa\n     Avy Aminao ry Ray.\n\n3.  Fifankatiavana\n     Avy Aminao ry Ray.\n\n4.  Fifaliana \n     Avy Aminao ry Ray.\n\n5.  Fahasambarana\n     Avy Aminao ry Ray.</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "228",
+            "titre": "Nous sommes frères et sœurs",
+            "hira": "<pre><h4 class='padding'>\nNous sommes frères et sœurs\nNous sommes frères et sœurs\nEt nous aimons servir le Seigneur\n(Oui le Seigneur)\nEt nous demeurons ensemble\nDans la famille du Seigneur.</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "229",
+            "titre": "Tous unis dans l’Eprit",
+            "hira": "<pre><h4 class='padding'>\n1.  Tous unis dans l’Eprit\n     Tous unis en Jésus\n     Nous prions que bientôt\n     Ce qui divise ne soit plus.\n\n          Et le monde saura\n          Que nous sommes chrétiens\n          Par l’amour dont\n          Nos actes sont empreints\n\n2.  Nous marchons côte à côte\n     Et la main dans la main \n     A la table du Roi\n     Nous partageons le même pain.\n\n3.  D’un seul cœur nous voulons\n     Travailler pour Jésus \n     Proclamer à tout homme\n     Qu’il nous offre le salut\n\n4.  Gloire au Dieu Créateur\n     De la terre et des cieux\n     Gloire au Fils éternel\n     Rédempteur glorieux\n     Gloire, gloire à l’Esprit\n     Qui verse en nous\n     L’amour de Dieu</h4></pre>",
+            "mark": "© COPYRIGHT 1966, F.E.L PUBLICATIONS, LTD LOS ANGELES USA,AVEC AUTORISATION.PAROLES FRANÇAISES : © COPYRIGHTLIGUE POUR LA LECTURE DE LA BIBLE,1010 LAUSANNE, SUISSE, AVEC AUTORISATION)."
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "230",
+            "titre": "Seigneur, nous arrivons",
+            "hira": "<pre><h4 class='padding'>\nSeigneur, nous arrivons \nDes quatres coins de l’horizon\nNous voilà chez Toi (chez Toi)\nSeigneur, nous arrivon \nDes quatres coins de l’horizon\nDans ta maison\n\n1.  Nous avons marché \n     Sur les routes humaines, \n     Nous avons porté \n     Le fardeau des jours ;\n     Nous avons souffer\n     La fatigue et la peine, \n     Nous avons offert\n     Simplement notre amour\n\n2.  Nous avons marché\n     Au milieu de nos frères\n     Nous avons porté\n     Le poids de nos jours ;\n     Nous avons souffert\n     En voyant leur colère, \n     Nous avons offert\n     Simplement ton amour.\n\n3.  Nous voici enfi\n     Tous autour de la table, \n     Rassemblés ici\n     Pour parler de Toi\n     Tu nous a nourris, \n     D’un amour formidable ;\n     Et nous Te chantons\n     Simplement notre joie.\n\n          Seigneur, nous arrivons\n          Des quatres coins de l’horizon, \n          Nous voilà chez Toi\n          Seigneur, nous Te chantons\n          Nous Te louons, \n          Comme il fait bon\n          Dans Ta maison</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "231",
+            "titre": "Mais oui, le Seigneur est bon",
+            "hira": "<pre><h4 class='padding'>\nMais oui, le Seigneur est bon (2)\nIl a fait pour nous des merveilles\nAvy Aminao ry Ray.\nJe veux Lui chanter mon amour.\n\n1.  Nous marchons ensemble (2)\n     Vers ce beau pays, là-haut !\n     Nous marchons ensemble (2)\n     Vers ce paradis, là-haut.\n\n2.  Oui, Jésus nous aime (2)\n     Dans ce beau pays, là-haut !\n     Oui, Jésus nous aime (2)\n     Dans ce paradis, là-haut.\n\n3.  Quelqu’un nous attend (2)\n     Dans ce beau pays, là-haut !\n     Quelqu’un nous attend (2)\n     Dans ce paradis, là-haut.</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "232",
+            "titre": "Enfants de la même cité",
+            "hira": "<pre><h4 class='padding'>\n1.  Enfants de la même cité\n     Eglise du Seigneur\n     Enfants de la même cité\n     Nous n’avons qu’un seul cœur.\n\n          Restons toujours unis \n          Mes frères\n          Jesus est parmi nous\n          Comme il nous a promis\n          Mes frères\n          Si nous nous aimons tous.\n\n2.  C’est l’ordre de notre Sauveur\n     Qui nous a tant aimés\n     C’est l’ordre de notre Sauveur\n     Rester dans l’unité.\n\n3.  Si nos chemins sont différents\n     Ils n’ont tous qu’un seul but\n     Si nos chemins sont différents\n     Ils vont tous à Jésus\n\n4.  Que Dieu qui veut notre bonheur \n     Nous garde en son amour\n     Que Dieu qui veut notre bonheur\n     Nous réunisse un jour.</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "233",
+            "titre": "We are one in the Spirit",
+            "hira": "<pre><h4 class='padding'>\n1.  We are one in the Spirit\n     We are one in the Lord \n     And we pray that all unity\n     May one day be restored.\n\n          And they’ll know\n          We are christians\n          By our love, by our love\n\n          Yes, they ‘ll know…\n\n2.  We will walk with each other\n     We will walk hand in hand\n     And together we’ll spread the news\n     That God is our Lord\n\n3.  We will work with each other\n     We will work side by side\n     Ans we’ll guard each man’s\n     Dignity\n     And save each man’s pride.\n\n4.  All praise to the Father\n     From whom all things come, \n     And all praise to Christ Jesus\n     His only Son, \n     And all praise to the Spirit\n     Who makes us one.</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "234",
+            "titre": "Tompo tokana no ahy ety",
+            "hira": "<pre><h4 class='padding'>\nTompo tokana no ahy ety \nHatrety ka ho doria \nTsy mba misy roa na telo na hafa\nFa tokana natao ho ahy\nJesosy no ahy, Izy no ahy \nToky sy aro ho ahy</h4></pre>"
           },
           {
-            "num" : "167",
-            "titre": "Titre",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "num" : "235",
+            "titre": "‘Zaho niara-voahombo",
+            "hira": "<pre><h4 class='padding'>\n1.  ‘Zaho niara-voahombo\n     Taminao ry Kristy ô\n     Aina vao no he mitombo\n     Ao anatiko izao \n     Efa levona sy maty\n     ‘Zany otako taloha\n     Indro velona ao anaty \n     Ianao Mpamonjy soa. \n\n2.  ‘Zaho mino sy matoky\n     Fa ny dianao tety \n     Misy vonjy mahatoky\n     ‘Zay mitondra ahy ho ary\n     ‘Zaho lohan’ny mpanota \n     He mba voavonjy koa\n     Voasasa tamin’ny ota \n     Voadionao tokoa.\n\n3.  ‘Zaho re miombona aina\n     Aminao ry foto-tsoa\n     ‘Reo adidy ho efaina\n     Tontosaiko ka mamoa\n     Fa ho sampana malazo\n     Raha misaraka Aminao\n     Tsy mifoka ranon-kazo \n     Ka ho maina sy ho lao. \n\n4.  Zaho Jeso manatena\n     Fa ho avy Ianao\n     Haka ahy mba ho tena\n     Sambatra ao an-tranonao\n     ‘Zay hitoerako hoy Ianao\n     Ho ao koa ianareo\n     ‘Zaho Jeso miandry Anao\n     F’efa vonon-drahateo.</h4></pre>"
           },
-*/
-
-
+          {
+            "num" : "236",
+            "titre": "Tsy haiko mihitsy ny hanambara",
+            "hira": "<pre><h4 class='padding'>\n1.  Tsy haiko mihitsy ny hanambara\n     Nahoana moa Ianao Jeso \n     No dia nandao ny lapa tsara\n     Ka niara-monina amiko ?\n\n          Nefa zavatra iray loha\n          No hany haiko ka ho dradraiko\n          Nomenao ho ahy ry tompo soa\n          Ny fiainam-baovao.\n\n2.  Tsy haiko mihitsy ny hitanisa\n     Ny heloka efa vitako\n     Lavitra ahy ny paradisa\n     Nandetika ny ditrako.\n\n3.  Tsy haiko mihitsy ny hisaina\n     Ny halalin’ny fitiavanao\n     Ry Tompo mendrika ho deraina\n     Hatraiza re ny herinao ?</h4></pre>"
+          },
+          {
+            "num" : "237",
+            "titre": "Jeso tia ny fanahiko",
+            "hira": "<pre><h4 class='padding'>\n1.  Jeso tia ny fanahiko\n     Tompo soa mpamela heloka\n     Sy mpanolokolo fo tokoa\n     Zavatra rehetra amiko.\n\n          Tretrika aho manana Anao\n          Soa mahafa-po Ianao\n          Toky, hery sy sakaiza koa\n          Zavatra rehetra amiko.\n\n2.  Fifalian’ny nofo foana moa\n     Na izay filan’ny maso koa\n     Na ny rehak’izao tany izao\n     Tsy hamoizako anao Jeso.\n\n3.  Eo an-tongotrao voahombo koa\n     No andohalehako tokoa\n     Mba hanaja sy handre ilay feo\n     Bitsibitsi-pitiavana.</h4></pre>"
+          },
+          {
+            "num" : "238",
+            "titre": "‘Lay hafaliana anatiko ao",
+            "hira": "<pre><h4 class='padding'>\n‘Lay hafaliana anatiko ao\nTsy mba ho tsapanao\nRaha tsy efa noraisinao\n‘Lay namonjy anao\nF’izay nandray ny vonjiny\nDia velon-karavoana ery\nNy hafaliany, hafaliana\nHaharitra ho doria.\n\n1.  Na dia homena ahy aza\n     Izao tontolo izao\n     ‘Reo rendrarendra izay mora\n     Izay mora mahababo anao\n     Tsy hatakaloko ny ahy\n     Izay tsy mba ivelany\n     Ny hafaliako, hafaliana\n     Haharitra ho doria.\n\n2.  Mbola ho tsapanao ny hoe :\n     « Voavela heloka  » \n     Mbola hiainanao izany hoe :\n     «  Fiainam-baovao  » \n     Ny hany hafarako anao\n     Ekeo ‘lay avotra ho anao\n     Ny hafalianao. hafaliana\n     Haharitra ho doria</h4></pre>"
+          },
+          {
+            "num" : "239",
+            "titre": "‘Lay hafaliana ao anaty",
+            "hira": "<pre><h4 class='padding'>\n1.  ‘Lay hafaliana ao anaty\n     Iainanay izao\n     Dia vokatry ny famonjena\n     Efa vitanao\n     Nitafy nofo Ianao, \n     Dia nolalovanao\n     ‘Lay hazofijaliana iray\n     Mba hisandratanay.\n\n2.  Tsy tonga hamonjy \n     Ireo olo-marina Ianao\n     Fa ny mpanota izay\n     Maniry ny hanjakanao\n     Nitsangana Ianao, \n     Nandresy fasana \n     Mba hanamarina izay\n     Nandray ny vonjinao.\n\n3.  Tanteraka ny famonjena\n     Izay natolotrao\n     Ka zovy moa izay nandray \n     No tsy hisaotra Anao\n     Ny hafaliany tsy mba ivelany\n     Satria iainany ao anaty\n     Haharitra ho doria.</h4></pre>"
+          },
+          {
+            "num" : "240",
+            "titre": "Tsy misy soa ho ahy afa-tsy Jeso",
+            "hira": "<pre><h4 class='padding'>\n1.  Tsy misy soa ho ahy afa-tsy Jeso\n     Nafoiko ny haren’ny tany\n     Manan-karena aho nahita Azy\n     Faly ao Aminy re aho.\n\n          Faly aho miaraka amin’ i\n          Jesosy tokana ihany\n          Na dia mahantra aza \n          Mbola manao hoe :\n          Faly ao Aminy re aho.\n\n2.  Fony tsy nisy avotra fisoloana\n     Sy ho fampanekena ny Ray\n     Dia nanolon-tena hanavotra ahy\n     Tamin’ny rany Jesosy.\n\n3.  Raha meloka \n     Ao amin’ny famoizam-po \n     Tsy misy ny fahazavana\n     Jesosy kosa nanao ahy\n     Ho mpandova\n     Ny lapan’ ny voninahitra.</h4></pre>"
+          },
+          {
+            "num" : "241",
+            "titre": "He, tiako hambara",
+            "hira": "<pre><h4 class='padding'>\n1.  He, tiako hambara\n     Izao teny mamiko\n     Ny amin’i Jesosy\n     Ilay Mpamonjiko, \n     He mamiko indridra\n     Ny fitiavany, \n     Ka tiako hambara\n     Ny voninahiny.\n\n          He, tiako hambara\n          Jesosy tompo tsara\n          He, tiako hambara\n          Ny fitiavany.\n\n2.  He, mamiko indrindra\n     Jesosy be fitia\n     Ka tiako hambara \n     Ny soa vitany ;\n     Tsy takatry ny saina\n     Ny fitiavany\n     Nomeny mba handresy\n     Ny fahafatesana.\n\n3.  He, tiako hambara\n     Ny fitiavany \n     Ho an’izay mahantra\n     Sy ao ivelany\n     He, tiako hambara\n     Ho an’ izay mania\n     Ny lalam-pamonjena :\n     Jesosy be fitia.\n\n4.  He, mamiko ny teny\n     Ka tiako ery\n     Ny hanambara azy\n     Ho ren’ny olony, \n     He, tiako hambara \n     Ny Tompo be fitia\n     Ho ren’izay maniry \n     Ny fahamarinany.</h4></pre>"
+          },
+          {
+            "num" : "242",
+            "titre": "Raha tsinjonao ny tao anatiko tao",
+            "hira": "<pre><h4 class='padding'>\nRaha tsinjonao ny tao anatiko tao\n‘Lay tena fahambanian’ny toetrako\nAngamba hanotany tena ianao hoe :\nNahoana no tia ahy Jeso ? \n\nKanefa dia zavatra iray loha\nNo hany haiko ka indro ambarako\nNomen’ny Tompo ahy hatramin’izao \n‘Lay tena fiainam-baovao.</h4></pre>"
+          },
+          {
+            "num" : "243",
+            "titre": "Fony tsy nanam-pinoana taloha",
+            "hira": "<pre><h4 class='padding'>\n1.  Fony tsy nanam-pinoana taloha\n     Tsy nanan-kantenaina koa\n     Nahilan-drivotra tetsy sy teroa\n     Tsy nisy ny nahafa-po\n     Soa ihany fa teo ny Mpamonjy\n     Nomeny ny tenany\n     Ny fiainako tojo ny vonjy \n     Sy fiorenany.\n\n          Iray no natao fanorenana\n          Dia Jeso Kristy vato velona\n          Ka tsy misy izay tahaka Azy\n          N’inona kanto ety.\n\n2.  Ankehitriny raha misy manjo\n     Jeso tsy mba mandao ahy \n     Ny sitrapony no tari-dalako\n     Anio sy ho mandrakizay\n     Finaritra ery ny tena \n     Mitoetra eo an-tanany \n     Na ny asa atao na ny harena\n     Dia ho fanany</h4></pre>"
+          },
+          {
+            "num" : "244",
+            "titre": "Tsy hangina ny foko",
+            "hira": "<pre><h4 class='padding'>\nTsy hangina ny foko\nHe azoko toka \nNy famonjena ahy\nRavoravo ery ny fanahy\nHe olona afaka aho e !\nTsy hangina ny foko \nHe azoko tokoa\nNy famonjena ahy\nRavoravo ery ny fanahy\nAfaka aho.\n\nTsy hohadinoiko re\nRaha mbola miaina koa\n‘Lay fitiavan-dehibe\n‘Zay nanavotana ahy tokoa\nTanatin’ny haizin-kitroky\nNy famoizam-po\nHe afaka, afaka aho\nHe azoko tokoa \nNy famonjena ahy\nNy Tompo nanavotra ahy\nHe afaka aho !\n\nTsy ho hadinoiko re \nRaha mbola miaina koa\n‘Lay fitiavan-dehibe\nNanavotana ahy tokoa !\nAvotra no azoko\nVoavaha ny fatotro\nHo tanako tokoa\nIlay famonjena ahy \nEfa maty aho\nVoagejan’ny otako\nKanefa tsapako\nFa voavonjy aho\nNoho ‘lay Mpamonjy\nKa afaka aho !</h4></pre>"
+          },
+          {
+            "num" : "245",
+            "titre": "Jesosy ro Hazomanga soa",
+            "hira": "<pre><h4 class='padding'>\n1.  Jesosy ro Hazomanga soa\n     Fitahia ndrake \n     Firengeam-be tokoa\n     Ny mino Azy olo afaka havoa\n     Ny devoly lavitsa aze moa.\n\n2.  Ndra inoino ny soa etoy\n     Jeso tsy atakalo \n     Ndrake tsy azo afoy.\n     Tsy ampirafese amin-drate fiatao \n     Ny finoan’Azy anate ao.\n\n3.  Baiboly ro haveloma tokoa\n     Tano ka vakio \n     La ka mihemotse koa ;\n     Taomy ny longo \n     mba ho afa-kavoa\n     Fa Jeso ro hazomanga soa.\n\n          Ahiko Jeso bak’etoy \n          Ahiko Jeso trak’eroy\n          La vareake n’aiko izao \n          Manana an’i Jeso anateko ao.</h4></pre>"
+          },
+          {
+            "num" : "246",
+            "titre": "Velognay vareake tratr’etoy",
+            "hira": "<pre><h4 class='padding'>\nVelognay vareake tratr’etoy \nAndron’i Jesosy Tompo soa\nLa misinisiny n’aiko ‘zao \nNdr’olo maro ro nandrara anay\nTsy engako Jeso Tompo soa.\n\n          Ndra ho mate\n          Ndra hovelo\n\nJeso Hazomangako \n‘Reo pasitora tsy miroroMampadroso \nantsika Masikoro\nOlo iaby toy le fa mandroso\nMimenara antsika longoko</h4></pre>"
+          },
+          {
+            "num" : "247",
+            "titre": "’Reo fitiavana mamy indrindra",
+            "hira": "<pre><h4 class='padding'>\n1.  ’Reo fitiavana mamy indrindra\n     Dia ny fitiavanao Jeso \n     Tsy misy atakaloko Anao \n     ‘Reo harena ‘zay mety lo.\n\n          Fitiavana feno\n          Natolotrao ho ahy Jeso \n          Sarobidy be no\n          Tena tsara tokoa.\n\n2.  Tena maro ‘reo zavatra soa\n     Manintona ny masonao\n     Toy ny volamena vatosoa\n     Tsy mitondra famonjena\n\n3.  Torio ny fitiavan’i Jeso\n     Ho amin’izao tontolo izao\n     Ho famonjena ny fanahin’\n     Ireo izay tsy mino koa</h4></pre>"
+          },
+          {
+            "num" : "248",
+            "titre": "Sambatra raha samy sambatra",
+            "hira": "<pre><h4 class='padding'>\nSambatra raha samy sambatra\nNy olona manam-piadanana\nFiadanana avy amin’i Jeso\nDia Jeso Tompon’ny maro\nSambatra raha samy sambatra\nNy olona manam-piadanana\nFiadanana avy amin’i Jeso\nFiainana mandrakizay.\n\n1.  Heverin’ny olona maro\n     Fa ny vola no tena fiainana\n     Ny harena no tena anankinany\n     Ny hoaviny iray manontolo\n     Kanefa mandalo ihany\n     Fa tsy mba maharitra akory\n     Tsy tahaka ny fanomezan’i Jeso.\n\n2.  Nivezivezy foana\n     Nikaroka ny fifaliana\n     Nandany taona maro \n     Nikatsaka ny fiadanana\n     Kanefa dia tsy mba nahita\n     ‘Zay tena mahafapo\n     Mahakivy tokoa \n     Fa tsy toy ny an’Jeso.</h4></pre>"
+          },
+          {
+            "num" : "249",
+            "titre": "Fanavaozana izay mahagaga tokoa",
+            "hira": "<pre><h4 class='padding'>\n1.  Fanavaozana izay mahagaga tokoa\n     Nomen’i Jesosy ahy re !\n     Fahazavan’ny fanahy\n     Izay mahafapo\n     Nomen’i Jeso ahy re !\n\n          Hatramin’izao dia endrey, endrey.\n          Ny fitempon’ny foko \n          Izay ravo tokoa\n          Onenan’ny Tompo Jeso.\n\n2.  Ny fiainako be siasia taloha\n     Voaova mihitsy izao\n     Eny ny fahotako izay nahavoa\n     Voasasany koa izao.\n     Hatramin’izao, sns.\n\n3.  Ny finoako\n     Ny fanantenako dia be\n     Ny tokiko fatratra koa\n     Ny fisalasalana dia levona re\n     Ny saiko mandroso ho soa.\n     Hatramin’izao, sns.\n\n4.  Tonga mamirapiratra fatratra ery\n     Ny aloky ny faty re !\n     Ka dia tsinjoko ilay vavahady ary\n     Mankao antanan-dehibe.\n     Hatramin’izao, sns.\n\n5.  Tsy miato mizotra mankany tokoa\n    Ny diako hatramin’izao\n    Hovantaniko any ilay Tompo soa\n    Jesosy malala no ao.\n    Hatramin’izao, sns.</h4></pre>"
+          },
+          {
+            "num" : "250",
+            "titre": "Rehefa napetrako teo",
+            "hira": "<pre><h4 class='padding'>\n1.  Rehefa napetrako teo\n     Am-pelatanan’i Jeso\n     Ny fiainako rehetra\n     Indro fa tsapako\n     Hay tsisy fotony\n     Ny fiainako taloha\n     Ankehitriny aho sambatra tokoa.\n\n          Lazaiko anao anio ry namako\n          Ny fifalian’ny tany\n          Tsy mba mahasoa\n          Fa fifaliana tsy mba maharitra\n          Ao amin’i Jeso tena mahasambatra.\n\n2.  Maro mpitady ny fahasambarana\n     Nefa tsy mba mijery\n     Ilay hany lalana\n     Fa ny nizorany, lala-malalaka\n     Mamirapiratra nefa sandoka.\n\n3.  O ! ry mpitady ny fahasambarana\n     Jeso miantso anao, Izy no lalana\n     Fahamarinana tena azo antoka\n     Izy no hanome ny fahasambarana.</h4></pre>"
+          },
+          {
+            "num" : "251",
+            "titre": "Mahagaga loatra lahy",
+            "hira": "<pre><h4 class='padding'>\n1.  Mahagaga loatra lahy\n     Ny fitiavan’i Jeso\n     Fa izaho efa very\n     Nefa notadiaviny ;\n     Eny tsapako tokoa\n     Fa ny rany sarobidy\n     No nalatsany mba\n     Hanavaozany ahy indray\n\n     Faly aho ankehitriny\n     Fa navotan’i Jeso\n     Ka ny fiainako taloha, \n     Nohavaoziny indray ;\n     Ary ireo sorisory\n     Dia novainy ho fifaliana\n     Tsy ananan’izay\n     Tsy mba manana Anao.\n\n     He sambatra aho, \n     Sambatra aho Jeso\n     Fa manana Anao Mpanome \n     Fiadanam-po ao anatiko\n     Misaotra Anao Jeso o\n     ‘Ty voavonjinao\n     Fa nahazo ilay fiainam-baovao.\n\n2.  Vonona aho ankehitriny\n     Hanambara ny asanao\n     Ka ny heriko rehetra\n     No hatokako ho Anao, \n     Koa na mafy aza re\n     Ny ady izay atrehiko eto\n     Miandrandra Anao \n     ‘Zay tsy mahasaraka.\n\n     Jeso tantanonao, \n     O mba mitahia\n     Ny mpanomponao kely hery\n     Sy mania, mila ny herinao\n     Atolotro Anao ny fiainako\n     Tompo ô ! ho Anao \n     Ka anjakao</h4></pre>"
+          },
+          {
+            "num" : "252",
+            "titre": "Izao tontolo izao",
+            "hira": "<pre><h4 class='padding'>\n1.  Izao tontolo izao\n     Mifamahofaho ato an-tsaina\n     Mitamberimberina ao\n     Ireo natao sy nolalaina\n     Nisy fifaliana ihany\n     Saingy vetivety foana\n     Nisy fahendrena ihany\n     Saingy ireo dia zava-poana\n\n          Ts’isy nenina \n          Ny nandraisana an’i Jeso\n          Ts’isy nenina\n          F’izay miala ihany \n          No hanenina\n\n2.  Ny mpanota notadiaviny\n     Ny tsy tia notiaviny\n     Dia Jesosy be fitia\n     ‘Zay nivesatra ny ota\n     Tao Gologota\n     Tantara diso fantatra loatra\n     O ! tsy tana anefa nitroatra\n     Ilay fo nahatsapa\n     Fa voafatotra\n     Ka nandray ny Mpamonjy\n     ‘Zay Tompo mahafinaritra\n\n3.  Na dia mafy aza re\n     Ny manjo raha sendra ady\n     Ny famonjena lehibe\n     Moa ilaozanao sahady \n     Koa aoka ho feno fiderana\n     F’efa afaka, \n     Voavotra\n     Tao anaty fahotana\n     Mba hiadana finaritra</h4></pre>"
+          },
+          {
+            "num" : "253",
+            "titre": "Ity hita maso ity dia mihelina",
+            "hira": "<pre><h4 class='padding'>\nIty hita maso ity dia mihelina \nIhany sy mandalo\nToerana fivahiniana ny eto\nLavitra ny hasambarana lava ny eto\nAny an-danitra ihany\nNo misy toerana\nLavitr’izay mampisento\nFeno hafaliana sy feno haravoana\nNy mponina any\nAny an-danitra ihany\nNo misy toerana\nLavitr’izay mampisento.</h4></pre>"
+          },
+          {
+            "num" : "254",
+            "titre": "Oh ! Jésus m’aime",
+            "hira": "<pre><h4 class='padding'>\nOh ! Jésus m’aime\nOui Jésus t’aime\nEcoute bien cette chanson\nElle est pour toi et sans façon\nElle te dit qu’il t’aime\nOui Jésus t’aime\nOh Jésus m’aime\nOui Jésus t’aime.\n1.  Un jour fatigué du chemin\n     Mourant de froid, \n     Mourant de faim\n     Je m’en serais bien retourné\n     Mais il me fallait avancer\n     Même si je ne savais pas\n     Pourquoi je me trouvais là\n\n     Et puis j’ai senti dans ma main\n     Une chaleur d’une autre main\n     Un homme que je ne connais pas\n     Mais dans ses yeux \n     Et dans sa voix\n     Il m’a souri, il m’a parlé\n     Je me suis senti rechauffé.\n\n2.  Je ne savais ce qui m’arrivait\n     Tout sur mon chemin s’éclairait\n     J’ai vu mon nouveau compagnon\n     Prendre d’une main mon baluchon\n     L’autre main c’était pour m’aider\n     Car je ne pouvais plus marcher\n     Jamais je ne pourrais oublier\n     Le jour où je l’ai rencontré\n     Alors que je n’espérais plus\n     Il m’a dit tout n’est pas perdu\n     Regarde, le ciel a changé\n     Le soleil commence à briller.</h4></pre>"
+          },
+          {
+            "num" : "255",
+            "titre": "Le Seigneur m’aime",
+            "hira": "<pre><h4 class='padding'>\n1.  Le Seigneur m’aime, \n     Bonheur suprême !\n     Le Seigneur m’aime, \n     Il est amour.\n\n          Je redirai toujours :\n          Le Seigneur m’aime (bis)\n          Il est amour.\n\n2.  Dans la souffrance\n     Sans espérance\n     Dans la souffrance\n     Je gémissais.\n\n3.  Portant ma peine, \n     Ma lourde chaîne, \n     Portant ma peine, \n     J’étais perdu.\n\n4.  Dieu dans sa grâce\n     Prit à ma place\n     Dieu dans grâce\n     Prit son cher fils.\n\n5.  En sacrifice\n     A la justice, \n     En sacrifice, \n     Il vint s’offrir.\n\n6.  Le poids immense\n     De mon offense\n     Le poids immense\n     Tomba sur lui.\n\n7.  Sur le Calvaire\n     Loin de son Père\n     Sur le Calvaire\n     Il vint mourir.\n\n8.  Il purifie\n     Toute ma vie, \n     Il purifie, \n     Avec son sang.\n\n9.  A toi la gloire\n     Et la victoire, \n     A toi la gloire, \n     Agneau de Dieu.</h4></pre>",
+            "mark": "(TIRÉ DU RECUEIL – CHŒURS JOYEUX)"
+          },
+          {
+            "num" : "256",
+            "titre": "Je chante pour Jésus",
+            "hira": "<pre><h4 class='padding'>\n1.  Je chante pour Jésus\n     Il est mon Sauveur\n     Célébrant son grand amour\n     Car Il est l’auteur\n     Du salut que j’ai trouvé\n     Sauvé pour l’éternité\n     Je chante pour Jésus\n     Il est mon Sauveur.\n\n2.  Je chante mais je sais\n     Que dans ce monde perdu\n     L’ennemi lutte contre moi\n     Mais il est vaincu\n     Je vais chanter en luttant\n     Car mon cœur est plein de chants\n     Je chante pour Jésus\n     Il est mon Sauveur.\n\n3.  Et nous voulons chanter pour Lui\n     Pour notre Sauveur\n     Lui qui nous a rachetés\n     De notre malheur\n     O ! vous qui cherchez partout\n     La paix, la joie et l’amour\n     Venez à Lui sans plus tarder, \n     A Lui pour toujours</h4></pre>"
+          },
+          {
+            "num" : "257",
+            "titre": "Je vivais dans les ténèbres",
+            "hira": "<pre><h4 class='padding'>\nJe vivais dans les ténèbres, \nMa vie était sans but\nJe cherchais la vérité\nDans ce monde où tout ment. (2)\n\n1.  Je ne savais pas\n     Que Jésus Christ\n     Etait mort pour moi\n     Je ne savais pas\n     Que le Fils de Dieu\n     A porté mon péché\n\n2.  Quand j’ai decouvert\n     Que sur la croix\n     Il souffrit pour moi, \n     Je lui a dit :\n     «  Viens, oui sois mon roi\n     Et pardonne-moi  »\n\n3.  Je ne vis plus\n     Dans les ténèbres, \n     Jésus est ma lumière.\n     Il éclaire mon chemin\n     En lui j’ai trouvé la vérité.\n\n4.  O ! mon ami, toi\n     Qui cherches ta voie\n     Et ne la trouves pas\n     Arrête-toi un instant ici\n     Et écoute sa voix.\n\n5.  Il nous dit : «  Venez à moi  »\n     Vous qui êtes fatigués, \n     Et je vous soulagerai\n     Si vous m’ouvrez la porte\n     De votre cœur.</h4></pre>",
+            "mark": "(TIRÉ DU RECUEIL- CHŒURS JOYEUX)"
+          },
+          {
+            "num" : "258",
+            "titre": "Je chanterai mon Bien-aimé",
+            "hira": "<pre><h4 class='padding'>\n1.  Je chanterai mon Bien-aimé\n     Sur sa venue\n     Je chanterai mon Bien-aimé\n     Qui est Jésus\n     Pour l’amour et la vie intense\n     Qu’Il m’a donnés\n     Je chanterai Jésus mon Dieu, \n     Mon Bien-aimé.\n\n2.  Je chanterai mon Bien-aimé\n     Sur ses bienfaits\n     Oui, je louerai la source de joie\n     Et de paix\n     Qui a créé le ciel, la terre\n     Et le soleil\n     Merci mon Dieu, infiniment\n     Pour ces merveilles.\n\n3.  Je clamerai ta vérité\n     Dans le monde entier\n     J’engagerai ma foi, ta croix\n     Est mon épée\n     Oui, prends ma vie, mon cœur, \n     Mon esprit et ma voix\n     Car Toi, Jésus, Ta vie Tu l’as \n     Donnée pour moi.\n\n4.  Tu viens à nous Seigneur Jésus\n     Tu viens enfin\n     Tu viens à nous Seigneur Jésus\n     En souverain\n     Toute la terre s’inclinera\n     A tes pieds\n     Car Tu es la Vie, le Chemin\n     La Verité\n\n     La Vie, le Chemin, la Vérité.</h4></pre>"
+          },
+          {
+            "num" : "259",
+            "titre": "Nous avons découvert",
+            "hira": "<pre><h4 class='padding'>\nNous avons découvert\nLa joie de vivre et de chanter.\nNous avons trouvé le bonheur, \nLe secret merveilleux\nQui permet de tout espérer ;\nNous avons rencontré le Seigneur !\n\n1.  Tout au long du chemin, \n     Chaque jour, Il nous tend la main, \n     Préparant tous nos lendemains.\n\n2.  Il y a bien nos défauts, \n     Et nos rechutes et nos faux pas\n     Mais tout cela n’empêche pas que :\n\n3.  Et puis si nous avons\n     Quelques soucis, quelques ennuis\n     Tous ces tracas\n     N’empêchent pas que :\n\n4.  C’est pourquoi nous allons\n     Proclamer ce que nous croyons\n     En espérant que vous aussi.\n\n     Vous avez découvert\n     La joie de vivre et de chanter, \n     Vous avez trouvé le bonheur, \n     Le secret merveilleux\n     Qui permet de tout espérer :\n     Vous avez rencontré le Seigneur</h4></pre>",
+            "mark": "(TIRÉ DU RECUEIL – CHŒURS JOYEUX)"
+          },
+          {
+            "num" : "260",
+            "titre": "Oui, c’est vrai, j’ai trouvé",
+            "hira": "<pre><h4 class='padding'>\n1.  Oui, c’est vrai, j’ai trouvé\n     ce que je n’espérais plus\n     J’ai trouvé le bonheur\n     La joie, la plus absolue.\n\n          Quand j’ai rencontré Jésus-christ\n          Tout a changé\n          Le jour a remplacé la nuit\n          Et l’obscurité\n\n2.  Oui c’et Lui qui a pris\n     Mes problèmes et mes soucis\n     Maintenant et pour toujours\n     J’ai confiance en son amour\n\n3.  Nous voulons partager\n     Avec vous cette expériencee\n     Alors vous deviendrez\n     Joyeux et pleins d’assurance.\n     Quand vous aurez trouvé Jésus\n     Tout sera transformé\n     Vous verrez, vous serez sûrs\n     Qu’Il est la Vérité.\n          La, la, la, la, …</h4></pre>"
+          },
+          {
+            "num" : "261",
+            "titre": "Quel jour de gloire ",
+            "hira": "<pre><h4 class='padding'>\nQuel jour de gloire \nQuand Jésus m’a sauvé \n\n1.  Des chaînes du péché\n     Jésus m’a libéré \n     Quel jour de gloire\n     Quand Jésus m’a sauvé.\n\n2.  Aux choses du passé\n     Je ne veux plus toucher\n     Quel jour de gloire\n     Quand Jésus m’a sauvé\n\n3.  Ce n’est plus moi qui vis\n     C’est Christ qui vit en moi\n     Quel jour de gloire\n     Quand Jésus reviendra. \n\nQuel jour de gloire\nQuand Jésus reviendra.</h4></pre>"
+          },
+          {
+            "num" : "262",
+            "titre": "C’est vrai tel que suis",
+            "hira": "<pre><h4 class='padding'>\nC’est vrai tel que suis\nDieu m’aime\nC’est vrai Il est venu lui-même\nFrapper à ma porte\nIl est rentré chez moi</h4></pre>"
+          },
+          {
+            "num" : "263",
+            "titre": "J’étais pauvre",
+            "hira": "<pre><h4 class='padding'>\nJ’étais pauvre\nMais Il m’a enrichi\nEtant riche \nIl s’est fait\nPauvre pour moi\nMon Sauveur bien-aimé\nExpia mes péchés\nJ’étais pauvre\nMais Il m’a enrichi.</h4></pre>",
+            "mark": "(TIRÉ DU RECUEIL – CHŒURS JOYEUX)"
+          },
+          {
+            "num" : "264",
+            "titre": "Je suis heureux",
+            "hira": "<pre><h4 class='padding'>\nJe suis heureux, \nCar Jésus m’a sauvé\nDans son amour, \nIl m’a tout pardonné\nVoilà pourquoi \nJe me mets à chanter\nJe suis heureux \nCar Jésus m’a sauvé.</h4></pre>"
+          },
+          {
+            "num" : "265",
+            "titre": "Je ne sais pourquoi",
+            "hira": "<pre><h4 class='padding'>\n1.  Je ne sais pourquoi\n     Dans sa grâce\n     Jésus m’a tant aimé, \n     Pourquoi par son sang\n     Il efface ma dette, mon péché.\n\n          Mais je sais qu’en\n          Lui j’ai la vie, \n          Il m’a sauvé, dans son amour ;\n          Et gardé par sa main meurtrue, \n          J’attends l’heure de son retour.\n\n2.  Je ne sais comment la lumière\n     Eclaire tout mon cœur, \n     Comment je compris ma misère\n     Et reçus mon Sauveur !\n\n3.  Je ne sais quelle est la mesuree\n     De joie et de douleur\n     Que pour moi faible créature\n     Réserve mon Sauveur.\n\n4.  Je ne sais quand de la victoire\n     L’heure enfin sonnera\n     Quand l’Agneau, l’Epoux, \n     Dans sa gloire\n     Avec Lui me prendra.</h4></pre>",
+            "mark": "(TIRÉ DES CHANTS DE VICTOIRES)"
+          },
+          {
+            "num" : "266",
+            "titre": "De Bethléhem à la croix",
+            "hira": "<pre><h4 class='padding'>\nDe Bethléhem à la croix\nDe la crèche à Golgotha\nDe ma misère à ma joie\nIl n’y a que Jésus.\n\nO ! Jésus ton amour \nOui, ton amour pour moi\nEst si grand qu’il\nRemplit tout mon cœur\nO ! Jésus ton amour\nOui ton amour pour moi\nEst si grand qu’il\nMe remplit de bonheur\n\nCet amour qu’Il m’a donné\nO ! je voudrais le partager\nNe veux-tu pas l’accepter\nEt avec moi chanter.\n\nO ! Jésus ton amour…</h4></pre>"
+          },
+           {
+           "num" : "267",
+           "titre": "Un vêtement blanc",
+           "hira": "<pre><h4 class='padding'>\n1.  Un vêtement blanc, \n     Une harpe d’or, \n     Un beau palais, une couronne, \n     La sainte joie, le vrai trésor, \n     Là-haut, le Sauveur donne.\n     Car Jésus est mon Sauveur, \n     Il m’a tant aimé, \n     Payé ma dette sur le Calvaire, \n     Il m’a, dans son grand amour, \n     Sauvé du péché\n     Je vis dans sa sainte lumière.\n\n          Oui, nous marchons, \n          Nous marchons tout joyeux (3)\n          Oui, nous marchons, \n          Nous marchons tout joyeux (2)\n          Vers les cieux\n\n2.  Dimanche je suis heureux, \n     Le Lundi plein de joie, \n     Mardi j’ai une paix\n     Que le monde ne connaît pas, \n     Mercredi et Jeudi, \n     Je vis dans la lumière, \n     Vendredi et Samedi, \n     C’est le ciel sur la terre</h4></pre>"
+           },
+           {
+             "num" : "268",
+             "titre": "Dans l’étoile",
+             "hira": "<pre><h4 class='padding'>\nDans l’étoile\nS’Il rayonne en clarté, \nDans le vent\nS’Il rend\nLes éléments déchaînés\nQu’est-ce donc pour moi ?\n\nQue d’une étable \nEt de Galilée\nPour tous Il est mort sacrifié\nEn proclamant notre liberté, \nQu’est-Il donc pour moi ?\n\nJusqu’au jour où\nVoulant face à face, \nRencontrer Celui qui me créa\nOui, j’ai compris\nQu’Il est mieux\nQu’un simple nom, \nQu’un simple éclat, \nQue tout montre sa grâce, \nQu’Il vient vers moi\nPour prendre ma main\nEn m’accompagnant\nSoir et matin, \nMe menant dans le droit chemin, \nIl est tout pour moi !</h4></pre>",
+             "mark": "(TIRÉ DU RECUEIL – CHŒURS JOYEUX)"
+           },
+           {
+           "num" : "269",
+           "titre": "Il est un beau soleil joyeux",
+           "hira": "<pre><h4 class='padding'>\n1.  Il est un beau soleil joyeux\n     Qui scintille dans mon cœur\n     Et c’est le doux regard de Dieu\n     Que m’apporte mon Sauveur.\n\n          Le soleil qui brille\n          En mon âme\n          Et reflète\n          Le splendeur des cieux\n          C’est Dieu\n          Qui met en moi sa flamme\n          Et dès lors, \n          Je suis heureux.\n\n2.  En moi régnait la sombre nuit\n     Quand parut un jour nouveau\n     Au ciel une aube claire luit\n     Et voici tout est si beau.\n\n3.  Le doute s’est enfui bien loin\n     Les murmures se sont tus\n     Tout est lumière en moi soudain\n     Les ténèbres ne sont plus.\n\n4.  Louange à Dieu qui nous fait don\n     D’un rayon de son amour\n     Aux voix du ciel joyeux mêlons\n     Nos cantiques nuit et jour.</h4></pre>",
+             "mark": "© COPYRIGHT LIGUE POUR LA LECTURE DE LA BIBLE, 1010 LAUSANNE, SUISSE.AVEC AUTORISATION)."
+           },
+           {
+           "num" : "270",
+           "titre": "Comment pourrais-je taire",
+           "hira": "<pre><h4 class='padding'>\n1.  Comment pourrais-je taire\n     Ce grand Amour\n     Que Jésus m’a offert ce jour\n     Où on l’a crucifié,\n     Battu et maltraité\n     Comment pourrais-je taire\n     Un si grand Amour\n\n     Il nous a témoigné\n     Le vrai amour\n     C’est de donner sa vie\n     Pour ses amis\n     Il nous appelle tous\n     A nous aimer en Lui\n     Comment pouvons-nous taire\n     Un si grand Amour\n     Non ! je ne peux pas cacher\n     Tout ce trésor que Tu m’as donné\n     Je veux toujours le chanter\n     Le partager tout entier.\n\n2.  Seigneur, Tu m’as aimé\n     Tel que je suis\n     Tu as illuminé ma pauvre vie\n     Ma route est éclairée,\n     Mon âme libérée\n     Seigneur, oui Tu m’as pris\n     Tel que je suis.</h4></pre>"
+           },
+           {
+           "num" : "271",
+           "titre": "Tout dit qu’Il est merveilleux",
+           "hira": "<pre><h4 class='padding'>\n1.  Tout dit qu’Il est merveilleux (bis)\n     La terre et la mer, \n     Le splendeur des cieux, \n     Oui, tout dit qu’Il est merveilleux.\n\n2.  Je sais qu’Il est merveilleux (bis)\n     Il sauve, il me garde\n     Et me rend heureux, \n     Oui, je sais qu’Il est merveilleux \n\n3.  Oui, Jésus est merveilleux (bis)\n     Un jour je dirai\n     Là-haut dans les cieux\n     Oui, mon Sauveur est merveilleux.</h4></pre>",
+             "mark": "(TIRÉ DU RECUEIL – CHOEUX JOYEUX)"
+           },
+           {
+           "num" : "272",
+           "titre": "Si tu savais combien",
+           "hira": "<pre><h4 class='padding'>\nSi tu savais combien\nLes plaisirs du monde\nOnt déchiré et brisé\nBien des cœurs\nTu viendrais à Jésus\nDont la grâce abonde\nDe son amour\nTu verrais la douceur.</h4></pre>"
+           },
+           {
+           "num" : "273",
+           "titre": "Vers Jésus lève les yeux",
+           "hira": "<pre><h4 class='padding'>\nVers Jésus lève les yeux, \nContemple son visage merveilleux, \nEt les choses de la terre, \nPâliront peu à peu\nSi tu lèves vers Jésus les yeux.\nChrist est pour moi\nUn Sauveur admirable, \nUn conseiller, \nUn ami merveilleux\nSon nom béni\nN’a rien de comparable\nSur cette terre\nNi là-haut dans les cieux.</h4></pre>"
+           },
+           {
+           "num" : "274",
+           "titre": "O merveilleuse histoire",
+           "hira": "<pre><h4 class='padding'>\n1.  O merveilleuse histoire\n     De Christ mon Rédempteur\n     Qui, du haut de sa gloire, \n     Descend pour moi, pécheur !\n     Jésus, mon cœur désiree\n     Proclamer ton amour, \n     Sans cesse le redire\n     Jusqu’à mon dernier jour.\n\n          O merveilleuse histoire\n          De Christ mon Rédempteur\n          Qui du haut de sa gloire\n          Descend pour moi pécheur !\n\n2.  O précieuse histoire !\n     A tous Il tend la main ;\n     Sa mort expiatoire, \n     Nous ouvre le chemin\n     Il t’appelle, mon frère\n     Répondant à sa voix, \n     Apporte ta misère\n     A l’ombre de sa croix.\n\n3.  O chère et sainte histoire\n     Pauvre enfant racheté, \n     Par ta grande victoire \n     Dans le ciel transporté !\n     Là-haut, devant ta face, \n     Comblé de ta faveur, \n     Je redirai ta grâce\n     A jamais, mon Sauveur !</h4></pre>"
+           },
+           {
+           "num" : "275",
+           "titre": "Do Lord, oh do Lord",
+           "hira": "<pre><h4 class='padding'>\nDo Lord, oh do Lord\nOh do remember me\nWay beyond the blue\n\n1.  Seigneur, oh Seigneur\n     Oh souviens-toi de moi\n     Tout là-haut dans le ciel\n\n2.  J’ai une maison là-haut\n     Là-haut dans le ciel\n     Au-delà du soleil.\n\n3.  Seigneur, oh Seigneur\n     Tu me prépares un lieu\n     Au-delà du ciel bleu\n\n4.  Depuis que mon cœur est à Dieu\n     Il y a du soleil\n     Mon cœur est dans la joie.\n\n5.  Jésus est mon Sauveur\n     Le voulez-vous pour vous\n     Son regard est si doux\n\n6.  Si vous voulez vous aussi\n     Un jour aller au ciel\n     Chantez tous avec moi.</h4></pre>"
+           },
+           {
+           "num" : "276",
+           "titre": "Amazing grace!",
+           "hira": "<pre><h4 class='padding'>\n1.  Amazing grace!\n     How sweet the sound\n     That saved a wretch\n     Like me!\n     I once was lost, \n     But now am found\n     Was blind, but now I see.\n\n2.  Taws’ grace that taught\n     My heart to fear, \n     And grace my fears relieved;\n     How precious did\n     That grace appear\n     The hour I first believed!\n\n3.  Through many dangers, \n     Toils and snares, \n     I have already come;\n     ‘Tis grace hath brought me\n     Safe thus far, \n     And grace will lead me home.\n\n4.  When we’ve been there\n     Ten thousand years, \n     Bright shining as the sun.\n     We’ve no less days to sing\n     God’s praise\n     That when we first begun</h4></pre>"
+           },
+           {
+           "num" : "277",
+           "titre": "Tiako ny hiaraka Aminao Jesoa",
+           "hira": "<pre><h4 class='padding'>\nTiako ny hiaraka Aminao Jesoa\nNa aiza na aiza hitondranao ahy\nTiako ny hiaraka Aminao Jesoa\nFa Ianao no miantso ahy.\n\n1.  Hiaraka Aminao Aho, \n     O ry Jesoa Tompoko\n     Tsy manana olon-kafa aho\n     Fa Ianao no fiainako\n     Hanara-dia Anao, \n     Izay no faniriako\n     Hifikitra Aminao aho, Jesoa.\n\n2.  Hiaraka Aminao aho, \n     O ry Jesoa Tompoko\n     Hitory teny soa\n     Amin’ireo havako\n     Hanara-dia Anao, \n     Izay no faniriako\n     Hanohy ny asanao aho, Jesoa.\n\n3.  Hiaraka Aminao aho, \n     O ry Jeso Tompoko\n     Ho zary famonjena\n     Anie ny fahoriako\n     Hanara-dia Anao, \n     Izay no faniriako, \n     Hifantsika Aminao aho, Jesoa\n\n4.  Hiaraka Aminao aho, \n     O ry Jesoa Tompoko\n     Hibanjina ny Ray, \n     Tompo Andriamanitro\n     Hanara-dia Anao, \n     Izay no faniriako\n     Izay misy Anao, \n     No hisy ahy, Jesoa.</h4></pre>"
+           },
+           {
+           "num" : "278",
+           "titre": "Sambatra ny olona izay tsy mandeha",
+           "hira": "<pre><h4 class='padding'>\nSambatra ny olona izay tsy mandeha\nEo amin’ny fisainan’ny ratsy fanahy\nSambatra ny olona izay tsy mijanona\nEo amin’ny falehan’ny mpanota\nSambatra ny olona\nIzay tsy mipetraka\nEo amin’ny fitoeran’ny mpaniratsira\nFa ny lalan’i Jehovah no sitrany\n\n1.  Fa ny lalan’i Jehovah ihany\n     No saininy andro aman’alina\n     Tahaka ny hazo iray ambolena\n     Eo amoron’ny rano izay velona\n     Izay mamoa amin’ny tena fotoany\n     Ny raviny koa tsy malazo\n     Ary ny asany koa lavorary.\n\n2.  Tsy toy izany ny ratsy fanahy\n     ‘Zay akofa aelin’ny rivotra\n     Ny fitsarana sy ny fiangonan’\n     Ny marina, tsy hainy hijanonana\n     Jehovah mahalala\n     Ny lalan’ny marina\n     F’izy no ratsy fonenana\n     Ho any amin’ny fahaverezana</h4></pre>"
+           },
+           {
+           "num" : "279",
+           "titre": "Raha misy milaza azy",
+           "hira": "<pre><h4 class='padding'>\nRaha misy milaza azy\nHo manam-panahy ry zareo\nMihevi-tena ho mitombo\nAmin’ny fitiavana\nIzaho kosa hilaza fa foana ny asany\nFa tsy maintsy hateraka\nVao afaka hitombo\nMiandalandalana ny fitomboany\nRehefa noraisiny\n\nIlay zanaka lahy\nMiandalandalana ny fitomboany\nRehefa voatandriny\nNy sakafom-panahy\nMiandalandalana ny fitomboany\nFitomboana amin’ny saina,\nVatana ary fanahy\nMiandalandalana ny fitomboany\nRaha avelany hanjaka\nNy asan’Ilay Fanahy</h4></pre>"
+           },
+           {
+           "num" : "280",
+           "titre": "Fitia Agape",
+           "hira": "<pre><h4 class='padding'>\n1.  Fitia Agape :\n     Tsy omena mpandalo\n     Fitia Agape :\n     Tsy miandry takalo\n     Fitia Agape :\n     No ambony indrindra Jeso\n     Fitia Agape !\n     Manolotra foana\n     Fitia Agape :\n     No mendrika indrindra\n     Fitia Agape :\n     Ny fitiavanao Jeso.\n\n          Fa na dia miteny\n          Amin’ny fitenin’ny olona\n          Sy ny anjely aza aho\n          Nefa tsy manana an’izany hoe :\n          Fitia Agape\n          Fitia Agape\n          Dia tonga varahina\n          Sy kipantsona\n          Izay mikarantsana anie aho\n          Fitia Agape !\n          No tsara indrindra Jeso.\n\n2.  Fitia Agape :\n     Tsy mitady ny azy\n     Fitia Agape :\n     Fa mora fanahy\n     Fitia Agape :\n     Tsy manao ‘zay tsy mahamendrika\n     Fitia Agape !\n     Fitia Agape :\n     Tsy mirehareha\n     Fitia Agape :\n     Mandefitra foana\n     Fitia Agape :\n     Mifaly amin’ny marina.</h4></pre>"
+           },
+           {
+           "num" : "281",
+           "titre": "Sarobidy loatra",
+           "hira": "<pre><h4 class='padding'>\n1.  Sarobidy loatra\n     Ny asanao ry Jeso\n     Fony Ianao nitondra\n     Famonjena ho anay\n     Nandroaka aizim-pito\n     Nanafaka ny gadra\n     Nanome fiadanam-po\n\n          Faly ao aminao ny foko\n          Ry Jeso Tompo ô\n          Anjakao fa Tompo Ianao\n          Manafaka ahy\n          Inty aho, tia anao.\n\n2.  Mahavelon’aina\n     Mahazava saina\n     Mampifankatia\n     ‘Reo teny nentinao\n     Miaro ny malemy\n     Tokin’ny kanosa\n     Sabatra sy ampinga koa\n\n3.  Kapoka sy latsa\n     Nihatra taminao\n     Noleferinao satria\n     Tia ahy Ianao\n     Hazofijaliana\n     Tsy nihemoranao\n     Satria ‘zay no sitrakao\n\n4.  Nafoin’ny Mpahary\n     Maty ts’isy Mpiaro\n     Fasana no hany\n     Sisa nampandroso Anao\n     Ny andro fahatelo\n     Ts’isy nahalala\n     Haleloia nitsangana Ianao</h4></pre>"
+           },
+           {
+           "num" : "282",
+           "titre": "La misimisiny ¨n’ainay",
+           "hira": "<pre><h4 class='padding'>\nLa misimisiny ¨n’ainay\n‘Zao Jeso\nNoho ny Aminao\nFahasoava le bevata bibike\nNitahianao anay\n\nVelon’ainay Jeso \nManana Anao\nKila raha iaby\nAfoinao ho anay\nHaveloma bevata lahy ê\nMahavelo Ndrananahary e.\n\nLa vareake n’ainay \n‘Zao fa vototse\nHasosoram-be\nFotone tsy ino fa hasoanao\nIha Mpandomba be.</h4></pre>"
+           },
+           {
+           "num" : "283",
+           "titre": "He, sambatra aho Jeso,",
+           "hira": "<pre><h4 class='padding'>\n1.  He, sambatra aho Jeso, \n     Raha miaraka Aminao, \n     Fa ny lalanao\n     Dia lavi-pahoriana ;\n     Ny ali-mampahory, \n     Ny raho-mitatao\n     Eo anilanao \n     Dia mody fitahiana.\n     Tano aho Jeso, \n     Hiaraka Aminao, \n     Izay lalana ombako, e !\n     Mba hazavao !\n\n2.  Izao no faniriako\n     Manetsika ny fo\n     Ho sakazainao\n     Mandrakizay doria\n     Na inona mihatra, \n     Na inona manjo\n     Ianao no antenaiko\n     Hitantana ny dia\n     O ! avia Jeso, \n     Tano aho e !\n     Tantanonao ny diako, \n     Tompo mamonje !\n\n3.  Izay sakaizanao Jeso\n     No ampoky ny soa\n     Feno haravoana\n     Sy lavitra manjo\n     ‘Zay rehetra ilaina\n     Anananao tokoa.\n     Raha miaraka Aminao, \n     Mionona ny fo.\n     Sambatra aho Jeso, \n     Tretrika tokoa, \n     Ravo ny fanahiko, \n     Toloranao ny soa.\n\n4.  Inona no mamiko\n     Mihoatra noho Ianao, \n     Tompo manan-kery\n     Sy loharanon-tsoa ?\n     Izay zavatra ilaiko\n     Azoko Aminao\n     Koa onenonao ny foko, \n     Ho lapanao tokoa\n     Manjakà Jeso, \n     Ato am-poko Ianao\n     Izany fahotako e !\n     Ry Tompo avelao.</h4></pre>"
+           },
+           {
+           "num" : "284",
+           "titre": "O ! Izany diako mahitsy hatrany re",
+           "hira": "<pre><h4 class='padding'>\nO ! Izany diako mahitsy hatrany re\nHo any Aminao (Aminao ry Tompo)\nFa ny hany tiako\nKa hotompoiko anie dia Ianao.\n\n1.  Na hisompatra ahy izay tsy tia\n     Mankahala, manadala\n     Dia tsy mampanahy Tompo ô !\n     Izay voakasako tsy mety miala.\n\n2.  Raha mandalo aho, toa iriny\n     Toa tondroiny, toa esoiny\n     Raha mba mitalaho, Tompo ô !\n     Ny fivavahako no hamavoiny.\n\n3.  Izany lohataona voninkazo\n     Fampitaha eny an-tsaha\n     Fa tsy mahataona Tompo ô !\n     Ny tavanao anie maha-te-hizaha.\n\n4.  Na manangasanga toa miantso\n     ‘Lay tanàna midolàna\n     Tsy mihambahamba Tompo ô !\n     Ny faniriako tokam-pilàna</h4></pre>"
+           },
+           {
+           "num" : "285",
+           "titre": "Jeso Tompo no Mpamonjiko",
+           "hira": "<pre><h4 class='padding'>\n1.  Jeso Tompo no Mpamonjiko\n     Jeso Tompo no Mpiaroko\n     Jeso Tompo be fitia\n     Jeso tia ny mpania\n     Jeso Tompo no Mpamonjiko\n\n2.  Faly aho miaraka Aminy\n     Faly aho miaraka Aminy\n     Izy no mitantana ahy\n     Sy manoro lalana ahy\n     Faly aho miaraka Aminy</h4></pre>"
+           },
+           {
+           "num" : "286",
+           "titre": "Alleluia je marche",
+           "hira": "<pre><h4 class='padding'>\nAlleluia je marche\nJe marche avec Jésus (2)\nAlleluia je marche\nChaque jour, \nJe marche avec Jésus.\n\n1.  Mes amis sont contre moi\n     Parce que\n     Je marche avec Jésus\n     Je marche avec Jésus\n     Mes amis sont contre moi\n     Parce que\n     Je marche avec Jésus\n     Chaque jour, \n     Je marche avec Jésus.\n\n2.  Et le monde est contre moi\n     Parce que\n     Je marche avec Jésus…\n\n3.  Et le diable est contre moi\n     Parce que\n     Je marche avec Jésus</h4></pre>"
+           },
+           {
+           "num" : "287",
+           "titre": "Chrétien, réjouis-toi",
+           "hira": "<pre><h4 class='padding'>\n1.  Chrétien, réjouis-toi\n     Tresaille d’allégresse,\n     Car ton Sauveur est Roi :\n     Regarde à Lui sans cesse.\n\n          En son amour\n          Chrétien, réjouis-toi\n          Rejouis-toi toujours.\n\n2.  Exalte le Seigneur\n     Il a sauvé ton âme !\n     Dieu l’a comblé d’honneur\n     Après la croix infâme.\n\n3.  Eclate en saints transports !\n     Voici ton Dieu confie\n     Les portes de la mort\n     Au prince de la vie.\n\n4.  Espère, adore et crois !\n     Jésus seul est le Maître,\n     Au loin déjà je vois\n     La gloire enfin paraître.\n\n5.  Christ règne dans le ciel\n     Au sein de la lumière,\n     Et son règne éternel\n     Bientôt viendra sur terre.</h4></pre>"
+           },
+           {
+           "num" : "288",
+           "titre": "Je veux monter sur la montagne,",
+           "hira": "<pre><h4 class='padding'>\nJe veux monter sur la montagne, \nC’est là que l’on rencontre Dieu, \nC’est là que la joie nous inonde\nEt que pour nous s’ouvrent les cieux.\nJe veux laisser les joies du monde\nEt me tenir tout près de Dieu, \nJe veux monter sur la montagne\nC’est là que l’on est heureux.\n\n1.  Si le chemin est rocailleux, \n     Si les cailloux blessent un peu, \n     Le Saint-Esprit me guidera\n     Et Jésus me consolera.\n\n2.  Sur le chemin, Jésus monta\n     Et mon Sauveur me précéda ;\n     Avec Lui je veux m’élever\n     Jusque sur les plus hauts sommets.\n\n3.  Le monde a perdu tout attrait\n     J’ai quitté ses brouillards épais ;\n     Mon soleil est si clair, si chaud, \n     C’est Jésus le divin agneau</h4></pre>",
+             "mark": "(TIRÉ DU RECUEIL –CHŒURS JOYEUX)"
+           },
+           {
+           "num" : "289",
+           "titre": "Du Maître qui m’appelle",
+           "hira": "<pre><h4 class='padding'>\n1.  Du Maître qui m’appelle, \n     A le suivre ici bas\n     J’entends la voix fidèle\n     Qui me dit : «  Ne crains pas! »\n     L’ennemi te menace\n     Je suis le Tout Puissant\n     Je verse en toi ma grâce, \n     Moi, le vivant !\n\n        Il vit ! Il vit !\n        Jésus vit aujourd’hui \n        Je sais qu’il est \n        Tout près de moi\n        Sur le chemin étroit.\n        Il vit ! Il vit !\n        Toujours Il me conduit, \n        Et je puis dire par la foi :\n        Je sais qu’Il vit en moi !\n\n2.  Il vit et rien au monde\n     Ne saurait me ravir\n     Le bonheur qui m’inonde\n     Et m’aide à le servir\n     En Lui j’ai force et joie\n     Tout le long du chemin\n     Où son amour m’envoie\n     Moi, faible humain.\n\n3.  Tressaille d’allégresse\n     Racheté de Jésus\n     Fais retentir sans cesse\n     L’hymne saint des élus !\n     Oh ! sublime espérance, \n     Que rien ne peut ternir, \n     Merveilleuse assurance\n     Il va venir.</h4></pre>",
+             "mark": "(TIRÉ DU RECUEIL – CHŒURS JOYEUX)"
+           },
+           {
+           "num" : "290",
+           "titre": "The joy of my Lord",
+           "hira": "<pre><h4 class='padding'>\n1.  The joy of my Lord\n     Is my strength\n     My strength is\n     The joy of my Lord.\n\n2.  He puts me on his shoulder\n     And I fear no more\n     He puts me on his shoulder\n     I fear no more.\n\n3.  He fills my mouth\n     With laughter\n     Ha ! ha ! ha ! ha ! ha !\n     He fills my mouth\n     With laughter\n     Ha ! ha ! ha !\n\n   -   Ny fifalian’ny Tompoko \n       No heriko\n       Ny fifaliany no heriko.\n\n   -  La joie du Seigneur\n       Est ma force \n       Ma force est dans la joie \n       Du Seigneur !</h4></pre>"
+           },
+           {
+           "num" : "291",
+           "titre": "Rendrarendra ve",
+           "hira": "<pre><h4 class='padding'>\n1.  Rendrarendra ve\n     Sa filalian’ny maso koa\n     Sa endrika ho levona\n     Na felana halazo koa\n     No hanorenako\n     Izany tena fiainako\n     Ianao Jesosy irery no\n     Tena vato fehizoro.\n\n          Ka na orana hifafy\n          Na ny rivotra koa hifofo\n          Tsy mba hanan-tahotra aho\n          Tsy hangovitra (satria)\n          Vato mafy no\n          Tena mandam-piainako\n          Ianao Jesosy irery no \n          Tena vato fehizoro.\n\n2.  Eo aminao no tena irafetako\n     Hitombo tsara ho tempoly\n     Masina ao Aminao\n     Mba ho fonenanao\n     Sy Ilay Fanahy Masina\n     Ianao Jesosy irery no\n     Tena vato fehizoro.</h4></pre>"
+           },
+           {
+           "num" : "292",
+           "titre": "Andriamanitra Fitiavana Ianao",
+           "hira": "<pre><h4 class='padding'>\n1.  Andriamanitra Fitiavana Ianao\n     Ka mihevitra ny momba anay ety\n     Raha mifoha maraina izahay dia\n     Tsy afaka am-bavanay ny hoe :\n     « Ampy anay ny fahasoavanao »\n\n          Raha maraina mibaliaka\n          Ny andronay ety\n          Ianao no masoandro niaviany\n          Raha ny alin’ny ririnina\n          No handalo ety\n          Ianao no kintana hitantana ny dia\n          Fa ny vavaka atao\n          ‘Zay mipololotra\n          Am-ponay ao hoe :\n          Izahay anie hatoky Anao\n\n2.  Andriamanitra Fitiavana Ianao\n     Ka mitantana ny dianay ety\n     Raha mandimby ny andro ny alina\n     Mbola tokana ny deranay hoe :\n     « Ampy anay ny fahasoavanao »</h4></pre>"
+           },
+           {
+           "num" : "293",
+           "titre": "Hoy Jesosy Tompo",
+           "hira": "<pre><h4 class='padding'>\n1.  Hoy Jesosy Tompo\n     ‘Zaho no fananganana\n     Fananganana ny maty\n     Sy fiainana\n     Izay rehetra mino Ahy\n     Na dia maty aza\n     Dia ho velona indray (3)\n\n          Satria velona Aho\n          Ho velona ianareo\n          Aza matahotra\n          Fa ho velona indray (3)\n\n2.  Maharavo fo ny teniny\n     Henoy indray koa\n     Izay rehetra velona\n     Ka mino Ahy tokoa\n     Dia tsy ho faty\n     Mandrakizay hatsangako\n     Ka dia velona indray (3)\n\n3.  O ! Jesosy Tompoko, \n     Indro re ampitomboy\n     Ny finoako Anao, \n     Ny herinao asehoy\n     Tompo iantrao ny foko, \n     Tsy finoako vonoy\n     Mba ho velona indray (3)\n\n          Mino Anao tokoa\n          Ny foko Jesosiko\n          Feno toky aho\n          Fa ho velona indray (3)</h4></pre>"
+           },
+           {
+           "num" : "294",
+           "titre": "Misy raha soa",
+           "hira": "<pre><h4 class='padding'>\n1.  Misy raha soa\n     Nomen’i Jesosy anay\n     Ao an-danitse ao e\n     Ny fiainana mandrakizay\n     Io raha soa io e.\n\n          Zahay Jeso\n          Tako olo rate\n          Ka mba orihinao izahay.\n          Mate n’ainay\n          Laha halavirinao\n          Lombao zahay ry Jesosy.\n\n2.  Ka miviombio ny fanahinao\n     Fa Jesosy ro Ihe\n     Ndra matonaly\n     Ndra atoandro e\n     Mivavaha \n     F’izay avao ro tiany e</h4></pre>"
+           },
+           {
+           "num" : "295",
+           "titre": "Kristy Tompo irery ihany",
+           "hira": "<pre><h4 class='padding'>\n1.  Kristy Tompo irery ihany\n     Lova ho antsika\n     Mahagaga ny fitiavany\n     Tsy mandao ny olony.\n\n2.  Mba tantano izahay ry Tompo\n     Haharitra ao Aminao\n     Ho mpitory ny fitiavanao\n     ‘Zay no fanevanay.\n\n3.  O ! atolotro Anao ny foko\n     Na dia tsy mendrika\n     Ampianaro izahay hifankatia\n     Mba ho tena mpianatrao.\n     Kristy lovantsika\n     Azo antoka\n     Na dia anio ampito\n     Rahatrizay\n     Ampy ho anay tokoa\n     Ny fahasoavanao\n     Satrinay ny ho mpandova\n     Miaraka Aminao</h4></pre>"
+           },
+           {
+           "num" : "296",
+           "titre": "Tsy asiako fanenenana",
+           "hira": "<pre><h4 class='padding'>\n1.  Tsy asiako fanenenana\n     Andriamanitra ô\n     Raha natolotro ny tenako\n     Mba hanompo Anao\n     Tsapako fa lehibe\n     Ny fitiavanao\n     Nitantananao ny fiainako\n     Hatramin’izao.\n\n          Fa izaho dia ny ho eo \n          Akaikin’Andriamanitra\n          No mahatsara ahy, \n          No mahatsara ahy, \n          Ianao Jehovah Tompo ô\n          No fiarovako\n\n2.  Raha jereko ny fiainana\n     Mahatahotra, \n     Tsy azo ianteherana\n     Satria tena fitaka\n     Ny eo akaikinao, \n     Ry Tompo no irin’ny fo, \n     Lavi-pahoriana re\n     Ka sambatra tokoa.\n\n3.  Moa ny rendrarendra ve\n     No hialako Aminao\n     Tsy hatakaloko Anao\n     Izao tontolo izao\n     Ny eo akaikinao no tena\n     Mahatsara ahy\n     Ts’isy fahavalo afaka\n     Hamely ahy.</h4></pre>"
+           },
+           {
+           "num" : "297",
+           "titre": "Resy lahatra aho",
+           "hira": "<pre><h4 class='padding'>\n1.  Resy lahatra aho\n     Jeso Tompo tia\n     Ondry izay nania\n     Ka miverina Aminao\n     Tao izay nokasaiko\n     Hitantana ahy\n     Tena nolalaiko nefa\n     Mainka nampanahy\n\n          Jeso Kristy\n          Ianao no Tompoko\n          Jeso Kristy\n          Ianao no Mpanjakako\n          Ianao irery\n          No mpitantana ahy\n          Ka na lalan-tery aza,\n          Izaho tsy hanahy.\n\n2.  Ankehitriny Tompo\n     Fantatro tokoa\n     F’izaho mpanompo\n     Tianao ho heni-tsoa\n     Ao ireo ady maro,\n     Eso, fahotana\n     Ianao no Ampinga\n     Aro, Hery mahatana.</h4></pre>"
+           },
+           {
+           "num" : "298",
+           "titre": "Matetika manonja re",
+           "hira": "<pre><h4 class='padding'>\n1.  Matetika manonja re\n     ‘Ty ranomasin-dozabe\n     Manafotra ahy, mandentika ahy\n     Manary ahy tsy ho Anao.\n\n          Handresy aho (2)\n          Handresy tokoa aho Jeso\n          Satria Ianao (2)\n          Satria Ianao no tokiko.\n\n2.  Naripakao, resy avokoa\n     ‘Reo fahavalo teo aloha\n     Nanenjika ahy, nandreraka ahy\n     Fa hay namonjy ahy Ianao.\n\n3.  Ny ahiahy ariako\n     Ny tahotra tsy ampingako\n     Tsy mba ho ahy intsony re\n     Izany tsy finoana.\n\n4.  Mijoro eo anilako\n     Andro aman’alina Ianao\n     Ka raha tojo ady be\n     Dia mbola hiantso sy hihira hoe :</h4></pre>"
+           },
+           {
+           "num" : "299",
+           "titre": "Ry Jeso Tomponay ô",
+           "hira": "<pre><h4 class='padding'>\nRy Jeso Tomponay ô\nVonona izahay\nHanolotra ny tenanay\nHanaraka Anao\nKa n’aiza n’aiza aleha\nIanao no tokinay é\nKa tsy misy hatahorana\nFa Ianao no tokinay.\n\nSarotra ny lalana\nSady mampanahy é\nMaro koa ny fahavalo\nTa-hamely re\nNefa Ianao ry Tompo\nMpitarika mahay\nKa tsy misy hatahoranay\nFa Ianao no aronay\nRy Jeso Zokinay é\nVonona izahay\nHanaraka ny lalana\nIzay itarihanao \nVonona tokoa re\nHiasa ho Anao\nKa ny tanimbolinao\nNo tena tanjonay.\n\nOrana mifafy\nNo hamely anay é\nRivotra mifofo\nTsy hatahoranay\nIanao no ampinga\nVatolampy mafy\nFiarovana tokoa\nTena ijoroanay.</h4></pre>"
+           },
+           {
+           "num" : "300",
+           "titre": "Efa nomena ho anay",
+           "hira": "<pre><h4 class='padding'>\n1.  Efa nomena ho anay\n     Tokoa ry Jeso ô!\n     Sy navelanao tety\n     Ny fiadananao\n     Izany foko te-hidera Anao\n     Afa-tahotra sy\n     Afaka ahiahy.\n\n     Koa na miafina amiko aza\n     Ny ampitso ety\n     Antenaiko fa hazava\n     Sy hamiratra ery\n     Satria Jeso no eo\n     Anilako hitantana\n     Izany sandriny\n     Azoko hianteherana.\n\n2.  Izay manorina\n     Ny fiainany eo Aminao\n     Manana ny fanorenana\n     Azo antoka\n     Ka izy kosa no atao hoe\n     Olon-tsambatra\n     Ny fiadananao\n     Hanafaka azy ireo.\n\n     Koa na miafina aminy aza\n     Ny ampitso ety\n     Antenainy fa hazava\n     Sy hamiratra ery\n     Satria Jeso no eo\n     Anilany hitantana\n     Izany sandriny\n     Azony hianteherana</h4></pre>"
+           },
+           {
+           "num" : "301",
+           "titre": "Na dia mamaky ala-be mikirindro",
+           "hira": "<pre><h4 class='padding'>\nNa dia mamaky ala-be mikirindro\nAlo-pahafatesana aza aho\nTsy hanan-tahotra aho\nIanao no aroko\nNa aizim-pito mikitroka\nAli-mahatora-kovitra\nTsy hanan-tahotra aho satria\nTsara Mpiantoka.\n\n    ‘Zaho mino (2)\n    Fa miantoka ahy ianao \n    Ny anioko eo anatrehanao Jeso\n    Ny ampitsoko eo an-tananao Jeso\n    Ny rahatrizaiko aza\n    Efa voaomanao</h4></pre>"
+           },
+           {
+           "num" : "302",
+           "titre": "He fantatro fa indray andro any",
+           "hira": "<pre><h4 class='padding'>\n1.  He fantatro fa indray andro any\n     Ho levona ity tenako ity\n     Fa fiainan-danitra\n     Antenaiko hatrety\n     Ny masoko hahita an’i Jeso.\n\n2.  He fantatro fa indray andro any \n     Ho rava sy ho potika ny ety\n     Fa ny mino ihany re\n     No haharitra doria\n     Ny masoko hahita an’i Jeso.\n\n3.  He fantatro fa indray andro any\n     Hiverina ny Tompo Jesosy\n     Faly aho ho raisiny\n     Honina eo anilany\n     Ny masoko hahita an’i Jeso</h4></pre>"
+           },
+           {
+           "num" : "303",
+           "titre": "He, ny andon’ny maraina",
+           "hira": "<pre><h4 class='padding'>\n1.  He, ny andon’ny maraina\n     Latsaka ao an-tsaina re\n     Ka mamelona ny maina\n     Izay maniry rano be!\n     Ravoravo e, ny tany\n     Fa he, ny andro maina efa lany, \n     Ka mitsahatra ny fahantrany\n     Manaroka ny hazo be!\n\n2.  Ny fanahy karakaina\n     Misy rano velona, \n     Fa Jesosy andon’aina\n     Manome fiainana\n     Velona ny jentilisa, \n     Ny tany hay dia tonga paradisa\n     Marobe no efa voaisa\n     Handray lova masina!\n\n3.  Misy lalana mizotra, \n     Izay mankao Ziona re;\n     Any no mitanjozotra\n     Ny vahiny marobe;\n     Ka Ziona dia mivoha\n     Hidiran’ny navotan’ny tsitoha;\n     Ao no ivorian’ny mifoha, \n     Fa an’ny Tompo lehibe;\n\n4.  He, mikambana ny mino\n     Amim-pifaliam-be, \n     Ka ny hobiny maneno\n     Tahaka ny rano be!\n     Ao mitovy avokoa, \n     Tsy misy tompo sy\n     Mpanompo koa, \n     Eny, razana iray tokoa\n     Ny mponina ao Ziona re!</h4></pre>"
+           },
+           {
+           "num" : "304",
+           "titre": "Ry Jeso Tompo Zokinay",
+           "hira": "<pre><h4 class='padding'>\nRy Jeso Tompo Zokinay \nIndreto izahay\nManolotra ny tenanay\nHiasa ho anao\nKa na aiza n’aiza aleha\nIanao no tokinay\nKa tsy misy atahoranay\nF’Izy no momba anay.\n\nSarotra ny lalana\nIzahay anefa tsy manahy\nMaro koa ny fahavalo\nJeso irery ihany anie\nMpitarika anay\nKa tsy misy atahoranay\nF’Izy no momba anay.\n\nRy Jeso Tompo Zokinay\nVonona izahay\nHanaraka ny lalanao\nIzay hitarihanao\nVonona tokoa re hiasa ho Anao\nKa ny tena tanjonay\nNy tanimbolinao.\n\nOrana mifafy anie\nTsy mampiraika anay\nRivotra mifofo koa \nTsy atahoranay\nJeso irery ihany anie\nNo ampinganay\nVatolampy mafy koa fiarovana.</h4></pre>"
+           },
+           {
+           "num" : "305",
+           "titre": "Sambatra ny olona",
+           "hira": "<pre><h4 class='padding'>\nSambatra ny olona\nIzay tsy mba isainao heloka\nSambatra ny olona\nIzay madio eo anatrehanao\nSambatra ny olona\nIzay mandova ny fiainana\nFiainana mandrakizay\nNo itokiany fa azony.\n\n1.  Tsy isainao heloka\n     Satria novonjen’ny Zanakao\n     Tena voadio am-po\n     Noho ny rany ’zay nalatsany\n     Mandova ny fiainana\n     Satria tena tonga zanakao\n     Fiainana mandrakizay\n     No itokiany fa azony.\n\n2.  Vatolampy mafy koa\n     No nanorenany ny fiainany\n     N’inon’inona hanjo\n     Ianao no andry ianteherany\n     Na hohenjehina moa\n     Izao hatrany re no hirany :\n     Fiainana mandrakizay\n     No itokiany fa azony.</h4></pre>"
+           },
+           {
+           "num" : "306",
+           "titre": "Jeso no tsy miova",
+           "hira": "<pre><h4 class='padding'>\n1.  Jeso no tsy miova\n     Na omaly na anio\n     Eny ho mandrakizay (‘lay)\n     Vatolampy tsy mikoro\n     Vato fanorena-mafy\n     Azo itokiana tokoa\n     Raha hanorenana\n     Ny fiainana (mahasambatra)\n     Mandrakizay.\n\n2.  ‘Zaho izay novonjeny\n     Mety hangovitra ihany\n     Eny ambony vatolampy (fa)\n     Izy tsy miova akory\n     Jeso ô ampianaro\n     Aho ho tahaka Anao izao\n     Ka ny fiainako\n     Jeso Tompo ô! (mba ho entiko)\n     Hiderana Anao.</h4></pre>"
+           },
+           {
+           "num" : "307",
+           "titre": "J’ai l’ssurance de mon salut",
+           "hira": "<pre><h4 class='padding'>\n1.  J’ai l’ssurance de mon salut\n     Par la présence du Seigneur Jésus, \n     Son sang m’a lavé, m’a racheté\n     Par le Saint-Esprit, oui, je suis né.\n\n          C’est mon histoire, \n          C’est là mon chant\n          Louant mon Sauveur\n          A chaque instant.\n\n2.  Je veux obéir\n     A mon Seigneur\n     Dans mon cœur sentir\n     La paix de son cœur\n     Veiller et prier, \n     L’attendre un jour\n     Me laisser lier par son Amour</h4></pre>",
+             "mark": "(TIRÉ DU RECUEIL - CHŒURS JOYEUX)"
+           },
+           {
+           "num" : "308",
+           "titre": "Dans le nom de Jésus",
+           "hira": "<pre><h4 class='padding'>\nDans le nom de Jésus (bis)\nNous avons la victoire\nDans le nom de Jésus (bis)\nNous serons des vainqueurs\nIl a vaincu sur la croix, \nNous vaincrons aussi par la foi\nDans le beau nom du Seigneur\nNous serons tous des vainquers</h4></pre>",
+             "mark": "(TIRÉ DU RECUEIL - CHŒURS JOYEUX)"
+           },
+           {
+           "num" : "309",
+           "titre": "Voir mon Sauveur face à face",
+           "hira": "<pre><h4 class='padding'>\n1.  Voir mon Sauveur face à face\n     Voir Jésus dans sa beauté\n     O joie ! ô suprême grâce !\n     O bonheur, félicité !\n\n          Oui, dans ta magnificence\n          Je te verrai, divin Roi !\n          Pour toujours en ta présence\n          Je serai semblable à Toi.\n\n2.  Ta gloire est encore voilée\n     Ah ! d’un voile ensanglanté\n     Bientôt sera révélée\n     Ton ineffable beauté !\n\n3.  Oh ! quels transports d’allégresse\n     Quand tes yeux baissées sur moi\n     Me diront avec tendresse :\n     «  Je mourus aussi pour toi !  »</h4></pre>"
+           },
+           {
+           "num" : "310",
+           "titre": "Sur le mont du Calvaire",
+           "hira": "<pre><h4 class='padding'>\n1.  Sur le mont du Calvaire\n     Il était une croix\n     Où Jésus souffrit\n     Tant de douleurs\n     Oui, c’est là qu’il mourut\n     Sur cet infâme bois\n     Pour sauver\n     Le plus vil des pécheurs.\n\n          Cette croix\n          Me sera toujours chère\n          Elle est gloire\n          Et victoire pour moi\n          Et par elle, \n          En la maison du père\n          La couronne\n          Est offerte à ma foi.\n\n2.  Cette croix où Jésus, \n     Du monde est rejeté\n     A pour moi\n     Le plus grand des attraits\n     C’est là que Saints Agneau\n     Mon Sauveur a porté\n     Mes fardeaux, mes douleurs, \n     Mes forfaits.\n\n3.  Sur la croix où Jésus\n     A versé tout son sang\n     Je contemple, \n     Ebloui, sa beauté\n     Sur la mort et l’enfer, \n     Son combat triomphant\n     Fait de moi\n     Son heureux racheté.\n\n4.  M’appuyant avec foi\n     Sur la croix de Jésus\n     Son opprobre, \n     Je veux le porter\n     Jusqu’au jour bienheureux, \n     Où parmi les élus\n     Dans le ciel\n     Je pourrai l’exalter</h4></pre>",
+             "mark": "(TIRÉ DU RECUEIL - CHŒURS JOYEUX)"
+           },
+           {
+           "num" : "311",
+           "titre": "Bientôt très bientôt",
+           "hira": "<pre><h4 class='padding'>\n1.  Bientôt très bientôt\n     Nous allons voir, le Seigneur \n     Alleluia, Alleluia\n     Nous verrons le Seigneur.\n\n2. Là-haut plus de pleurs\n     Nous allons voir le Seigneur\n     Alleluia, Alleluia\n     Nous verrons le Seigneur.\n\n3.  Là-haut plus de morts\n     Nous allons voir le Seigneur \n     Alleluia, Alleluia\n     Nous verrons le Seigneur.</h4></pre>"
+           },
+           {
+           "num" : "312",
+           "titre": "Il tient l’univers entier",
+           "hira": "<pre><h4 class='padding'>\n1.  Il tient l’univers entier\n     Dans sa main \n     Il tient l’univers \n     Dans sa main.\n\n2.  Il tient nos petits enfants\n     Dans sa main \n     Il tient l’univers\n     Dans sa main\n\n3.  Il nous tient toi et moi\n     Dans sa main \n     Il tient l’univers\n     Dans sa main\n\n4.  Il tient notre destin\n     Dans sa main \n     Il tient l’univers\n     Dans sa main\n\n5.  Il tient nos lendemains\n     Dans sa main \n     Il tient l’univers\n     Dans sa main\n\n6.  Nous n’avons peur de rien\n     Dans sa main \n     Il tient l’univers\n     Dans sa main</h4></pre>",
+             "mark": "(TIRÉ DU RECUEIL - CHŒURS JOYEUX)"
+           },
+           {
+           "num" : "313",
+           "titre": "Quand les montagnes s’éloigneraient",
+           "hira": "<pre><h4 class='padding'>\nQuand les montagnes s’éloigneraient\nQuand les collines chancelleraient\nQuand les montagnes s’éloigneraient\nDieu fera tout comme Il promet.\nMon amour, oui mon amour \nNe s’éloignera point de toi.\nQuand les montagnes… promet</h4></pre>",
+             "mark":"(TIRÉ DU RECUEIL - CHŒURS JOYEUX)"
+           },
+           {
+           "num" : "314",
+           "titre": "Cà et la j’erre",
+           "hira": "<pre><h4 class='padding'>\n1.  Cà et la j’erre\n     Etranger sur cette terre\n     Mais je sais que là-haut\n     Une place pour moi\n     Plein d’assurance\n     Oui désormais je m’avance\n     Suivant le Berger\n     Qui trace ma voie.\n\n          Et dans mon âme\n          Un chant s’élève et proclame\n          L’amour du Seigneur\n          Qui remplit mon cœur\n          Mon être est libre\n          Et désormais je veux vivre\n          Pour ce seul maître\n          Dont j’ai fait le choix.\n\n2.  Les lieux arides\n     Je les suis avec mon guide\n     Je n’aurai jamais soif\n     Il est la source d’eau\n     Dans les champs fleuris\n     Comme dans les vertes prairies\n     Je chante en marchant\n     Les yeux vers en haut.\n\n3.  La route est dure\n     Sa présence me rassure\n     Je sais que le soleil\n     Ne me frappera pas\n     Les pierres roulent\n     Les épines je les foule\n     Mais le Bon Berger\n     Protège mes pas</h4></pre>"
+           },
+           {
+           "num" : "315",
+           "titre": "Le Seigneur est mon Berger",
+           "hira": "<pre><h4 class='padding'>\n1.  Le Seigneur est mon Berger\n     Réjouis-toi mon âme\n     Car il me fait reposer\n     Au bord des eaux calmes\n     Je ne manquerai de rien\n     Restaure-toi mon âme\n     Sa justice est mon seul bien\n     Et je le proclame.\n\n          Alleluia ! Alleluia !\n          Oui partout je chanterai\n          Alleluia ! Alleluia !\n          Le Seigneur est mon Berger.\n\n2.  Que survienne le danger\n     Ne t’en fais pas mon âme\n     Il vient toujours protéger\n     Ceux qui le réclament\n     Oh non je ne craindrai rien\n     Réjouis-toi mon âme gardien\n     Et je le proclame.\n\n3.  Et lorsque j’arriverai\n     Réjouis-toi mon âme\n     Dans l’éternité bleutée\n     De son ciel si calme\n     Oh ! oui que je serai bien\n     Restaure-toi mon âme\n     Car nous le verrons enfin\n     Chante-le mon âme.</h4></pre>"
+           },
+           {
+           "num" : "316",
+           "titre": "Je ne sais pas comme il le faut",
+           "hira": "<pre><h4 class='padding'>\n1.  Je ne sais pas comme il le faut\n     Chanter la joie qui est en moi\n     Je ne sais pas comme il le faut\n     Exprimer la joie qui vient de Toi.\n\n2.  Il m’a donné plus que la vie\n     C’est pourquoi\n     Je chante aujourd’hui\n     Il m’a donné plus que la vie\n     C’est pourquoi\n     Je veux être pour Lui.\n\n3.  On L’a cloué, Il n’a rien dit\n     On L’a percé, Il n’a rien dit\n     On L’a joué, Il n’a rien dit\n     Sans un mot sa tête Il l’a penché\n     Et alors au ciel, Il est monté.\n\n4.  Pourquoi pleurer, vous la menter\n     Il reviendra, et ce jour-là\n     Il étendra ses deux grands bras\n     Et au ciel, Il vous emportera.</h4></pre>",
+             "mark": "(TIRÉ DU RECUEIL - CHŒURS JOYEUX)"
+           },
+           {
+           "num" : "317",
+           "titre": "Tendrement Jésus",
+           "hira": "<pre><h4 class='padding'>\nTendrement Jésus\nVeille sur toi\nIl te suit pas à pas\nDans la vie\nChaque jour\nIl veut t’accorder à la fois\nSon pardon, \nSa bienveillance infinie.\n\n     Es-tu faible\n     Es-tu fort\n     Dans ton droit\n     Dans ton tort\n     Ton travail est-il vain\n     Que tu perdes\n     Ou fasses un gain.\n\nTendrement Jésus\nVeille sur toi\nIl te suit pas à pas\nDans la vie\nChaque jour\nIl veut t’accorder à la fois\nSon pardon\nSa bienveillance infinie</h4></pre>"
+           },
+           {
+           "num" : "318",
+           "titre": "Ne Dieu règne encore",
+           "hira": "<pre><h4 class='padding'>\nNe Dieu règne encore !\nJamais son amour ne s’endort.\nLe vent se déchaîne, \nNos cœurs sont en peine, \nMais Dieu nous conduit\nJusqu’au port\nNotre Dieu règne encor !\nJamais son amour ne s’endort.\nCe qu’il nous nous promet\nReste vrai pour jamais :\nNotre Dieu règne encore!</h4></pre>"
+           },
+           {
+           "num" : "319",
+           "titre": "He’s got the whole world",
+           "hira": "<pre><h4 class='padding'>\n1.  He’s got the whole world (4)\n     In his hands. \n\n2.  He’s got the wind and the rain. (4)\n     In his hands. \n\n3.  He’s got the tiny little baby (4)\n     In his hands. \n\n4.  He’s got you and me brother (4)\n     In his hands</h4></pre>"
+           },
+           {
+           "num" : "320",
+           "titre": "In the name of Jesus",
+           "hira": "<pre><h4 class='padding'>\nIn the name of Jesus, (2)\nWe have the victory.\nIn the name of Jesus, (2)\nDemons will have to flee.\nWho can tell what God can do?\nWho can tell of his love for you?\nIn the name of Jésus, Jésus, \nWe have the victory.</h4></pre>"
+           },
+           {
+           "num" : "321",
+           "titre": "Tsy misy afa-milaza fa",
+           "hira": "<pre><h4 class='padding'>\nTsy misy afa-milaza fa\nTompon’ny fandresena\nRaha tsy efa nandalo ady iray\nNandreraka koa.\n\n1.  Aza mihevitra ianao\n     Fa hisosa ny fiainanao.\n\n2.  Lalan-tsarotra ho anao\n     No tsy maintsy hizoranao.\n\n3.  Nefa aoka ho tsarovana\n     Fa ny Tompo no momba anao</h4></pre>"
+           },
+           {
+           "num" : "322",
+           "titre": "O! mideza ity lalako",
+           "hira": "<pre><h4 class='padding'>\n1.  O! mideza ity lalako\n     Mankany aminao Raiko ô!\n     Toa tsy tanty ny hatsiaka\n     Sy hafanana izay mandreraka ahy\n     Fa ny tananao Raiko ô!\n     Tanana mahery\n     Izay matoky Anao fantatro\n     Fa tsy mba ho very. \n\n          Tsy ho kivy ny fo\n          Tsy ho kivy tokoa\n          N’inona n’inona hanjo\n          Ho zakaiko avokoa.\n\n2.  Izay ela izay aho Raiko ô!\n     Tsy nahatsiaro Anao\n     Voafitaky ny ankosoBolamenan’ity tany\n\n          Dera laza no atolotro\n          Ho Anao Raiko ô!\n          Hitako izao ny lalanao\n          Lalam-baovao.</h4></pre>"
+           },
+           {
+           "num" : "323",
+           "titre": "He fitiavana mahery",
+           "hira": "<pre><h4 class='padding'>\n1.  He fitiavana mahery\n     Ts’isy afaka hilaza \n     No nasehonao ry Ray\n     Miantso anay ho zanaka \n     Tsy mba lalam-pahoriana\n     No ivimbinanao anay\n     Na dia tojo alon-drano\n     Ity sambokelinay.\n\n          Fa tamin’ny fahafenoan’I Krisy\n          No nandraisantsika\n          Fitahiana be dia be\n          Fahasoavana natolotra\n          Fiainan-tsambatra tokoa\n          No iainana hatrany.\n\n2.  Raho-mainty mivangongo\n     Eny ambony izay jerena\n     Tao ‘reo ady nosedraina\n     Nampitondra faisana\n     Nefa tsy mba mety rendrika\n     Vao mainka nitraka\n     F’ao ‘lay hery mahagaga, \n     Miaro sy mitantana.\n\n3.  Ts’isy afaka hitanisa\n     Ny hamaroan’ny asanao\n     Toy ny asam-pamonjena\n     Ho an’izao tontolo izao\n     Jeso Kristy nidina tety\n     Mba hamonjy ny mpanota\n     Ts’isy famonjena hafa\n     Ho an’ny olombelona.</h4></pre>"
+           },
+           {
+           "num" : "324",
+           "titre": "Raha nafahan’i Jehovah",
+           "hira": "<pre><h4 class='padding'>\n1.  Raha nafahan’i Jehovah\n     Tany Egypta ny Zanak’Israely\n     Dia nanenjika tokoa Farao\n     Sy ny miaramilany\n     Kanefa Mosesy nilaza hoe :\n     Aza matahotra\n     Fa ho hitanareo\n     Ny famonjen’i Jehovah.\n\n          Jehovah hiady ho anareo\n          Fa ianareo kosa hangina\n          Koa mahereza sy matanjaha\n          Aza matahotra.\n\n2.  Raha mandalo ady mafy\n     Mahakivy koa isika ankehitriny\n     Tsy mahita izay hatao\n     Fa indro mitanondrika\n     Tsarovy anefa\n     Fa ilay teny hoe :\n     Aza matahotra\n     Dia toky tokoa\n     Fa tsy mba mamitaka.</h4></pre>"
+           },
+           {
+           "num" : "325",
+           "titre": "Feno fitaka ny tany",
+           "hira": "<pre><h4 class='padding'>\nFeno fitaka ny tany, \nSafotr’onja izany fo\nMampitombo fahoriana\nIreo babon’ny manjo\nNampaniry hasambarana\nSy fiadanam-po\nToa satry aza ny\nNanana elatra soa.\n\nIreo babon’ny ankaso, \nSafotry ny fahoriana, \nToa vonton-dranomaso, \nRanomasom-pijaliana\nMahatsapa fa tsy misy\nAnarana ahazoana famonjena, \nAfa-tsy ny\nAnaran’i Jeso Kristy.\n\nSoa ihany fa ao\nIlay Ray Tsitoha\nMitsinjo ireo\nReraka am-po\nIzay vonton-dranomaso\nSy azom-pahoriana\nMaro dia maro tokoa.\n\n-  Ampaherezonao ’zahay\n     Ry Ray be indrafo\n     Fa toy ny voninkazo\n     Hihintsana eny koa ho lo\n     Mba hanam-paharetana\n     Sy hatsarana hatrany\n     Raha mbola tany koa ny tany.\n\nMisy namanao angamba, \nAny lavitra any ho any\nIzaranao ny alahelo\nRehefa tojo ny tomany\nVoafetra ihany anefa\nNy vahaolana azonao\nToa miampy trotraka aza\nNy fahavoazanao.\n\nFa ny zavatra iriko\nHikambanako aminao\nDia ilay Jeso Tompo\nAry ny mba handraisanao\nFiadanana dradraina\nMino aho fa ho azonao\nRaha mino\nSy matoky ianao.\nAlahelo ho ahy\nNy mety hanjo anao\nRaha tamana\nAmin’izao tany izao\nKa ho voina mitatao\nNo ho avy miandry anao\nAo aoriana ao.</h4></pre>"
+           },
+           {
+           "num" : "326",
+           "titre": "Ny fiainana eto an-tany",
+           "hira": "<pre><h4 class='padding'>\n1.  Ny fiainana eto an-tany\n     Dia mivadibadika\n     Fa ny lalana aleha\n     Dia miaka-midina\n     Kanefa tsy ho kivy\n     Amin’izany izahay Jeso\n     Fa Ianao ry Jeso Tompo (2)\n     No tena tokinay.\n\n2.  Fitsapana, ady mafy\n     No miseho eny an-dàlana\n     Fa fahavalo maro\n     No mitady hampiverina\n     Ka mandefa ny tsipika\n     Mba hamotraka anay\n     Fa Ianao ry Jeso Tompo (2)\n     No tena ampinganay.\n\n3.  Rivo-doza tena mafy\n     Mila hampihemotra\n     Ka ny onjan-drano koa\n     No mitady hampilentika\n     Orana no mifafy\n     Mila hampirodana\n     Fa Ianao ry Jeso Tompo (2)\n     No vatolampinay.</h4></pre>"
+           },
+           {
+           "num" : "327",
+           "titre": "Miambena izao",
+           "hira": "<pre><h4 class='padding'>\n1.  Miambena izao, \n     Ry fanahiko!\n     Misy rafinao misaina\n     Hanangoly ny malaina\n     Be ny fandrika\n     Voavelatra.\n\n2.  Miambena izao, \n     Ry fanahiko!\n     Mba tsy ho andevon’ota, \n     Na hotaomin’ny mpanota\n     Mivavaha izao, \n     Ry fanahiko.\n\n3.  Miambena izao, \n     Ry fanahiko, \n     Ka tohero ny devoly\n     Raha avy manangoly;\n     Kristy raisonao, \n     Mba ho aronao!\n\n4.  Miambena izao, \n     Ry fanahiko!\n     Tsy ho ela tsy akory, \n     Dia ho lasa ny mahory, \n     Ka ho afaka\n     Ny mpiambina.\n\n5.  Miambena izao, \n     Ry fanahiko!\n     Fa ho avy indray ny Tompo\n     Mba hampody ny mpanompo\n     Ho finaritra\n     Ao an-danitra.</h4></pre>"
+           },
+           {
+           "num" : "328",
+           "titre": "Rehefa tonga ny fotoana",
+           "hira": "<pre><h4 class='padding'>\n1.  Rehefa tonga ny fotoana\n     Hiavianao ry Tompo masina ô!\n     Ny rehetra hiandrandra Anao\n     Hidera sy hankalaza Anao.\n\n          Mivonòna Ianao\n          Hitsena ny Mpanavotra\n          Ka miambena ianao\n          Ho eo an-tanan’i Jeso.\n\n2.  Indreto izahay ry Tompo ô!\n     Tsy mendrika eo anatrehanao\n     Tolory ny fahasoavanao\n     Ho voavonjy ny fanahinay.</h4></pre>"
+           },
+           {
+           "num" : "329",
+           "titre": "Ne crains point",
+           "hira": "<pre><h4 class='padding'>\n1.  Ne crains point!\n     Le ciel se couvre\n     Mais plus haut, \n     Vois, il est bleu\n     Dans la nuit, \n     Toujours il s’ouvre\n     Pour montrer\n     L’amour de Dieu\n     (Non) Ne crains point (bis)\n     Car pour toi\n     L’amour de Dieu\n     Resplendit\n     Sous le ciel bleu\n     Ne crains point !\n     Nom, ne crains point.\n\n2.  Ne crains point\n     Quand le tonnerre\n     Fait trembler\n     Notre maison\n     Que ton cœur\n     Sache se taire\n     Eloignant\n     Même un frisson\n     (Non) Ne crains point (bis)\n     Dieu dissipe\n     Tout frisson\n     Et réchauffe ta maison !\n     Ne crains point !\n     Non ne crains point.\n\n3.  Ne crains point, \n     C’est la parole\n     Qui nous vient\n     Du Dieu Sauveur\n     Devant Lui\n     La peur s’envole\n     Car de tout\n     Il est vainquer\n     (Non) Ne crains point (bis)\n     Car de tout\n     Le grand vainquer\n     C’est ton Dieu\n     C’est ton Sauveur\n     Ne crains point !\n     Non, ne crains point !</h4></pre>"
+           },
+           {
+           "num" : "330",
+           "titre": "Ne crains pas la tempête",
+           "hira": "<pre><h4 class='padding'>\nNe crains pas la tempête, \nReste tranquille, \nLa Paix viendra.\nRelève donc la tête, \nRegarde à Jésus, \nSois plein de foi.\nQu’importe l’adversaire, \nChasse la crainte, \nIl est vaincu.\nAu nom puissant de Jésus, \nL’ennemi s’enfuit, \nTu es vainquer !</h4></pre>"
+           },
+           {
+           "num" : "331",
+           "titre": "Quand le vol de la tempête",
+           "hira": "<pre><h4 class='padding'>\n1.  Quand le vol de la tempête\n     Vient assombrit ton ciel bleu, \n     Au lieu de baisser la tête, \n     Compter les bienfaits de Dieu.\n\n2.  Quand sur la route glissante\n     Tu chancelles sous ta croix, \n     Pense à cette main puissante\n     Qui t’a béni tant de fois.\n\n3.  Si tu perds dans le voyage\n     Plus d’un cher et doux trésor, \n     Pense au divin héritage\n     Qui là-haut te reste encore.\n\n4.  Bénis donc, bénis sans cesse\n     Ce Père qui chaque jour\n     Répand sur toi la richesse\n     De son merveilleux amour.\n\n          Compte les bienfaits de Dieu, \n          Mets-les tous devant tes yeux, \n          Tu verras, en adorant, \n          Combien le nombre en est grand.</h4></pre>"
+           },
+           {
+           "num" : "332",
+           "titre": "Jésus revient, alléluia",
+           "hira": "<pre><h4 class='padding'>\n1.  Jésus revient, alléluia (bis)\n     Seras-tu prêt quand Il viendra, \n\n          Alléluia, alléluia.\n\n2.  Seras-tu prêt quand Il viendra (bis)\n     Si tu es prêt, Il te prendra.\n\n3.  Si tu es prêt, Il te prendra (bis)\n     Et avec Lui tu règneras.\n\n4 – Et avec Lui tu règneras (bis)\n     En Lui tu te réjouiras.\n\n5.  En Lui tu te réjouiras(bis)\n     Et à ses pieds tu te tiendras, \n\n6.  Et à ses pieds tu te tuendras (bis)\n     En entonnant : Alléluia.</h4></pre>"
+           },
+           {
+           "num" : "333",
+           "titre": "Seigneur, je ne sais",
+           "hira": "<pre><h4 class='padding'>\n1.  Seigneur, je ne sais\n     Où Tu me diriges\n     Non, je ne vois pas le chemin\n     Tracée devant moi, \n     La route est cachée\n     Mais en Toi j’ai ma confience\n     Oui jusqu’à la fin.\n\n2.  Si la voie passe\n     A travers la tristesse\n     Et si je n’en vois pas la fin\n     Ou si la route est bordée\n     De tentations\n     En Toi j’ai mis ma confiance\n     Oui jusqu’à la fin.\n\n          Je ne vois pas le chemin\n          Je ne vois pas en avant\n          Je ne sais pas où mes pieds\n          Seront emmenés.</h4></pre>"
+           },
+           {
+           "num" : "334",
+           "titre": "Lorsqu’on est jeune",
+           "hira": "<pre><h4 class='padding'>\n1.  Lorsqu’on est jeune\n     On danse et l’on rit\n     On rêve de grands exploits\n     On aime, on chante\n     Tout nous sourit\n     Mais il nous faut faire un choix.\n\n          Chante ô, jeunesse\n          Ton Dieu, ton Roi\n          C’est Lui qui nous mène\n          Au but à coup sûr\n          A Lui la flamme de notre foi\n          Notre cœur qu’il veut rendre pur.\n\n2.  Vous les amis\n     Quel sens a pour vous\n     La vie et son dur combat\n     En Christ, on trouve\n     La clef de tout\n     Sa grâce affermit nos pas.\n\n3.  Vous les amis, \n     Pourquoi cette peur\n     Quand passe soudain la mort\n     Christ est vivant\n     C’est le grand vainqueur\n     Il peut rendre libre et fort.\n\n4.  Vous les amis\n     Comment donc bâtir\n     Un monde qui soit meilleur\n     Il est un chef\n     Qu’il nous faut servir\n     C’est Christ, \n     Le seul vrai Sauveur.</h4></pre>",
+             "mark": "© COPYRIGHT LIGUE POUR LA LECTURE DE LA BIBLE, 1010 LAUSANNE, SUISSE, AVEC AUTORISATION)"
+           },
+           {
+           "num" : "335",
+           "titre": "Quel ami fidèle et tendre",
+           "hira": "<pre><h4 class='padding'>\n1.  Quel ami fidèle et tendre\n     Nous avons en Jésus Christ, \n     Toujours prêt à nous entendre, \n     A répondre à notre cri !\n     Il connaît nos défaillances, \n     Nos chutes de chaque jour, \n     Sévère en ses exigences, \n     Il est riche en son amour.\n\n2.  Quel fidèle et tendre\n     Nous avons en Jésus Christ\n     Toujours prêt à nous comprendre\n     Quand nous sommes en souci !\n     Disons- lui toutes nos craintes, \n     Ouvrons- Lui tout notre cœur.\n     Bientôt ses paroles saintes\n     Nous rendront le vrai bonheur.\n\n3.  Quel ami fidèle et tendre\n     Nous avons en Jésus christ\n     Toujours prêt à nous défendre\n     Quand nous presse l’ennemi !\n     Il nous suit dans la mêlée, \n     Nous entoure de ses bras, \n     Et c’est Lui qui tient l’épée\n     Qui décide des combats.\n\n4.  Quel ami fidèle et tendre\n     Nous avons en Jésus Christ\n     Toujours prêt à nous apprendre\n     A vaincre en comptant sur Lui !\n     S’il nous voit vrais et sincères\n     A chercher la sainteté, \n     Il écoute nos prières\n     Et nous met en liberté.\n\n5.  Quel ami fidéle et tendre\n     Nous avons en Jésus Christ\n     Bientôt Il viendra nous prendre\n     Pour être au ciel avec Lui.\n     Suivons donc l’étroite voie\n     En comptant sur son sécours.\n     Bientôt nous aurons la joie\n     De vivre avec Lui toujours !</h4></pre>"
+           },
+           {
+             "num" : "336",
+             "titre": "Veux –tu briser",
+             "hira": "<pre><h4 class='padding'>\n1.  Veux –tu briser\n     Du péché le pouvoir, \n     La force est en Christ (bis)\n     Si dans ton cœur\n     Tu veux Le recevoir :\n     La force est dans le sang de Christ.\n\n          Je suis fort, fort !\n          Oui, plus que vainqueur\n          Par le sang de Jésus !\n          Je suis fort, fort !\n          Oui, plus que vainqueur\n          Par le sang de Jésus mon Sauveur.\n\n2.  Veux-tu braver\n     Et la mort et l’enfer, \n     La force est en Christ (bis)\n     Jésus d’un mot\n     Fait tomber tous les fers\n     La force est dans le sang de Christ.\n\n3.  Veux-tu marcher\n     Toujours pur, triomphant ?\n     La force est en Christ (bis)\n     Pour te garder, \n     Jésus est tout puissant :\n     La force est dans le sang de Christ.\n\n4.  Veux-tu du ciel\n     T’approcher chaque jour ?\n     La force est en Christ (bis)\n     Avec Jésus\n     Demeurer pour toujours ?\n     La force est deans le sang de Christ.</h4></pre>",
+             "mark": "(TIRÉ DES CHANTS DE VICTOIRES)"
+           },
+          {
+            "num" : "337",
+            "titre": "Si tu confesses tes péchés",
+            "hira": "<pre><h4 class='padding'>\n1.  Si tu confesses tes péchés (3)\n     Je te pardonnerai.\n\n2.  Le sang de Christ peut rendre pur (3)\n     Le cœur le plus mauvais.\n\n3.  Je garderai ton coeur en paix (3)\n     En moi confie-toi\n\n4.  Dans ta faiblesse mon enfant (3)\n     Ma grâce te suffit.\n\n5.  Et si tu passes par le feu (3) (3)\n     Avec toi je serai.</h4></pre>",
+            "mark": "(TIRÉ DU RECUEIL - CHŒURS JOYEUX)"
+          },
+          {
+            "num" : "338",
+            "titre": "What a Friend",
+            "hira": "<pre><h4 class='padding'>\n1.  What a Friend\n     We have in Jesus\n     All our sins\n     And griefs to bear\n     What a privilege\n     To carry\n     Everything to\n     God in prayer!\n     Oh what peace\n     We often forfeit, \n     O what needless\n     Pain we bear, \n     All because we\n     Do not carry\n     Everything to\n     God in prayer!\n\n2.  Have we trials\n     And temptations?\n     Is there trouble\n     Anywhere?\n     We should never\n     Be discouraged, \n     Take it to the\n     Lord in prayer, \n     Can we find\n     A friend so faithful\n     Who will all\n     Our sorrows share?\n     Jesus knows\n     Our every weakness, \n     Take it to the\n     Lord in prayer.\n\n3.  Are we weak\n     And heavy laden, \n     Cumbered whith\n     A load of care?\n     Precious Saviour\n     Still our refuge\n     Take it to the\n     Lord in prayer\n     Do thy friends\n     Despise, frsake thee?\n     Take it to the\n     Lord in prayer;\n     In his arms He’ll take\n     And shield thee, \n     Thou wilt find\n     A solace there.</h4></pre>"
+          },
+          {
+            "num" : "339",
+            "titre": "Iza no hanompo",
+            "hira": "<pre><h4 class='padding'>\n1.  Iza no hanompo\n     An’i Jeso soa ?\n     Iza no hanaiky\n     Mba ho Azy moa?\n     He, ny hatsrany, \n     He ny antra be!\n     Fa Izy ta-hamonjy, \n     Ka meteza re !\n\n          Jeso Tomponay ô !\n          Indreto izahay\n          Avy mba hanaiky, \n          Ka mandraisa anay.\n\n2.  Iza re no mety, \n     Iza re lazao, \n     Hanome ny fony\n     Mba ho Azy izao?\n     He miantso mafy\n     Jeso Tompo tia\n     Izay rehetra mety, \n     O! avia, avia!\n\n3.  Iza no mba sahy, \n     Sahy ao am-po\n     Ho miaramila\n     Fehin’i Jeso?\n     Iza no hiady\n     Ady tsara re, \n     Fa ny fahavalo dia marobe?\n\n4.  Iza re no homba\n     Azy ankehitrio\n     Mba hamonjy ireny \n     Azon’ny manjo?\n     Iza no hihafy\n     Sady hanome, \n     Andro, hery, saina?\n     Mamalia e!\n\n5.  Iza no hazoto\n     Mba hiasa moa?\n     Iza no handroso\n     Mba ho hendry koa?\n     Iza no hanaiky, \n     Iza re? Lazao\n     Mba ho an’I Jeso\n     Izao anio izao?</h4></pre>"
+          },
+          {
+            "num" : "340",
+            "titre": "‘Njao misy feo",
+            "hira": "<pre><h4 class='padding'>\n‘Njao misy feo\nAny an’efitra manao hoe :\nAmboary ny lalan’I jehovah\nAtaovy mahitsy \nNy lalan-kalehany\nInjany misy miteny\nManao hoe :\nMiantsof’aza hatsahatra\nAkory izany antsonao\nAhoana anefa no antso ataoko\nFa ahitra ihany\nNy nofo rehetra\nTahaka ny vonin-javatra\nNy hatsarany \nMaina ny ahitra\nMalazo ny Voniny\nFa ny Teninao\nNo haharitra mandrakizay.\n\n1.  Ry Ziona ‘zay mitondra\n     Ny teny soa \n     Miakara any\n     An-tendrombohitra avo\n     Ka aoka hasandratra\n     Ny feonao\n     Aza matahotra\n     Fa miantsoa mafy ianao.\n\n2.  Ianao no iraka\n     Solon’ny Tompo\n     Hitondra\n     ‘Lay fampihavanana so\n     Hampihavana\n     Ny olona amin’ny Ray\n     Nandraisanao\n     ‘Lay fiainana mandrakizay.</h4></pre>"
+          },
+          {
+            "num" : "341",
+            "titre": "Ary nandre feo aho niantso hoe",
+            "hira": "<pre><h4 class='padding'>\n1.  Ary nandre feo aho niantso hoe :\n     «  O! iza no hirahiko, \n     Ary iza no handeha ho irakay\n     Mba hamonjy ny oloko  ».\n\n          Inty aho (2) Jesosy ô!\n          Iraho aho (2)\n          Inty aho (2) Jesosy ô!\n          Fa vonona hanompo Anao\n          Ny baikonao sisa\n          Andrasako Tompo ô!\n          Fa vonona aho izao\n          Ho vonona hanao izay sitrakao\n          Ka inty iraho aho Jeso.\n\n2.  Ho vavolombelonao Tompoô!\n     No tiako (2)\n     Ho vonona hanao ‘zay sitrakao\n     Ka inty iraho aho Jeso</h4></pre>"
+          },
+          {
+            "num" : "342",
+            "titre": "Reko izao ry Tompo",
+            "hira": "<pre><h4 class='padding'>\n1.  Reko izao ry Tompo, \n     Izany antsonao, \n     Miantso izany mpanompo\n     Mba ho irakao!\n\n          Inty! Inty!\n          Inty aho Jeso!\n          Inty! Inty!\n          Iraho aho Jeso!\n          Ekeko re, \n          Ny ho miaramilanao\n          Ho vonona hanao \n          Ny sitrakao ka iraho! \n\n2.  O! diovy Tompo\n     Izany molotro\n     Ka ny fo madio hanompo\n     No atolotro!\n     Inty aho, sns.\n\n3.  Tsy handeha irery;\n     Fa hiaraka aminao!\n     Ka dia mba omeo ny hery\n     Sy ny Fanahinao!\n     Inty aho, sns.\n\n4.  Reko izao ny toky hoe :\n     «  Momba ahy Ianao  »\n     Ry Jesosy Tompo sy Zoky\n     Vonona aho izao.\n     Inty aho, sns</h4></pre>"
+          },
+          {
+            "num" : "343",
+            "titre": "Mahagaga tokoa",
+            "hira": "<pre><h4 class='padding'>\n1.  Mahagaga tokoa\n     Raha tsarovana izao\n     Ny fitantanan’I Kristy Jeso\n     Moa va tsy ny lalana\n     Itondrany anao\n     No mitondra ny fiadanam-po?\n\n          Araka izay noraisinao\n          Meteza izao\n          Ho fitaovan-kizara hasoavana\n          Tahaka ny nitiavan’ i\n          Kristy anao\n          Mandehana amin’ny fitiavana.\n\n2.  Mba hevero anie\n     Ny nanavotanao anao\n     Tao anatin’ny ali-maizina\n     Na ny ainy aza mantsy\n     Dia nafoiny ho anao\n     Mba hahavelona anao\n     Mandrakizay.\n\n3.  Itodiho indray\n     Ny manodidina anao\n     Maro ‘reo mila fitiavana\n     Moa va tsy\n     Ny hazavana aposakao\n     Hitarafany Ilay Mpanavotrao?</h4></pre>"
+          },
+          {
+            "num" : "344",
+            "titre": "Maro ireo tanora",
+            "hira": "<pre><h4 class='padding'>\n1.  Maro ireo tanora \n     Izay miraparapa \n     Ao anatin’ny aizina ao\n     Mitambesatra ny ota\n     Ka tsy zaka\n     Fahoriana re no ao.\n\n          Iza kosa no hilanja\n          Ny fanilo ho azy ireo\n          Izay hampahiratra\n          Tokoa ny jamba\n          Ka ho vonjy ho azy ireo\n\n2.  Fahafatesana\n     No toerana hitobiany\n     Lavitra ny fiainana\n     Tsy mba misy\n     Fanavotana itokiany\n     Manome fiadanana.\n\n3.  Fa Jesosy no efa\n     Maty ho azy ireo\n     Ka mitondra fiainana\n     ‘Zay mandray dia sahy\n     Manandratra ny feo\n     Fa manam-piadanana.</h4></pre>"
+          },
+          {
+            "num" : "345",
+            "titre": "Mitoria an’i Jeso Kristy",
+            "hira": "<pre><h4 class='padding'>\nMitoria an’i Jeso Kristy\nMitoria mandra-piaviny\nAntso ho an’ny fiangonana\nTsy an-kanavaka\nHitondra ny Filazantsara\nFilazantsara manontolo\nHo an’ny olona eran-tany, \nNy olona rehetra.</h4></pre>"
+          },
+          {
+            "num" : "346",
+            "titre": "Mitoria ny teny soa",
+            "hira": "<pre><h4 class='padding'>\n1.  Mitoria ny teny soa\n     Lazao ny hatsaran’i Jeso\n     Io no vonjy mahasoa\n     Ny rehetra tiany avokoa\n\n2.  Aza mba matahotra\n     Mandrosoa mazotoa ianao\n     Tompon-dakan-danitra\n     Momba anao, miahy ny ainao.</h4></pre>"
+          },
+          {
+            "num" : "347",
+            "titre": "Iza no ho iraka",
+            "hira": "<pre><h4 class='padding'>\nIza no ho iraka\nHilaza teny soa\nTeny fiainana\nMitondra ny hasambarana\nIza no ho iraka\nHitondra vaovao mahafaly koa\nHo an’ireo izay mitady\nNy fiadanam-po.\n\nInty iraho aho\nRy Tompo tia ô !\nRaiso ho fiasananao\nHitory ny asanao\nHo sambatra tokoa\nIty taninay ity\nRaha toa ny olonao\nManaiky ho irakao.</h4></pre>"
+          },
+          {
+            "num" : "348",
+            "titre": "Endrika sariaka no",
+            "hira": "<pre><h4 class='padding'>\n1.  Endrika sariaka no\n     Anompoako Anao\n     Jehovah Ray\n     Fa tapaka ny hevitro\n     Izaho dia olonao \n     Mandrakizay\n     He, ny foko afa-jaly, \n     Tena ravo sady falifaly, \n\n          Ka : endrika sariaka no\n          Anompoako Anao, \n          Jehovah Ray.\n\n2.  Fa tsaroan’izany saiko\n     Mandra-maty ho tadidiko, \n     Ny nanavotanao ny aiko, \n     Ilay fanahy sarobidiko.\n     Fa nomena fahendrena\n     Izay ekena fa ny famonjena, \n     Ka :endrika, sns\n\n3.  Be ny zavatra mihatra\n     Mampahory sy mandrera-po ;\n     Kanefa ireny tsy handratra, \n     Ny arovanao ry Ilay Tsitoha.\n     Fa ny fony, tena tony\n     Tsy mba kivy, \n     Tsy mba taitra intsony, \n     Ka : endrika sariaka, sns.\n\n4.  Misy ve ny mampanahy\n     Sy ny zava-manahirana ?\n     He, tsy kivy ny Fanahy\n     Fa hijoro, ka ho mirana.\n     Fa Jehovah, Ray mahery, \n     Miandany sady koa mijery\n     Ka : endrika sariaka, sns.</h4></pre>"
+          },
+          {
+            "num" : "349",
+            "titre": "Fitiavana Ianao",
+            "hira": "<pre><h4 class='padding'>\n1.  Fitiavana Ianao\n     Ry Tompo Andriamanitra ô\n     Manaiky hiara-monina aminay\n     Fatra-pandà ny teninao\n     Hatramin’izay \n     Tsy mba reraka Ianao\n     Raha mibitsika aminay hoe :\n     «  Mba modia  »\n     Nanaiky ho faty Ianao\n     Hisolo ny helokay\n     Mba ho isan’ny \n     Ankohonanao ‘zahay.\n\n2.  Fiarova-mahatoky\n     Sy Mpamonjy akaiky Ianao Jeso\n     Tsy mba mandà\n     Izay rehetra miantso\n     Ny anaranao sy mino Anao\n     Indrisy anefa Tompo\n     Manadino anao ‘zahay\n     Rehefa faly\n     Kanefa tsy miova Ianao\n     Maneho ny fitiavanao.\n     Satria tsy sitrakao\n     Ny hahavery anay.\n\n3.  Satriko ry Jeso Tompo\n     Ny hitoetra eo anilanao\n     Ny androko sisa\n     Mbola omenao ahy\n     Hiasako ho anao, \n     Hanompoako Anao\n     Ireo mivelona amin’ny ota\n     Tsy mba manam-piadanana fa ory\n     Ilazako fa miandry Ianao\n     Te hamonjy azy koa\n     Te hanome fiainam-baovao.</h4></pre>"
+          },
+          {
+            "num" : "350",
+            "titre": "Izaho ity ry Jeso",
+            "hira": "<pre><h4 class='padding'>\n1.  Izaho ity ry Jeso, \n     Raha nanolo-tena\n     Tena ho Anao an-tsitrapo\n     Tsy noterena\n     Nanaiky aho hanara-dia\n     Anao Tompo tia\n     Mivoady hiasa ho Anao\n     Mandrakizay doria.\n\n          Handeha hamoa voa tsara\n          Mba ho voninahitrao\n          Hitory teny mahafaly\n          Hilaza ny hatsaranao\n          Ny fiainana rehetra\n          Izay natolotra Anao\n          No haneho sy hanambara\n          Fa fitiavana Ianao.\n\n2.  ‘Zahay ireto Jeso\n     Lasa mpisakaiza\n     Mpirahalahy, mifankatia\n     Mifampitaiza\n     Ny teninao ianaranay\n     No mampiorina\n     Ny sampana ‘zay tsy mamoa\n     Dia esorina.\n\n3.  Navelanao ‘zahay ry Tompo\n     Ho sedraina\n     Mifampahery hatrany hatrany\n     Velon’aina \n     Ny tanjona tratrarinay\n     Fankatoavana \n     An-tananao ny fiainanay\n     Ka hasambarana.</h4></pre>"
+          },
+          {
+            "num" : "351",
+            "titre": "Ny fanoloran-tenanao sakaiza",
+            "hira": "<pre><h4 class='padding'>\n1.  Ny fanoloran-tenanao sakaiza\n     Mila fanavaozana\n     Fomba fitorinao ry sakaiza\n     Mila fanavaozana koa\n     Vavaka ataonao ry sakaiza\n     Mila fanavaozana.\n\n          Koa dia eritrereto ihany\n          Ary koa\n          Dinidiniho tsara\n          Ry sakaiza\n\n2.  Izato fiainanao ry sakaiza\n     Mba aoreno tsara\n     Faingafaingano ihany ry sakaiza\n     Sao ianao tara\n     Mba araraoty ihany ny fotoana\n     Sao nenina any am-para\n\n3.  Io fanavaozana io ranabavy\n     Tsoriko aminao\n     Io fanorenana io rahalahy\n     Ambarako aminao\n     Tsy vitan’ny herin-tena\n     na ny saina\n     Fa Jeso no tena aina.</h4></pre>"
+          },
+          {
+            "num" : "352",
+            "titre": "Fitiavana mandrakizay",
+            "hira": "<pre><h4 class='padding'>\n1.  Fitiavana mandrakizay\n     Ny fitiavanao ry Mpamonjy\n     Fa niaretanao izay nataoko\n     Eny na dia mafy aza izany ;\n     Naharitra hatrany Ianao\n     Nandatsaka ny ranao soa\n     Hanavotr’ity efa very\n     Hamerina ny efa nania.\n\n          Tiako ny eo akaikinao Jeso (2)\n          Ka hiara-mamindra Aminao tokoa\n          Hery ho ahy ny fitiavanao\n          Fifaliako rahatrizay.\n\n2.  He satriko hibanjina hatrany\n     ‘Lay hazo nijalianao\n     He tiako ho tsaroana hatrany\n     ‘Reo kapoka niaretanao\n     F’ireny rehetra ireny\n     Nentinao hamonjena ahy\n     Hahazo fiainam-baovao\n     Ilay efa nomaninao.\n\n3.  Anio aho mamerin’indray\n     Hanaraka Anao ho doria\n     Ho Anao aho ry Tompo malala\n     Ho Anao e ! ny fiainako ety, \n     Koa raiso ny fiainako anio\n     Ho mendrika ny lapanao\n     Amboary aho ka ahitsio\n     Hanao izay sitrakao.</h4></pre>"
+          },
+          {
+            "num" : "353",
+            "titre": "Faingàna ajoroy ny faneva",
+            "hira": "<pre><h4 class='padding'>\n1.  Faingàna ajoroy ny faneva\n     Ry tanoran’i Jerosalema\n     Faingàna areheto ny jiro\n     Hanazava ny lala-mankao.\n     Faingàna, faingàna e, \n\n          Faingàna ry namako ô !\n          Andao e, andao e\n          Hanatona ny Tompo izao.\n\n2.  Ny dimy dia adala satria re\n     Tsy mba niomana solika soa\n     Nony tonga ilay fampakarana\n     Dia voahidy ny lala-mankao.\n\n3.  Ny dimy dia hendry satria\n     Efa niomana solika soa\n     Tanteraka sy lavorary\n     Ny lalan-kizora-mankao.\n\n4.  Ry tanora ‘zay mbola sondrina \n     Mandalo izao fiainana izao\n     Faingàna fa aza variana\n     Hatòny Ilay Tomponao.</h4></pre>",
+            "mark": "MT 25 : 1 - 13"
+          },
+          {
+            "num" : "354",
+            "titre": "Iza no hahasaraka ahy",
+            "hira": "<pre><h4 class='padding'>\n1.  Iza no hahasaraka ahy, \n     Aminao, ry Jeso ô?\n     Tompo tia nanavotra ahy, \n     Ianao ry Kristy ô!\n\n          Ka loza ve sa mosary\n          Sa fanenjehana mafy ?\n          «  Ny fahafatesana aza, eny, \n          Eny, tsy hamoizako Anao  ».\n\n2.  Iza no hahasaraka ahy\n     Amin’ny fitiavanao?\n     He! Ny foko tsy manahy, \n     Tafatoetra ao aminao!\n\n3.  Ny finoana no ampinga\n     Ny Baiboly sabatra\n     Ka manoatra ny mpandresy\n     Amin’ny alalanao.\n\n4.  Ry Jesosy feno hery\n     Tano aho ho Anao, \n     Ry Mpamonjy olom-bery, \n     Vonona aho hanoa Anao!</h4></pre>"
+          },
+          {
+            "num" : "355",
+            "titre": "Miorina sy mampianatra",
+            "hira": "<pre><h4 class='padding'>\n1.  Miorina sy mampianatra\n     ‘zay no tena filamatra\n     Hhay hifahatra\n     Amin’Ilay Mpanavotra\n     Hizara koa ‘Zay marina.\n\n          Fa izay re no baiko, \n          (Fa izay tokoa re no bailkonao)\n          Ka mba tanteraho\n          (Ka mba ataovy ho tanteraka)\n          Raha manao izany ianao, \n          (Raha manao am-po tokoa ianao)\n          Dia ho mpianatr’i Kristy.\n\n2.  Efa nomena ianao\n     Ka andao mba hizara koa\n     Ka araraoty re izao andronao\n     Ka torio ‘lay teny soa.\n\n3.  Koa tandremo ny tenanao\n     Sy ny fampianaranao\n     Mba hiorina sy hifahatra\n     Amin’Andriamanitra.</h4></pre>"
+          },
+          {
+            "num" : "356",
+            "titre": "He dera sy laza, (atolotra Anao)",
+            "hira": "<pre><h4 class='padding'>\nHe dera sy laza, (atolotra Anao)\nRy Tompo Mpanjaka\nFa he taona maro, nitahianao anay\n(Ka faly sy ravo ankehitriny)\n‘Zahay velon’aina\nMahare ilay feo hoe :\nNdeha, hoy Ianao, itodiho ny lasa\nIbanjinanareo ny hoavy.\n\n1.  Moa tsy olom-bitsy ihany, \n     Ry Tompo \n     No notendrenao hiasa.\n     Nomenao baiko hitory, \n     Hanambara ny Filazantsara.\n     Nataon’ireo mpianatra namany\n     Ho adala fa hoe tsy manan-katao.\n     Nitory hatrany tsy kivy ireo\n     Noho ny Teninao.\n\n2.  Vokatra maro no azon’ireo, \n     Fa be no nanolotena.\n     Tsy vitan’izany nomenao saina\n     Hanamasina tena.\n     Nohavaozinao ny fo sy ny saina\n     Ary koa ireo toe-panahy\n     I Jeso Mpamonjy\n     Nanjary Mpanjaka\n     Sy Tompon’ny fiainanay.\n\n3.  Ankehitriny indreto izahay\n     Manatrika Anao eto indray\n     Tsy vitsy intsony fa maro\n     Ry Tompo no vonon-kandray.\n     Ireto toro-hevitra avy Aminao\n     Ny amin’ny asa sy ny fiainanay\n     Jeso ô! Teeno fa vonon-kanoa\n     Sy hanompo Anao izahay.</h4></pre>"
+          },
+          {
+            "num" : "357",
+            "titre": "Misikìna ary aoka",
+            "hira": "<pre><h4 class='padding'>\nMisikìna ary aoka\nHirehitra ny jironareo\nDia Jeso Ilay hazavana soa\nHanapaka ao am-po.\n\n1.  Ny famonjena avy Aminy :\n     Manafaka ny ota, \n     Mampianatra hitia\n     An’Ilay Ray, Zanaka ary fanahy\n     Ary ny Teniny : miaro, mitahy.\n\n2.  Ireo talenta tsara anananao\n     Ampitomboy\n     Ho entina mitory hoe :\n     Jeso Mpamonjy sy Mpisoronabe\n     Vohay varavarana fa tia Anao.</h4></pre>"
+          },
+          {
+            "num" : "358",
+            "titre": "Publiez bien haut",
+            "hira": "<pre><h4 class='padding'>\n1.  Publiez bien haut\n     La grande nouvelle\n     Le ciel s’est ouvert\n     A tout être humain.\n     La route est tracée, \n     Un guide fidèle\n     Vous conduira par la main.\n\n          Le salut pour tous, \n          Le salut par grâce, \n          A tous est offert, \n          A tous est donné, \n          Oh ! vevez pécheurs ;\n          Venez, le temps passe.\n          Et vous serez pardonnés.\n\n2.  Publiez bien haut\n     La grande novelle :\n     Le sang de Jésus\n     A tout effacé.\n     Où que vous soyez, \n     C’est vous qu’il avez offensé.\n\n3.  Publiez bien haut\n     La grande nouvelle :\n     Au loin comme au près\n     Faites-la courir, \n     Partout où se trouve\n     Une âme rebelle\n     Un pécheur à secourir.</h4></pre>"
+          },
+          {
+            "num" : "359",
+            "titre": "C’est vers Toi",
+            "hira": "<pre><h4 class='padding'>\n1.  C’est vers Toi\n     Que je me tourne\n     Je veux marcher\n     Dans tes voies\n     J’élève mes mains\n     Pour te rencontrer\n     Mon cœur désire te chanter, \n     Pour bénir et célèbrer\n     Ton saint nom\n     Car tu est fidèle et bon.\n     Seigneur, ô Seigneur\n     Je veux te donner\n     Seigneur, ô Seigneur\n     Ma vie à jamais.\n\n2.  Mes yeux contemplent\n     Ta gloire\n     Ta vie ranime ma foi, \n     Ta paix est ta joie\n     Inondent mon cœur, \n     Toi seul fais\n     Tout mon bonheur\n     Je veux proclamer\n     Que tu est celui\n     Qui chaque jour nous bénit.\n     Seigneur, ô Seigneur, \n     Je veux partager\n     Seigneur, ô Seigneur, \n     Ton éternité.</h4></pre>",
+            "mark": "(REPRODUIT AVEC AUTORISATION, ALAIN BERGESE 1989)"
+          },
+          {
+            "num" : "360",
+            "titre": "Jusqu’à la mort",
+            "hira": "<pre><h4 class='padding'>\n1.  Jusqu’à la mort\n     Nous te serons fidèles\n     Jusqu’à la mort \n     Tu seras notre Roi ;\n     Sous ton drapeau\n     Jésus tu nous appelles\n     Nous y mourons\n     En luttant avec foi !\n\n          Jusqu’à la mort\n          C’est notre cri de guerre\n          Le libre cri\n          D’un peuple racheté ;\n          Jusqu’à la mort, \n          Nous aurons pour bannière\n          Ta croix sanglante, \n          O ! Christ ressuscité.\n\n2.  Pour Toi, Jésus, \n     On est heureux de vivre\n     Tous les chemins\n     Avec Toi semblent doux.\n     Agneau de Dieu\n     Qui ne voudrait te suivre\n     Jusqu’à la mort, \n     Toi qui mourus pour nous ?\n\n3.  Jusqu’à la mort, \n     Soumis à ta puissance, \n     Nous voulons vivre\n     Et mourir sous tes lois\n     Toi qui pour nous\n     Poussas l’obéissance\n     Jusqu’à la mort\n     Et la mort de la croix.\n\n4.  Mais, au Sauveur\n     Tu sais notre faiblesse\n     Nous tomberons\n     Sûrement en chemin\n     Si tu ne viens\n     Accomplir ta promesse\n     Jusqu’à la mort\n     Nous tenant par la main.\n\n5.  Que ton Esprit\n     Nous guide et nous anime !\n     Et que ta flamme\n     Embrassant tous nos cœurs\n     Nous devenions\n     Par Toi, Sainte Victime, \n     Sur la mort même, \n     Un peuple de vainqueurs.</h4></pre>",
+            "mark": "(REPRODUIT AVEC L’AUTORISATION DES EDITIONS DE L’INSTITUT BIBLIQUE DE NOGENT"
+          },
+          {
+            "num" : "361",
+            "titre": "Atreho ny sakafonay",
+            "hira": "<pre><h4 class='padding'>\nAtreho ny sakafonay\nJehovah Mpanome ny soa\nVelominao ny tenanay\nNy sainay hatanjaho koa\n\n        Amena!</h4></pre>"
+          },
+          {
+            "num" : "362",
+            "titre": "Ry Tompo ô",
+            "hira": "<pre><h4 class='padding'>\nRy Tompo ô!\nMba tsofy rano\nNy sakafonay\n\n\n    Amena!</h4></pre>"
+          },
+          {
+            "num" : "363",
+            "titre": "Pour ce repas",
+            "hira": "<pre><h4 class='padding'>\nPour ce repas, \nPour toute joie\nNous te louons Seigneur\nPar tes bienfaits, \nO Dieu de paix\nTu nous rendras meilleurs.</h4></pre>",
+            "mark": "(TIRÉ DU RECUEIL – CHOEURS JOYEUX)"
+          },
+          {
+            "num" : "364",
+            "titre": "Pour la beuaté de nos chemins",
+            "hira": "<pre><h4 class='padding'>\nPour la beuaté de nos chemins\nPour aujourd’hui et pour demain\nEt pour ce pain que nous mangeons\nPour nos amis, nous te louons.</h4></pre>",
+            "mark": "(TIRÉ DU RECUEIL – CHOEURS JOYEUX)"
+          },
+          {
+            "num" : "365",
+            "titre": "Ndao mba hiaraka aminay",
+            "hira": "<pre><h4 class='padding'>\n‘Ndao mba hiaraka aminay (2)\nHiaraka hitady an’i Jeso. \nFifaliany, fifaliany (2) \nFifalian’i Jeso.</h4></pre>"
+          },
+          {
+            "num" : "366",
+            "titre": "Abrahama ray",
+            "hira": "<pre><h4 class='padding'>\nAbrahama ray\nManan-janaka maro\nZanaka maro \nAn’i Abrahama ray\n‘Zaho anisan’ireny\nIanao koa\n‘Ndeha isika hidera ny Tompo.</h4></pre>"
+          },
+          {
+            "num" : "367",
+            "titre": "Fete be ‘ty anjomba Nanahare",
+            "hira": "<pre><h4 class='padding'>\nFete be ‘ty anjomba Nanahare\nMivoria iaby ‘tsika ko ahe\nLehibe fahasoava Nanahare\nLe romboy e ho masake.\n\nKosiho (2) am-pandehanane\nBabeo (2) am-pasambarane.</h4></pre>"
+          },
+          {
+            "num" : "368",
+            "titre": "Miboika, miboika",
+            "hira": "<pre><h4 class='padding'>\nMiboika, miboika\nMiboika ato am-poko\nKa faly aho sy ravo aho\nJesosy no tompoiko\nGaga agamba ianao\nRaha toa ka tsy mangina\nMaraina na hariva\nDia feno fifaliana.\n\nHo lazaiko anao\nSy izao tontolo izao\nNy fifaliana ato am-poko\nSatria velona ny Tompo\nKa ho lazaiko anao\nSy izao tontolo izao\nNy fifaliana omen’i Jeso.</h4></pre>"
+          },
+          {
+            "num" : "369",
+            "titre": "Tsy mety miala amin-Janahary",
+            "hira": "<pre><h4 class='padding'>\nTsy mety (2) rahavako\nTsy mety miala amin-Janahary\nBaiboly(2), Baiboly masina ê\nBaiboly ê milaza ny marina.\n\n1.  Razambentsika\n     Adama sy Eva\n     Niadam-pinaritra\n     Tanivon’i Edena\n     Kanjo ny niafarany, \n     Haintsika jiaby ê\n     Nanohitra Zanahary, \n     Nandrora nitsilany !\n\n2.  Ngahy Samisony\n     Lava faneva\n     Fadiny sizono\n     Hoy Jehovah\n     Tsy dininy safosafo, \n     Nataon’i Delila\n     Nambarany secret :\n     Nalemy nifotriaka !\n\n3.  Ngahy Davida\n     Mpanjaka malaza\n     Tompon’ny fahefana\n     Tao Jerosalema\n     Nivadika jerin’azy\n     Nahita Batseba\n     Nalefany Oria\n     Maty lagera !\n\n4.  Ngahy Ananiasy\n     Ndraiky Safira\n     Vadin’i Lota koa\n     Nanjary sira\n     Ny antony niaviany, \n     Haintsika jiaby\n     Nanohitra Zanahary ê, \n     Maty bônera a!</h4></pre>"
+          },
+          {
+            "num" : "370",
+            "titre": "Jeso Tompo raiso ny foko",
+            "hira": "<pre><h4 class='padding'>\nJeso Tompo raiso ny foko\nRaiso Jeso mba ho Anao\nRaiso Jeso raiso ny foko\nRaiso Tompo mba ho Anao.</h4></pre>"
+          },
+          {
+            "num" : "371",
+            "titre": "Falifaly e!",
+            "hira": "<pre><h4 class='padding'>\nFalifaly e! (falifaly)\nOmady e! (fa velona tika)\nFalifaly e! (falifaly)\nHanafaky e! (ny fahotana)\n\nNatiany é! (afaho)\nHiadane! (mandrakizay)\nMangina é!(Koa tsy atao)\nFaly é (fa velon-tika é).\n\nNy devoly lava ohy raty é!\nNamely antika lahy!\n‘Ty ondaty malay fivavaha\nLe ho may an’afobe.</h4></pre>"
+          },
+          {
+            "num" : "372",
+            "titre": "Haleloia",
+            "hira": "<pre><h4 class='padding'>\nHaleloia (4)\nHaleloia (4)\n\nNy laza\n  Dia i Kristy\nNy hery\n  Dia i Kristy\nNy marina\n  Dia i Kristy\nNy mazava\n  Dia i Kristy\nNy fitiavana\n  Dia i Kristy\nNy fiainana\n  Dia i Kristy\n        lee! Haleloia (4)\nLa gloire\n  Oui c’est Jésus Christ\nLa puissance\n  Oui c’est Jésus Christ\nLa vérité\n  Oui c’est Jésus Christ\nLa lumière\n  Oui c’est Jésus Christ\nLa paix\n  Oui c’est Jésus Christ\nL’amour\n  Oui c’est Jésus Christ\nLa joie \n  Oui c’est Jesus Christ\nLa vie \n  Oui c’est Jesus Christ\n\n        Oh ! Haleloia (4)\n\nNos joies\n  Tout pour Jésus Christ\nNos soucis \n  Tout pour Jésus Christ\nNos coeur\n  Tout pour Jésus Christ\nNos vies \n  Tout pour Jésus Christ\nNos économies\n  Tout pour Jesus Christ\nLe travail \n  Tout pour Jésus Christ\nNos enfants\n  Tout pour Jésus Christ\nNos mamans \n  Tout pour Jésus christ\nNos papas \n  Tout pour Jésus Christ\nNos grand-pères\n  Tout pour Jesus Christ\nNos grand-mères\n  Tout pour Jésus Christ\nNous tous\n  Tout pour Jesus Christ\n\n        Oh ! Haleloia (4)\n\nHaleloia ! (4)\nNy Mpamonjy\n  Dia i Kristy\nNy Mpandresy\n  Dia i Kristy\nNy Mpanavotra\n  Dia i Kristy\nNy Mpiaro\n  Dia i Kristy\nNy làlana\n  Dia i Kristy\nNy fahamarinana\n  Dia i Kristy \nNy fiainana\n  Dia i Kristy\n\n        Haleloia! Haleloia!\n\nIzaho\n  Ho an’i Kristy\nIanao\n  Ho an’i Kristy\nIsika\n  Ho an’i Kristy\nI Dada\n  Ho an’i Kristy\nI Neny\n  Ho an’i Kristy\nI Zoky\n  Ho an’i Kristy\nI Zandry \n  Ho an’i Kristy\n\n        Haleloia! Haleloia!</h4></pre>"
+          },
+          {
+            "num" : "373",
+            "titre": "Misaotra Anao ry Jeso",
+            "hira": "<pre><h4 class='padding'>\nMisaotra Anao ry Jeso\nMisaotra Anao ry Jeso\nMisaotra Anao ry Jeso\nEram-po\nMisaotra Anao ry Jeso\nMisaotra Anao ry Jeso\nMisaotra Anao ry Jeso\nEram-po\n\nMerci, merci Jésus\nMerci, merci Jésus\nMerci, merci Jésus\nDe tout coeur\nMerci, merci Jésus\nMerci, merci Jésus\nMerci, merci Jésus\nDe tout coeur\n\nThank you, thank you Jesus\nThank you, thank you Jesus\nThank you, thank you Jesus\nIn my heart\nThank you, thank you Jesus\nThank you, thank you Jesus \nThank you, thank you Jesus\nIn my heart.</h4></pre>"
+          },
+          {
+            "num" : "374",
+            "titre": "Chanter au Seigneur",
+            "hira": "<pre><h4 class='padding'>\nChanter au Seigneur\nUn chant nouveau \nDansez en son honneur. \n\nJésus est le roi de gloire\nIl est le Seigneur des seigneurs\nJésus est le roi de gloire\nNotre libérateur.</h4></pre>"
+          },
+          {
+            "num" : "375",
+            "titre": "Mon Dieu est si grand ",
+            "hira": "<pre><h4 class='padding'>\nMon Dieu est si grand !\nSi fort et si puissant\nRien n’est impossible\nA mon Dieu. (2) \n\nLes lacs sont à Lui\nLes monts sont à Lui\nLes cieux sont sa création.</h4></pre>"
+          },
+          {
+            "num" : "376",
+            "titre": "Je n’ai ni argent ni or",
+            "hira": "<pre><h4 class='padding'>\nJe n’ai ni argent ni or\nMais ce que j’ai\nJe te le donne\n«  Au nom puissant\nDe Jésus Christ de Nazareth\nLève-toi et marche  »\nMarchant et sautant\nEt louant Dieu\n«  Au nom puissant\nDe Jésus Christ de Nazareth\nLève-toi et marche  »</h4></pre>"
+          },
+          {
+            "num" : "377",
+            "titre": "Jésus est moi",
+            "hira": "<pre><h4 class='padding'>\n1.  Jésus est moi, \n     Je suis à Lui ; \n     Sa bannière c’est l’amour.\n     Sa bannière, sur moi\n     C’est l’amour\n\n2.  Il me conduit\n     Sur les eaux tranquilles \n     Sa bannière c’est l’amour.\n     Sa bannière...\n\n3.  Il me remplit du Saint-Esprit\n     Sa bannière c’est l’amour \n     Sa bannière...\n\n4.  Je vous aime et vous m’aimez\n     Sa bannière c’est l’amour \n     Sa bannière...</h4></pre>"
+          },
+          {
+            "num" : "378",
+            "titre": "Quand l’Esprit de Dieu",
+            "hira": "<pre><h4 class='padding'>\n1.  Quand l’Esprit de Dieu\n     Agit en moi \n     Je chante comme David \n     Je chante, je chante\n     Je chante comme David. \n\n2.  Je prie comme David\n\n3.  Je loue comme David\n\n4.  Je danse comme David.</h4></pre>"
+          },
+          {
+            "num" : "379",
+            "titre": "L’Amour de mon Sauveur",
+            "hira": "<pre><h4 class='padding'>\nL’Amour de mon Sauveur\nRemplit tout, \nOui tout mon coeur.\nL’Amour de mon Sauveur\nRemplit tout mon coeur.\nL’Amour de mon Sauveur\nRemplit tout, \nOui tout mon coeur.\nL’Amour de mon Sauveur\nRemplit tout mon coeur...</h4></pre>",
+            "mark": "(TIRÉ DU RECUEIL – CHOEURS JOYEUX)"
+          },
+          {
+            "num" : "380",
+            "titre": "Il était un homme",
+            "hira": "<pre><h4 class='padding'>\n1.  Il était un homme\n     Nommé Nicodème\n     Il aimait Jésus\n     Mais il ne comprenait pas.\n\n          Nicodème ô ! (3)\n          Il faut naître de nouveau.\n\n2.  Eh bien mon ami\n     Viens recevoir Jésus\n     Si tu le reçois\n     Tu naîtras de nouveau.\n\n3.  Veux-tu le royaume\n     Jésus te le donne\n     A cela Il suffit\n     Que tu sois converti.</h4></pre>"
+          },
+          {
+            "num" : "381",
+            "titre": "Mon coeur est dans la joie",
+            "hira": "<pre><h4 class='padding'>\nJoie ! Joie !\nMon coeur est dans la joie\nJoie ! joie !\nMon coeur est dans la joie\nJésus mon Roi\nEst près de moi \nEt voilà pourquoi\nMon coeur est dans la joie.</h4></pre>"
+          },
+          {
+            "num" : "382",
+            "titre": "C’est une belle chose",
+            "hira": "<pre><h4 class='padding'>\nC’est une belle chose\nDe servir Jésus (3)\n\n- Marchons dans la lumière de Jésus\n\n- Chantons dans la lumière\n\n- Dansons dans la lumière de Jesus.</h4></pre>"
+          },
+          {
+            "num" : "383",
+            "titre": "Nous sommes les soldat",
+            "hira": "<pre><h4 class='padding'>\nNous sommes les soldats \nLes soldas de Jésus. (3)\nEt nos pas de soldats\nMarquent les Alleluia. (2)</h4></pre>"
+          },
+          {
+            "num" : "384",
+            "titre": "Father Abraham",
+            "hira": "<pre><h4 class='padding'>\nFather Abraham\nHas many sons\nHas Father Abraham\nI am one of them\nSo are you\nSo let’s just\nPraise the Lord!\n\n     - Right foot, \n     - Right foot, left foot, \n       Right hand\n       Right foot, left hand, \n       Head on, \n       Right foot, left foot, \n       Right hand, left hand, \n       Head on, turn around, \n       Sit down.</h4></pre>"
+          },
+          {
+            "num" : "385",
+            "titre": "Nampenda Yesu",
+            "hira": "<pre><h4 class='padding'>\nNampenda Yesu\nTwampenda Yesu\nWampenda Yesu\nSifomungu Amen\nSifomungu Alleluia\nSifomungu Amen. \n\nMoi, j’aime Jésus\nEst-ce que tu aimes Jésus\nNous aimons Jésus\nC’est pourquoi nous le louons\nAcclamons Alleluia \nAcclamons Amen. \n\nI love Jesus\nDo you love Jesus\nWe love Jesus, \nSo we praise our Lord\nPraise the Lord Alleluia\nPraise the Lord Amen.</h4></pre>"
+          },
+          {
+            "num" : "386",
+            "titre": "Soki tokolingana ya solo",
+            "hira": "<pre><h4 class='padding'>\nSoki tokolingana ya solo (alleluia)\nTokomona Nkembo na Yawe\n\n        O, Nkembo, Nkembo\n        A, a, a, a, a, Nkembo\n        A, a, a, a, a Nkembo\n        (Nkembo)\n        Tokomona Nkembo na Yawe.</h4></pre>"
+          },
+          {
+            "num" : "387",
+            "titre": "Nalingi kokende na likolo",
+            "hira": "<pre><h4 class='padding'>\nNalingi kokende na likolo (3)\nLikolo na Nzambe \n\nLikolo na Nzambe (2)\nLikolo na Nzambe Alleluia\nLikolo na Nzambe\n\nNalingi komona Messie na ngai (3)\nLikolo na Nzambe.</h4></pre>"
+          },
+          {
+            "num" : "388",
+            "titre": "Nzambe aponi yo, osalela ye",
+            "hira": "<pre><h4 class='padding'>\nNzambe aponi yo, osalela ye\nNa nzoto mpe na motema\nNa ye mobimba\nNzambe aponia yo.\n\n1.  Tanga na kati ya Bible\n     Denge Yesu aponika Bapostolo\n     Nzambe aponi yo\n     Osalela ye.\n\n2.  Tala elanga ya Nzambe\n     Basali bakimi epai irapi\n     Nzambe aponi yo\n     Osalela ye.\n\n3.  Pesa motema na Nzambe\n     Landa Yesu, mpe mena Ekulusu\n     Nzambe aponi yo\n     Osalela ye.\n\n4.  Yoka lolaka lua Nzambe\n     Epai ya nzomba ya sione\n     Nzambe aponi yo\n     Osalela ye.</h4></pre>"
+          },
+          {
+            "num" : "389",
+            "titre": "Ianao izay miasa fatratra",
+            "hira": "<pre><h4 class='padding'>\n1.	Ianao izay miasa fatratra, ianao izay mavesatr'etana\n     Torovana sy tena sasatra, ary maina sy mangetana\n     Ianao izay tsisy antenaina, amin'ny ho avy eto an-tany,\n     Ianao izay miady saina, ka tena kivy aok'izany\n\n     Ianao no tiany ka antsoiny, mampangetaheta koa ny fony\n     Tiany homena fitsaharana, tiany homena hasambarana\n     Jesoa Tompo no miantso anao, hanavao ilay fiainanao\n     O! mankanesa any Aminy, handraisanao ny fitiavany\n\n2.	Ianao izay mahantra ka resy tsy mba mahita ny andro tsara\n     Noho ny ady nifanesy, mihevitra fa very anjara\n     Ianao izay lavom-pahotana, ka voahilika ny hafa\n     Ianao izay resin'ny hadalana sy ireo ota tsy voafafa</h4></pre>"
+          },
+          {
+            "num" : "390",
+            "titre": "Ny feonay asandratray hiderana Anao",
+            "hira": "<pre><h4 class='padding'>\n	Ny feonay asandratray hiderana Anao\n	Ny hira izay ventesinay hisaotra Anao\n\nFa lehibe Ianao, tsy misy toa Anao\nMpanjaka Tsitoha Fitiavana ihany koa\nTsy manam-paharoa, Tompo Mpamindrafo\nIlay Ray mpiahy mpiaro ny fanahy</h4></pre>"
+          },
+          {
+            "num" : "391",
+            "titre": "Ny hira izay ho Anao ry Ray",
+            "hira": "<pre><h4 class='padding'>\n1.	Ny hira izay ho Anao ry Ray\n     Ny fihobiana asandratray\n     O! Mba henoy, O ! mba henoy\n     Ny haja izay aterinay\n     atolotray ho Anao ry Ray\n     Mba raiso re, mba raiso re\n\n          Fa mendrika ho Anao tokoa,\n          Ianao ilay Ray mpamindrafo\n          Ny saotra sy ny haja\n\n          Mpanjakan'ny mpanjaka Ianao\n          Sy Tompo mpampahery Ianao\n          Deraina Ianao, deraina Ianao\n\n2.	He sambatra tokoa izahay\n     Fa manana Anao ry Ray\n     He sambatra tokoa\n     Ny tombonandro iainanay\n     Dia fitiavanao anay\n     Isaoranay Ianao ry Ray\n     Fa tsy mba manam-paharoa\n     Manome tsara ho any tokoa\n\nIsaoranay Ianao ry Ray\nMpanjakan'ny mpanjaka Ianao\nSy Tompo mpampahery Ianao\nDeraina Ianao, deraina Ianao</h4></pre>"
+          },
+          {
+            "num" : "392",
+            "titre": "Izy anie no homem-boninahitra",
+            "hira": "<pre><h4 class='padding'>\nIzy anie no homem-boninahitra\nIzy anie no homem-boninahitra\nAtolory ho Azy fa mendrika ho Azy\nNy haja eram-po tsy manam-paharoa\n\nFa Izy no nihavian'izao zavatra rehetr'izao\nAry Izy no mihazona sady Izy koa no antony\n\nIzy anie no homem-boninahitra\nIzy anie no homem-boninahitra\nAtolory Azy fa mendrika ho Azy\nNy haja eram-po tsy manam-paharoa\n\nIlay tena fahazavana, sy feno fahatsarana\nIlay Tompo avo indrindra toky tsy mifindra\nNanome famonjena, Ilay feno fahendrena\nTsy miova hatrizao, mbola tia anao\n\nIzy anie no homem-boninahitra\nIzy anie no homem-boninahitra\nAtolory ho Azy fa mendrika ho Azy\nNy haja eram-po tsy manam-paharoa</h4></pre>"
+          },
+          {
+            "num" : "393",
+            "titre": "Namako ô tia anao Jeso",
+            "hira": "<pre><h4 class='padding'>\n1.	Namako ô tia anao Jeso, eny tena tia anao izy\n     Namako ô tia anao Jeso, eny tena tia anao izy\n     Namako ô aza lavinao, ny fitiavana natolony\n     Namako ô aza lavinao, ny fitiavana natolony\n\nREF: O ry namako ô, ô ry namako ô\n     Tia anao Jeso !O ry namako ô !\n     O ry namako ô, ô ry namako ô\n     Tia anao Jeso !O ry namako ô !\n\n2.	Namako ô tsy handatsa anao fa hamonjy anao no sitrany\n     Namako ô tsy handatsa anao fa hamonjy anao no sitrany\n     Fianana sy fiadanana no homeny anao raha mino ianao\n     Fianana sy fiadanana no homeny anao raha mino ianao\n\n3.	Namako ô Izy tena tia, tsy miova ny fitiavany\n     Namako ô Izy tena tia, tsy miova ny fitiavany\n     Namako ô sao ho nenina ny fandavanao ny antsoiny\n     Namako ô sao ho nenina ny fandavanao ny antsoiny</h4></pre>"
+          },
+          {
+            "num" : "394",
+            "titre": "Tena tsara tokoa Ianao Ianao ry Rainay Tsitoha",
+            "hira": "<pre><h4 class='padding'>\n1.	Tena tsara tokoa Ianao Ianao ry Rainay Tsitoha\n     Tena mendrika Ianao nahary izao tontolo izao\n     Feno fahendrena nanome famonjena\n\n          Tena tsara Ianao Tsara Ianao\n          Tsara, mahagaga ny asanao\n          Tsara, tsy misy ny toa Anao\n          Tsara, tsy toha ny herinao\n          Tsara, tsy miova hatramin'izao\n          Tsara, mahagaga ny asanao\n          Tsara, tsy misy ny toa Anao\n          Tsara, tsy toha ny herinao\n          Tsara Ianao\n\n2.	Hira fiderana ho mari-panajana\n     No atolotr'izao, atolotray ho Anao\n     Na tsy mendrika aza, izahay izay mankalaza\n     O henoy ry Tsitoha ka mba raiso</h4></pre>"
+          }
         ],
         findOneByNum: function (num) {
             return factory.Sederas[num-1];

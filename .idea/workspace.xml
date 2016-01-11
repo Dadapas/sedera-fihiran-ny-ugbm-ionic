@@ -2,72 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b41b39b3-40a2-404e-bbb3-7610f7c7e9f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/30.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/31.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/32.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/33.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/34.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/35.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/36.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/37.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/38.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/39.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/40.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/41.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/42.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/43.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/45.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/46.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/47.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/48.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/49.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/50.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/51.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/52.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/53.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/54.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/55.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/sedera/hira/9.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/icon.png" afterPath="$PROJECT_DIR$/resources/icon.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sedera.iml" afterPath="$PROJECT_DIR$/.idea/sedera.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/ionic.app.scss" afterPath="$PROJECT_DIR$/scss/ionic.app.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/ionic.app.css" afterPath="$PROJECT_DIR$/www/css/ionic.app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/ionic.app.css.map" afterPath="$PROJECT_DIR$/www/css/ionic.app.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/controllers.js" afterPath="$PROJECT_DIR$/www/js/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/services.js" afterPath="$PROJECT_DIR$/www/js/services.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/hira.html" afterPath="$PROJECT_DIR$/www/templates/hira.html" />
     </list>
     <ignored path="sedera.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -92,11 +32,10 @@
       <file leaf-file-name="services.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/services.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40140846">
-              <caret line="1213" column="2" selection-start-line="1213" selection-start-column="2" selection-end-line="1213" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.17957747">
+              <caret line="2034" column="24" selection-start-line="2034" selection-start-column="24" selection-end-line="2034" selection-end-column="24" />
               <folding>
-                <marker date="1452374011172" expanded="true" signature="2353:3181" placeholder="..." />
-                <marker date="1452374011172" expanded="true" signature="2373:3181" placeholder="..." />
+                <element signature="e#117#297181#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -122,56 +61,56 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/www/sedera/hira/161.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/162.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/163.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/164.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/165.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/166.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/167.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/168.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/169.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/170.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/171.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/172.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/173.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/174.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/175.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/176.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/177.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/178.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/179.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/180.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/181.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/182.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/183.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/184.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/185.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/186.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/187.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/188.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/189.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/190.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/191.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/192.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/193.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/194.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/195.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/196.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/197.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/198.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/199.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/200.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/201.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/202.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/203.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/204.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/205.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/206.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/207.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/208.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/209.txt" />
-        <option value="$PROJECT_DIR$/www/sedera/hira/210.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/345.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/346.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/347.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/348.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/349.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/350.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/351.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/352.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/353.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/354.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/355.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/356.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/357.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/358.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/359.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/360.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/361.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/362.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/363.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/364.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/365.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/366.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/367.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/368.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/369.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/370.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/371.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/372.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/373.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/374.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/375.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/376.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/377.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/378.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/379.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/380.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/381.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/382.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/383.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/384.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/385.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/386.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/387.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/388.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/389.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/390.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/391.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/392.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/393.txt" />
+        <option value="$PROJECT_DIR$/www/sedera/hira/394.txt" />
         <option value="$PROJECT_DIR$/www/js/services.js" />
       </list>
     </option>
@@ -244,6 +183,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -290,36 +231,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sedera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sedera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sedera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sedera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hira" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -413,11 +330,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="864" height="728" extended-state="0" />
+    <frame x="0" y="0" width="864" height="728" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2544643" sideWeight="0.50653595" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35472155" sideWeight="0.49346405" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36319613" sideWeight="0.49346405" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -450,7 +367,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22986577" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2544643" sideWeight="0.50653595" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35472155" sideWeight="0.49346405" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36319613" sideWeight="0.49346405" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32718122" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -480,93 +397,412 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/sedera/hira/201.txt">
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/345.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="700" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="700" />
+          <caret line="0" column="191" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="191" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/sedera/hira/202.txt">
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/346.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="494" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="494" />
+          <caret line="0" column="228" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="228" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/sedera/hira/203.txt">
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/347.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="558" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="558" />
+          <caret line="0" column="313" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="313" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/sedera/hira/204.txt">
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/348.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="585" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="585" />
+          <caret line="0" column="948" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="948" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/sedera/hira/205.txt">
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/349.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="546" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="546" />
+          <caret line="0" column="942" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="942" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/sedera/hira/206.txt">
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/350.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="540" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="540" />
+          <caret line="0" column="858" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="858" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/sedera/hira/207.txt">
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/351.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="751" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="751" />
+          <caret line="0" column="646" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="646" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/sedera/hira/208.txt">
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/352.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="648" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="648" />
+          <caret line="0" column="885" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="885" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/sedera/hira/209.txt">
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/353.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="991" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="991" />
+          <caret line="0" column="636" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="636" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/sedera/hira/210.txt">
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/354.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="1076" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="1076" />
+          <caret line="0" column="592" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="592" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/355.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="629" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="629" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/356.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="1025" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="1025" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/357.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="397" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="397" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/358.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="755" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="755" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/359.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="702" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="702" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/360.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="1308" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="1308" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/361.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="110" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/362.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="59" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/363.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="124" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/364.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="131" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="131" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/365.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="103" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/366.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="128" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/367.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="165" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="165" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/368.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="328" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="328" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/369.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="839" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="839" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/370.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="102" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/371.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="300" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="300" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/372.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="1513" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="1513" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/373.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="505" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="505" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/374.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="176" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="176" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/375.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="164" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="164" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/376.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="240" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="240" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/377.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="412" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="412" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/378.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="216" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="216" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/379.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="222" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="222" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/380.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="369" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="369" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/381.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="167" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="167" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/382.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="152" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="152" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/383.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="103" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/384.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="351" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="351" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/385.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="361" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="361" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/386.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="204" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="204" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/387.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="175" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="175" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/388.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="496" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="496" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/389.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="693" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="693" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/390.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="227" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="227" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/391.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="762" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="762" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/392.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="653" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="653" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/393.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="799" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="799" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sedera/hira/394.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="642" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="642" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40140846">
-          <caret line="1213" column="2" selection-start-line="1213" selection-start-column="2" selection-end-line="1213" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.17957747">
+          <caret line="2034" column="24" selection-start-line="2034" selection-start-column="24" selection-end-line="2034" selection-end-column="24" />
           <folding>
-            <marker date="1452374011172" expanded="true" signature="2353:3181" placeholder="..." />
-            <marker date="1452374011172" expanded="true" signature="2373:3181" placeholder="..." />
+            <element signature="e#117#297181#0" expanded="false" />
           </folding>
         </state>
       </provider>
