@@ -6,6 +6,7 @@
         <title></title>
 
         <link href="css/ionic.app.css" rel="stylesheet">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
 
         <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
         <link href="css/ionic.app.css" rel="stylesheet">
@@ -24,31 +25,36 @@
     </head>
     <body ng-app="sedera">
     <ion-pane>
-        <ion-nav-bar class="bar-stable">
-            <ion-nav-back-button>
-            </ion-nav-back-button>
-        </ion-nav-bar>
-            <ion-tabs class="tabs-icon-top tabs-color-active-positive">
+      <ion-side-menus title="home">
+        <ion-side-menu-content>
+          <ion-nav-bar class="bar-positive">
+            <ion-nav-buttons side="left">
+              <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+              </button>
+            </ion-nav-buttons>
+          </ion-nav-bar>
+          <ion-nav-view></ion-nav-view>
+        </ion-side-menu-content>
 
-                <!-- Dashboard Tab -->
-                <ion-tab title="Home" icon-off="icon ion-home" icon-on="icon ion-home" href="#/home">
-                    <ion-nav-view name="tab-dash"></ion-nav-view>
-                </ion-tab>
-
-                <!-- Chats Tab -->
-                <ion-tab title="Sedera" icon-off="ion-ios-chatboxes-outline" icon-on="ion-ios-chatboxes" href="#/sedera">
-                    <ion-nav-view name="sedera"></ion-nav-view>
-                </ion-tab>
-
-                <!-- Account Tab -->
-                <ion-tab title="Apropos" icon-off="ion-ios-gear-outline" icon-on="ion-ios-gear" href="#/about">
-                    <ion-nav-view name="tab-account"></ion-nav-view>
-                </ion-tab>
-
-
-            </ion-tabs>
-
-        <ion-nav-view></ion-nav-view>
+        <ion-side-menu side="left">
+          <ion-header-bar class="bar-stable">
+            <h1 class="title">Menu</h1>
+          </ion-header-bar>
+          <ion-content>
+            <ion-list>
+              <ion-item menu-close href="#/home">
+                Fandraisana
+              </ion-item>
+              <ion-item menu-close href="#/sedera">
+                Sedera
+              </ion-item>
+              <ion-item menu-close href="#/about">
+                Mombamomba
+              </ion-item>
+            </ion-list>
+          </ion-content>
+        </ion-side-menu>
+      </ion-side-menus>
     </ion-pane>
 </body>
 </html>

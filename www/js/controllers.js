@@ -1,4 +1,4 @@
-angular.module('sedera.controllers', ['ngSanitize'])
+angular.module('sedera.controllers', ['ngSanitize', 'ngAnimate'])
 
 // Ici les messages de bienvenue dans l'application
 .controller('HomeCtrl', function ($scope) {
@@ -14,6 +14,11 @@ angular.module('sedera.controllers', ['ngSanitize'])
      * On affiche par ordre croissant
      */
     $scope.sederas = SederaFactory.findAll();
+
+    // Clear the input search
+    $scope.clearSearch = function() {
+      $scope.query = "";
+    }
 })
 
 .controller('HiraCtrl', function ($scope, SederaFactory, $stateParams) {

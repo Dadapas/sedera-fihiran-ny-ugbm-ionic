@@ -1,20 +1,28 @@
 <ion-view view-title="Sedera" class="padding">
-    <ion-nav-bar class="bar bar-positive"></ion-nav-bar>
-    <ion-content class='padding-top padding-bottom' ng-controller="SederaCtrl">
-        <div id="search" class="item-input-inset">
-            <label class="item-input-wrapper">
-                <i class="icon ion-ios-search placeholder-icon"></i>
-                <input onfocus ng-model="query" type="search" placeholder="Search">
-            </label>
-            <button class="button button-calm">
-                Cancel
-            </button>
-        </div>
+
+  <ion-content class='padding-top padding-bottom' ng-controller="SederaCtrl">
+    <div style="padding: 0; margin: 0;" class="bar bar-calm item-input-inset">
+      <label class="item-input-wrapper">
+        <i class="icon ion-ios-search placeholder-icon"></i>
+        <input ng-model="query" type="search" placeholder="Laharana na Titra na andian-tsoratra ny hira...">
+      </label>
+      <button ng-click="clearSearch()" class="button button-clear">
+        Fafana
+      </button>
+    </div>
         <ion-list>
-            <ion-item scroll="false" class='item-icon-right' ng-repeat="sedera in sederas | filter: query" type="item-text-wrap" href="#/sedera/{{sedera.num}}">
+            <ion-item class='item-icon-right' ng-repeat="sedera in sederas | filter: query" type="item-text-wrap" href="#/sedera/{{sedera.num}}">
                 <h2>{{sedera.num}}</h2>
                 <p>{{sedera.titre}}</p>
                 <i class="icon ion-chevron-right icon-accessory"></i>
+
+              <div ng-show="!sedera">
+                <div class="card">
+                  <div class="item item-text-wrap">
+                    Ooups ! Tsy hita na misy diso ny hira tadiavinao ! Avereno indray mandeha
+                  </div>
+                </div>
+              </div>
             </ion-item>
         </ion-list>
     </ion-content>

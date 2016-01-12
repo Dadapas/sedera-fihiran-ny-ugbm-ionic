@@ -36,7 +36,7 @@ angular.module('sedera.services', [])
             },
             {
               "num": "6",
-              "titre": "Misikina, aoka hirehareha",
+              "titre": "Misikina",
               "hira": "<pre><h4 class='padding'>\n1.  Misikina, aoka hirehitra\nNy jironareo\n‘Ndeha izao anio izao\nJereo izao tontolo izao\nFaingàna fa rakotra aizina ny tany\nMaro ireo mitomany,\nMiomàna ka andao.\n  Mihazavà ka mandehana\n  Mitoria ny famonjena\n  Vitan’i Jeso Tomponao\n  Asehoy ny tena fahazavana\n  Malakia, ’ndao zarao, izay azonao.\n\n2.  Misikìna, aoka ho\nMendrika izay atao\nFa izao tontolo izao\nDia mijery anao\nMiaingà ka asehoy Jeso Tompo\n‘Zay fitafiana mendrika\nNy mpanompo\n\n3.  Ry Fanahy Masina ô!\nMiandrandra Anao ’zahay\nMitoera maharitra aty anatinay\nKa havaozy isan’andro\nNy fanahinay\nMba hahaizanay\nHanazava ireo namanay.</h4></pre>",
               "mark": "faneva zaikabe -vi (1989)"
             },
@@ -551,8 +551,8 @@ angular.module('sedera.services', [])
           },
           {
             "num" : "107",
-            "titre": "Enga anie ka homba anao Jeso\n1.  Enga anie ka homba anao Jeso\n    Hanadio sy hanazava,\n    Hampahery lalandava,\n    Enga anie ka homba anao Jeso !\n\n        Homba anao, homba anao\n        Homba anao anie Jeso\n        Homba anao, homba anao\n        Enga anie ka homba anao Jeso\n\n2.  Raha mitambatra ny rahona,\n    Ka mikipy ny masoandro,\n    Raha Jeso momba isan’andro\n    Ho tantely koa ny vahona\n    Homba anao, sns.\n\n3.  Mangamanga indray ny lanitra,\n    Loharanom-pitahiana,\n    Sady foto-pifaliana.\n    Jeso Zanak’Andriamanitra.\n    Homba anao, sns.\n\n4.  Raha mitolona ady sarotra,\n    Matokia fa tsy ho irery,\n    Homba anao Jeso mahery,\n    Homba anao tsy miady varotra.\n    Homba anao, sns.\n\n5.  Raha hilaozanao ny havana,\n    Sady mainty koa Jordana,\n    Ho mazava ny fitàna,\n    Ao Jeso hanangana avana.\n    Homba anao, sns.\n\n6.  Raha Jesosy no mitantana,\n    Paradisa koa ny tany,\n    Hasambarana hatrany,\n    Ao Kanana no hamantana.\n    Homba anao, sns…",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "titre": "Enga anie ka homba anao Jeso",
+            "hira": "<pre><h4 class='padding'>\n1.  Enga anie ka homba anao Jeso\n    Hanadio sy hanazava,\n    Hampahery lalandava,\n    Enga anie ka homba anao Jeso !\n\n        Homba anao, homba anao\n        Homba anao anie Jeso\n        Homba anao, homba anao\n        Enga anie ka homba anao Jeso\n\n2.  Raha mitambatra ny rahona,\n    Ka mikipy ny masoandro,\n    Raha Jeso momba isan’andro\n    Ho tantely koa ny vahona\n    Homba anao, sns.\n\n3.  Mangamanga indray ny lanitra,\n    Loharanom-pitahiana,\n    Sady foto-pifaliana.\n    Jeso Zanak’Andriamanitra.\n    Homba anao, sns.\n\n4.  Raha mitolona ady sarotra,\n    Matokia fa tsy ho irery,\n    Homba anao Jeso mahery,\n    Homba anao tsy miady varotra.\n    Homba anao, sns.\n\n5.  Raha hilaozanao ny havana,\n    Sady mainty koa Jordana,\n    Ho mazava ny fitàna,\n    Ao Jeso hanangana avana.\n    Homba anao, sns.\n\n6.  Raha Jesosy no mitantana,\n    Paradisa koa ny tany,\n    Hasambarana hatrany,\n    Ao Kanana no hamantana.\n    Homba anao, sns…</h4></pre>"
           },
           {
             "num" : "108",
@@ -2032,11 +2032,11 @@ angular.module('sedera.services', [])
             "hira": "<pre><h4 class='padding'>\n1.	Tena tsara tokoa Ianao Ianao ry Rainay Tsitoha\n     Tena mendrika Ianao nahary izao tontolo izao\n     Feno fahendrena nanome famonjena\n\n          Tena tsara Ianao Tsara Ianao\n          Tsara, mahagaga ny asanao\n          Tsara, tsy misy ny toa Anao\n          Tsara, tsy toha ny herinao\n          Tsara, tsy miova hatramin'izao\n          Tsara, mahagaga ny asanao\n          Tsara, tsy misy ny toa Anao\n          Tsara, tsy toha ny herinao\n          Tsara Ianao\n\n2.	Hira fiderana ho mari-panajana\n     No atolotr'izao, atolotray ho Anao\n     Na tsy mendrika aza, izahay izay mankalaza\n     O henoy ry Tsitoha ka mba raiso</h4></pre>"
           }
         ],
+        findAll: function () {
+          return factory.Sederas;
+        },
         findOneByNum: function (num) {
             return factory.Sederas[num-1];
-        },
-        findAll: function () {
-            return factory.Sederas;
         }
     };
 
