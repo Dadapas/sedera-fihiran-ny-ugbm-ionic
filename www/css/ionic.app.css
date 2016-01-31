@@ -9513,4 +9513,13 @@ a.button {
   -webkit-transition-duration: 0s;
   transition-duration: 0s; }
 
+pre {
+  border: 1px dotted indianred; }
+
+a:hover {
+  text-decoration: none; }
+
+input#search {
+  position: relative; }
+
 /*# sourceMappingURL=ionic.app.css.map */

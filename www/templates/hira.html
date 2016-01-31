@@ -1,18 +1,19 @@
 <div ng-controller="HiraCtrl">
-    <ion-view class="padding" view-title="{{Sedera.titre}}">
+    <ion-view view-title="{{Sedera.titre}}">
         <ion-nav-bar class="bar-positive">
             <ion-nav-back-button></ion-nav-back-button>
         </ion-nav-bar>
+        <ion-content class="container-fluid">
+          <div class="row">
+            <div class="col-md-8 col-md-push-4 col-lg-8 col-lg-push-4 col-sm-8 col-sm-push-2 col-xs-10 col-xs-push-1">
+              <h1 class="text-center">- {{ Sedera.num }} -</h1>
+              <h2 class="alert alert-info text-center">{{ Sedera.titre }}</h2>
 
-        <ion-content style="text-align: center">
-            <div style="" class="entete">
-              <h1 style="color: rgb(0, 0, 0)">- {{Sedera.num}} -</h1>
-              <h3 style="color: rgba(25, 71, 44, 0.78);text-decoration: underline;">{{Sedera.titre}}</h3>
+              <div ng-bind-html="Sedera.hira"></div>
+              <h5 class="text-right">{{ Sedera.mark | uppercase }}</h5>
             </div>
-            <div class="contenu">
-              <div class="col-md-3 col-md-offset-3 col-sm-3 col-sm-offset-3" ng-bind-html="Sedera.hira"></div>
-              <p style="float: right; padding-right: 50px"><b>{{Sedera.mark | uppercase}}</b></p>
-            </div>
+            <div class="col-md-12"></div>
+          </div>
         </ion-content>
     </ion-view>
 </div>

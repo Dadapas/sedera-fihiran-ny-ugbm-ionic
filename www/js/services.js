@@ -1,31 +1,40 @@
 angular.module('sedera.services', [])
 
-.factory('SederaFactory', function () {
+.factory('SederaFactory', function ($filter) {
 
     var factory = {
+        findAll: function () {
+          return factory.Sederas;
+        },
+      findSome: function (find) {
+        return $filter('filter')(factory.Sederas, find, 20);
+      },
+        findOneByNum: function (num) {
+            return factory.Sederas[num-1];
+        },
         Sederas: [
             {
               "num" : "1",
               "titre": "Mitoria ny famonjena",
-              "hira": "<pre><h4 class='padding'><em>1.</em>	Mitoria ny famonjena\nRy Tanora ny Jeso\nMbola maro sesehena\nReo namanao zay maizina\nMitoria, Mitoria, Mitoria\nMitoria ny famonjena\nIzany izao no baiko azonao\nKa meteza re izao\n\n<em>2.</em> 	Mitsangàna, mandehana\nAza miandry ianao\nF'efa akaiky izao Kanana\n'Lay tany izay ho lovanao\nMitoria ! Mitoria !\nMitoria ny famonjena\nIzany izao no baiko azonao\nKa meteza re izao\n\n<em>3.</em>    Indro Jeso Kapiteny\nMialoha anao izao\nNy fiainany omeny\nKa manaraha Azy izao\nMandrosoa ! Mandrosoa !\nFa ny hery sy ny fiainam-baovao\nNo atolotra anao</h4></pre>",
+              "hira": "<pre><h4 class='padding'>\n1.  Mitoria ny famonjena\n     Ry tanoran’i Jeso\n     Mbola maro sesehena\n     ‘Reo namanao ‘zay maizina\n     Mitoria! Mitoria!\n     Mitoria ny famonjena\n     Izany izao no baiko azonao\n     Ka meteza re izao\n\n2.  Mitsangana, mandehana\n     Aza miandry ianao\n     F’efa akaiky izao Kanana\n     ’Lay tany izay ho lovanao\n     Mitoria! Mitoria!\n     Mitoria ny famonjena\n     Izany izao no baiko azonao\n     Ka meteza re izao.\n\n3.  Indro Jeso Kapiteny\n     Mialoha anao izao\n     Ny fiainany omeny\n     Ka manaraha Azy izao\n     Mandrosoa ! Mandrosoa !\n     Mandrosoa sy mazotoa\n     Fa ny hery sy ny fiainam-baovao\n     No atolotra anao.</h4></pre>",
               "mark" : "FANEVA ZAIKABE -I (1974)"
             },
             {
               "num": "2",
               "titre": "Ry Jeso Kristy Tompo",
-              "hira": "<pre><h4 class='padding'>\n1.  Ry Jeso Kristy Tompo\nVato fehizoronay\nVato fanorenanay\nVatolampy tsy hikoro\nHavaozinao izao\n‘zahay mpanomponao\nMba hilanja ny faneva\nHitory koa ny famonjena.\n\n2.  Ry Fanahy mpanavao\nMiandrandra Anao izahay\nMba tariho hazavao\nSao lavo eto indray\n\n3.  Ry Rainay be fitia\n‘Ndreto vonon’izahay\nKa hanaiky hanara-dia\nIlay Jeso Zokinay</h4></pre>",
+              "hira": "<pre><h4 class='padding'>\n1.  Ry Jeso Kristy Tompo\n     Vato fehizoronay\n     Vato fanorenanay\n     Vatolampy tsy hikoro\n     Havaozinao izao\n     ‘zahay mpanomponao\n     Mba hilanja ny faneva\n     Hitory koa ny famonjena.\n\n2.  Ry Fanahy mpanavao\n     Miandrandra Anao izahay\n     Mba tariho hazavao\n     Sao lavo eto indray\n\n3.  Ry Rainay be fitia\n     ‘Ndreto vonon’izahay\n     Ka hanaiky hanara-dia\n     Ilay Jeso Zokinay</h4></pre>",
               "mark": "faneva zaikabe -ii (1977)"
             },
             {
               "num": "3",
               "titre": "'Zao indray no ho fenitray",
-              "hira": "<pre><h4 class='padding'>\n1.  ‘Zao indray no fenitray\nNy hitombo amin-javatra rehetra\nHo amin’izay Loha dia Ianao\nRy Jeso Mpanjakanay.\n  Koa miandrandra Anao izahay\n  Mba hiasa ao anatinay\n  Na ny fikasana na fanaovana\n  Hahatanteraka ny sitrakao.\n\n2.  Ny finoana ampinganay\nFahamarinana izay sikinanay\nAry ny Teninao Sabatray\n‘Reo no hitomboanay\n\n3.  Tiana hitombo ao am-ponay\nNy hetaheta hanambara ny asanao\nAmin’ity firenena ity\n‘Zay irina hahalala Anao.\n\n4.  Ny fankatoavana Anao\nAry ny fifankatiavanay\nsy izay mety ho sitrakao\nAoka hitombo ho fiainanay</h4></pre>",
+              "hira": "<pre><h4 class='padding'>\n1.  ‘Zao indray no fenitray\n     Ny hitombo amin-javatra rehetra\n     Ho amin’izay Loha dia Ianao\n     Ry Jeso Mpanjakanay.\n\n          Koa miandrandra Anao izahay\n          Mba hiasa ao anatinay\n          Na ny fikasana na fanaovana\n          Hahatanteraka ny sitrakao.\n\n2.  Ny finoana ampinganay\n     Fahamarinana izay sikinanay\n     Ary ny Teninao Sabatray\n     ‘Reo no hitomboanay\n\n3.  Tiana hitombo ao am-ponay\n     Ny hetaheta hanambara ny asanao\n     Amin’ity firenena ity\n     ‘Zay irina hahalala Anao.\n\n4.  Ny fankatoavana Anao\n     Ary ny fifankatiavanay\n     sy izay mety ho sitrakao\n     Aoka hitombo ho fiainanay.</h4></pre>",
               "mark": "faneva zaikabe -iii (1980)"
             },
             {
               "num": "4",
               "titre": "Anao ry Tomponay",
-              "hira": "<pre><h4 class='padding'>\n1.  Anao ry Tomponay (Tomponay)\nAnao ny saotra sy fankasitrahanay\n(Anao ny fankasitrahanay)\nIzahay mandray ny teny mamy\nTeninao ‘zay ifalianay\nNy hamoa voa tsara ihany\nSitrakao ho fiainanay (fiainanay)\nMba ho tena hasin’ny tany\n‘Reo nateraka indray.\n  (Satry re) Satry re hiray Aminao\n  (Mba) Mba hamoa bebe kokoa.\n\n2.  Irinay hanasoa ny tanindrazanay\n(Irinay hanasoa ny taninay)\nKa hikatsaka izay hampandroso\nSy honenam-piadanana\nIanao Jeso no hambara\nAmin’ireo havanay (havanay)\nAminao no misy ny tsara\nDia fiainana ho anay.\n\n3.  Havaozinay anie (anie)\nNy fanoloran-tena\nHanompoana Anao\n(Ny fanoloran-tena ho Anao)\n‘Zay rehetra mbola ho tontosaina\nMba hombay ny fitantananao\nIanao Ray no mampitombo\nMampaharitra ny voa (vokatray)\nMiarova ireto mpanompo\nKely tsy mba mahasoa. </h4></pre>",
+              "hira": "<pre><h4 class='padding'>\n1.  Anao ry Tomponay (Tomponay)\n     Anao ny saotra sy fankasitrahanay\n     (Anao ny fankasitrahanay)\n     Izahay mandray ny teny mamy\n     Teninao ‘zay ifalianay\n     Ny hamoa voa tsara ihany\n     Sitrakao ho fiainanay (fiainanay)\n     Mba ho tena hasin’ny tany\n     ‘Reo nateraka indray.\n\n          (Satry re) Satry re hiray Aminao\n          (Mba) Mba hamoa bebe kokoa.\n\n2.  Irinay hanasoa ny tanindrazanay\n     (Irinay hanasoa ny taninay)\n     Ka hikatsaka izay hampandroso\n     Sy honenam-piadanana\n     Ianao Jeso no hambara\n     Amin’ireo havanay (havanay)\n     Aminao no misy ny tsara\n     Dia fiainana ho anay.\n\n3.  Havaozinay anie (anie)\n     Ny fanoloran-tena\n     Hanompoana Anao\n     (Ny fanoloran-tena ho Anao)\n     ‘Zay rehetra mbola ho tontosaina\n     Mba hombay ny fitantananao\n     Ianao Ray no mampitombo\n     Mampaharitra ny voa (vokatray)\n     Miarova ireto mpanompo\n     Kely tsy mba mahasoa. </h4></pre>",
               "mark": "faneva zaikabe -iv (1983)"
             },
             {
@@ -67,7 +76,7 @@ angular.module('sedera.services', [])
             {
               "num": "11",
               "titre": "Misaotra Anao 'zahay ry Ray",
-              "hira": "<pre><h4 class='padding'>\n1.	Misaotra Anao 'zahay ry Ray\nNoho ny fitiavanao\nNy aizin-kitroka nisy ahy\nIndro fa nidiranao\nHe hazavana lehibe no\nIndro fa naposakao\nKa ravoravo ery ny fo\nIzay midera Anao\n\nInona àry no havaliko anao\nNoho ireo soa efa narotsakao\nHe hazavana lehibe no\nIndro fa naposakao\nKa ravoravo ery ny fo\nIzay midera Anao\n\n2.	Na dia tsy mendrika ry Ray\nIreto te-hidera anao\nDia notoloranao tokoa ny\nFanavotan-dehibe\nNa dia mahantra aza re dia\nNovidin'ny zanakao\nTamin'ny rany izay madio\nMba ho isan'ny anao\n\n3.	He menatra tokoa ry Ray\nHifanatrika Aminao\nKanefa noho ny zanakao dia\nIndro fa manatona aho\nManery ahy izany foko\nResin'ny fitiavanao\n'Lay fo maniry mafy anao\nKa indro anjakao</h4></pre>"
+              "hira": "<pre><h4 class='padding'>\n1.  Misaotra Anao ‘zahay ry Ray \n     Noho ny fitiavanao\n     Ny aizin-kitroka nisy ahy\n     Indro fa nidiranao\n     He hazavana lehibe no\n     Indro fa naposakao\n     Ka ravoravo ery ny fo\n     Izay midera Anao\n\n        Inona àry no havaliko Anao\n        Noho ireo soa efa narotsakao\n        He hazavana lehibe no \n        Indro fa naposakao\n        Ka ravoravo ery ny fo\n        Izay midera Anao\n\n2.  Na dia tsy mendrika ry Ray\n     Ireto te-hidera anao\n     Dia notoloranao tokoa ny\n     Fanavotan-dehibe\n     Na dia mahantra aza re dia\n    Novidian’nyZanakao\n     Tamin’ny rany izay madio\n     Mba ho isan’ny anao\n\n3.  He menatra tokoa ry Ray\n     Hifanatrika Aminao\n     Kanefa noho ny Zanakao dia \n     Indro fa manatona aho\n     Manery ahy izany foko\n     Resin’ny fitiavanao\n     ‘Lay fo maniry mafy Anao\n     Ka indro anjakao</h4></pre>"
             },
             {
               "num": "12",
@@ -2029,15 +2038,9 @@ angular.module('sedera.services', [])
           {
             "num" : "394",
             "titre": "Tena tsara tokoa Ianao Ianao ry Rainay Tsitoha",
-            "hira": "<pre><h4 class='padding'>\n1.	Tena tsara tokoa Ianao Ianao ry Rainay Tsitoha\n     Tena mendrika Ianao nahary izao tontolo izao\n     Feno fahendrena nanome famonjena\n\n          Tena tsara Ianao Tsara Ianao\n          Tsara, mahagaga ny asanao\n          Tsara, tsy misy ny toa Anao\n          Tsara, tsy toha ny herinao\n          Tsara, tsy miova hatramin'izao\n          Tsara, mahagaga ny asanao\n          Tsara, tsy misy ny toa Anao\n          Tsara, tsy toha ny herinao\n          Tsara Ianao\n\n2.	Hira fiderana ho mari-panajana\n     No atolotr'izao, atolotray ho Anao\n     Na tsy mendrika aza, izahay izay mankalaza\n     O henoy ry Tsitoha ka mba raiso</h4></pre>"
+            "hira": "<pre><h4 class='padding'>\n1.  Tena tsara tokoa Ianao Ianao ry Rainay Tsitoha\n    Tena mendrika Ianao nahary izao tontolo izao\n     Feno fahendrena nanome famonjena\n\n          Tena tsara Ianao Tsara Ianao\n          Tsara, mahagaga ny asanao\n          Tsara, tsy misy ny toa Anao\n          Tsara, tsy toha ny herinao\n          Tsara, tsy miova hatramin'izao\n          Tsara, mahagaga ny asanao\n          Tsara, tsy misy ny toa Anao\n          Tsara, tsy toha ny herinao\n          Tsara Ianao\n\n2.	Hira fiderana ho mari-panajana\n     No atolotr'izao, atolotray ho Anao\n     Na tsy mendrika aza, izahay izay mankalaza\n     O henoy ry Tsitoha ka mba raiso</h4></pre>"
           }
-        ],
-        findAll: function () {
-          return factory.Sederas;
-        },
-        findOneByNum: function (num) {
-            return factory.Sederas[num-1];
-        }
+        ]
     };
 
     return factory;

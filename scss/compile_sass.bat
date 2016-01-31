@@ -1,1 +1,0 @@
-sass --watch ionic.app.scss:../www/css/ionic.app.css

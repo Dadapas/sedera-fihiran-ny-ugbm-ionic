@@ -4,19 +4,22 @@
     <div style="padding: 0; margin: 0;" class="bar bar-calm item-input-inset">
       <label class="item-input-wrapper">
         <i class="icon ion-ios-search placeholder-icon"></i>
-        <input ng-model="query" type="search" placeholder="Laharana na Titra na andian-tsoratra ny hira...">
+        <input id="search" ng-model="query" type="search" placeholder="Laharana na Titra na andian-tsoratra ny hira...">
       </label>
       <button ng-click="clearSearch()" class="button button-clear">
         Fafana
       </button>
     </div>
         <ion-list>
-            <ion-item class='item-icon-right' ng-repeat="sedera in sederas | filter: query" type="item-text-wrap" href="#/sedera/{{sedera.num}}">
-                <h2>{{sedera.num}}</h2>
+            <ion-item class='item-icon-right'
+                      ng-repeat="sedera in sederas track by sedera.num | filter: query"
+                      type="item-text-wrap"
+                      href="#/sedera/{{sedera.num}}">
+                <h1>{{sedera.num}}</h1>
                 <p>{{sedera.titre}}</p>
                 <i class="icon ion-chevron-right icon-accessory"></i>
 
-              <div ng-show="!sedera">
+                <div ng-show="noMoreSedera">
                 <div class="card">
                   <div class="item item-text-wrap">
                     Ooups ! Tsy hita na misy diso ny hira tadiavinao ! Avereno indray mandeha
@@ -25,5 +28,11 @@
               </div>
             </ion-item>
         </ion-list>
+        <div class="text-right">
+            <button ng-click="scrollTop()" class="btn btn-toolbar btn-primary btn-left">
+                <span class="glyphicon glyphicon-chevron-up"></span>
+            </button>
+        </div>
+        <ion-infinite-scroll ng-if="!noMoreItemsAvailable" on-infinite="loadMore()" distance="10%"></ion-infinite-scroll>
     </ion-content>
 </ion-view>

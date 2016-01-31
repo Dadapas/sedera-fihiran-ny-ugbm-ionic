@@ -4,7 +4,7 @@
 // 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
 var myApp = angular.module('sedera', ['ionic', 'ui.router', 'sedera.controllers', 'sedera.services'])
-	.run(function ($ionicPlatform) {
+	.run(function ($ionicPlatform, $cordovaSQLite) {
             $ionicPlatform.ready(function () {
                 if (window.cordova && window.cordova.plugins.Keyboard) {
                     // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
@@ -19,6 +19,8 @@ var myApp = angular.module('sedera', ['ionic', 'ui.router', 'sedera.controllers'
                 if (window.StatusBar) {
                     StatusBar.styleDefault();
                 }
+              db = $cordovaSQLite.openDatabase({name :"my.db"});
+              $cordovaSQLite.execute(db, "CREATE TABLE IF NOT EXISTS people (id integer primary key, firstname text, lastname text)");
             });
         });
 
