@@ -379,7 +379,7 @@ angular.module('ngResource', ['ng']).
 
       /**
        * We need our custom method because encodeURIComponent is too aggressive and doesn't follow
-       * http://www.ietf.org/rfc/rfc3986.hira with regards to the character set
+       * http://www.ietf.org/rfc/rfc3986.txt with regards to the character set
        * (pchar) allowed in path segments:
        *    segment       = *pchar
        *    pchar         = unreserved / pct-encoded / sub-delims / ":" / "@"

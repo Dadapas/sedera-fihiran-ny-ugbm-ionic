@@ -1,5 +1,8 @@
-#scroll-on-the-top {
+div#search, div#top {
     position: fixed;
-    float: right;
+}
 
+div#top {
+
+    z-index: 999;
 }

@@ -1339,7 +1339,7 @@ function toKeyValue(obj) {
 
 /**
  * We need our custom method because encodeURIComponent is too aggressive and doesn't follow
- * http://www.ietf.org/rfc/rfc3986.hira with regards to the character set (pchar) allowed in path
+ * http://www.ietf.org/rfc/rfc3986.txt with regards to the character set (pchar) allowed in path
  * segments:
  *    segment       = *pchar
  *    pchar         = unreserved / pct-encoded / sub-delims / ":" / "@"
@@ -11541,7 +11541,7 @@ var locationPrototype = {
    * This method is getter only.
    *
    * Return full url representation with all segments encoded according to rules specified in
-   * [RFC 3986](http://www.ietf.org/rfc/rfc3986.hira).
+   * [RFC 3986](http://www.ietf.org/rfc/rfc3986.txt).
    *
    *
    * ```js

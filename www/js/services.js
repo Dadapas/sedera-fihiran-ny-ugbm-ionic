@@ -6,12 +6,71 @@ angular.module('sedera.services', [])
         findAll: function () {
           return factory.Sederas;
         },
-      findSome: function (find) {
-        return $filter('filter')(factory.Sederas, find, 20);
-      },
         findOneByNum: function (num) {
             return factory.Sederas[num-1];
         },
+        SomeSedera: [
+            {
+              "num" : "1",
+              "titre": "Mitoria ny famonjena",
+              "hira": "<pre><h4 class='padding'>\n1.  Mitoria ny famonjena\n     Ry tanoran’i Jeso\n     Mbola maro sesehena\n     ‘Reo namanao ‘zay maizina\n     Mitoria! Mitoria!\n     Mitoria ny famonjena\n     Izany izao no baiko azonao\n     Ka meteza re izao\n\n2.  Mitsangana, mandehana\n     Aza miandry ianao\n     F’efa akaiky izao Kanana\n     ’Lay tany izay ho lovanao\n     Mitoria! Mitoria!\n     Mitoria ny famonjena\n     Izany izao no baiko azonao\n     Ka meteza re izao.\n\n3.  Indro Jeso Kapiteny\n     Mialoha anao izao\n     Ny fiainany omeny\n     Ka manaraha Azy izao\n     Mandrosoa ! Mandrosoa !\n     Mandrosoa sy mazotoa\n     Fa ny hery sy ny fiainam-baovao\n     No atolotra anao.</h4></pre>",
+              "mark" : "FANEVA ZAIKABE -I (1974)"
+            },
+            {
+              "num": "2",
+              "titre": "Ry Jeso Kristy Tompo",
+              "hira": "<pre><h4 class='padding'>\n1.  Ry Jeso Kristy Tompo\n     Vato fehizoronay\n     Vato fanorenanay\n     Vatolampy tsy hikoro\n     Havaozinao izao\n     ‘zahay mpanomponao\n     Mba hilanja ny faneva\n     Hitory koa ny famonjena.\n\n2.  Ry Fanahy mpanavao\n     Miandrandra Anao izahay\n     Mba tariho hazavao\n     Sao lavo eto indray\n\n3.  Ry Rainay be fitia\n     ‘Ndreto vonon’izahay\n     Ka hanaiky hanara-dia\n     Ilay Jeso Zokinay</h4></pre>",
+              "mark": "faneva zaikabe -ii (1977)"
+            },
+            {
+              "num": "3",
+              "titre": "'Zao indray no ho fenitray",
+              "hira": "<pre><h4 class='padding'>\n1.  ‘Zao indray no fenitray\n     Ny hitombo amin-javatra rehetra\n     Ho amin’izay Loha dia Ianao\n     Ry Jeso Mpanjakanay.\n\n          Koa miandrandra Anao izahay\n          Mba hiasa ao anatinay\n          Na ny fikasana na fanaovana\n          Hahatanteraka ny sitrakao.\n\n2.  Ny finoana ampinganay\n     Fahamarinana izay sikinanay\n     Ary ny Teninao Sabatray\n     ‘Reo no hitomboanay\n\n3.  Tiana hitombo ao am-ponay\n     Ny hetaheta hanambara ny asanao\n     Amin’ity firenena ity\n     ‘Zay irina hahalala Anao.\n\n4.  Ny fankatoavana Anao\n     Ary ny fifankatiavanay\n     sy izay mety ho sitrakao\n     Aoka hitombo ho fiainanay.</h4></pre>",
+              "mark": "faneva zaikabe -iii (1980)"
+            },
+            {
+              "num": "4",
+              "titre": "Anao ry Tomponay",
+              "hira": "<pre><h4 class='padding'>\n1.  Anao ry Tomponay (Tomponay)\n     Anao ny saotra sy fankasitrahanay\n     (Anao ny fankasitrahanay)\n     Izahay mandray ny teny mamy\n     Teninao ‘zay ifalianay\n     Ny hamoa voa tsara ihany\n     Sitrakao ho fiainanay (fiainanay)\n     Mba ho tena hasin’ny tany\n     ‘Reo nateraka indray.\n\n          (Satry re) Satry re hiray Aminao\n          (Mba) Mba hamoa bebe kokoa.\n\n2.  Irinay hanasoa ny tanindrazanay\n     (Irinay hanasoa ny taninay)\n     Ka hikatsaka izay hampandroso\n     Sy honenam-piadanana\n     Ianao Jeso no hambara\n     Amin’ireo havanay (havanay)\n     Aminao no misy ny tsara\n     Dia fiainana ho anay.\n\n3.  Havaozinay anie (anie)\n     Ny fanoloran-tena\n     Hanompoana Anao\n     (Ny fanoloran-tena ho Anao)\n     ‘Zay rehetra mbola ho tontosaina\n     Mba hombay ny fitantananao\n     Ianao Ray no mampitombo\n     Mampaharitra ny voa (vokatray)\n     Miarova ireto mpanompo\n     Kely tsy mba mahasoa. </h4></pre>",
+              "mark": "faneva zaikabe -iv (1983)"
+            },
+            {
+              "num": "5",
+              "titre": "Irinay ny hitoetra",
+              "hira": "<pre><h4 class='padding'>\n1.  Irinay ny hitoetra\nHiorina tsy hisy fetra\nAry hitombo sy hamoa\nHo mendrika tokoa\nNy satroboninahitra\nHo an’ny maharitra\nNy famonjena efa azonay\nNo ho tokinay ry Ray.\n\n2.  F’izay efa noraisinay\nNo ho torinay indray\nHanazava sy hanavao\nIzao tontolo izao\nHo tonga voa tsara\nHo an’ireo izay mandre\nHo fiadanana mandrakizay\nHo an’ireo izay mandray.\n\n3.  Ilay finoana anananay\nNo nanavotana anay\nIo no hiorenanay\nHampianarina indray\nJeso Kristy Tompo soa\nNo hampitoetra tokoa\nKa hampijoro sy hampahery\nKapiteny modely.</h4></pre>",
+              "mark": "faneva zaikabe -v (1986)"
+            },
+            {
+              "num": "6",
+              "titre": "Misikina",
+              "hira": "<pre><h4 class='padding'>\n1.  Misikina, aoka hirehitra\nNy jironareo\n‘Ndeha izao anio izao\nJereo izao tontolo izao\nFaingàna fa rakotra aizina ny tany\nMaro ireo mitomany,\nMiomàna ka andao.\n  Mihazavà ka mandehana\n  Mitoria ny famonjena\n  Vitan’i Jeso Tomponao\n  Asehoy ny tena fahazavana\n  Malakia, ’ndao zarao, izay azonao.\n\n2.  Misikìna, aoka ho\nMendrika izay atao\nFa izao tontolo izao\nDia mijery anao\nMiaingà ka asehoy Jeso Tompo\n‘Zay fitafiana mendrika\nNy mpanompo\n\n3.  Ry Fanahy Masina ô!\nMiandrandra Anao ’zahay\nMitoera maharitra aty anatinay\nKa havaozy isan’andro\nNy fanahinay\nMba hahaizanay\nHanazava ireo namanay.</h4></pre>",
+              "mark": "faneva zaikabe -vi (1989)"
+            },
+            {
+              "num": "7",
+              "titre": "Ry Tompo ô ! Mpanjakanay",
+              "hira": "<pre><h4 class='padding'>\nRy Tompo ô! Mpanjakanay\n(Tompo ô Mpanjaka)\nAnkalazaina ny Anaranao\n(Derainay ny Anaranao)\nIsaoranay Ianao\n(Ianao)\nF’Ianao no mitantana\nNy fikambananay\n(No andrin’ny fikambananay)\n\n1.  Folo taona lasa izay\n  No nijoroan’ny fikambananay\n  Lalan-tsarotra sy ady\n  No efa nolalovanay\n  Nefa Ianao tokoa\n  (No)Vatolampinay\n  Fototry ny fandresena azonay.\n\n2.  Ny hitory famonjena\n  No tsy maintsy ho tohizanay\n  Marobe no mila vonjy\n  Ka ampio izahay\n  Fa Ianao tokoa\n  (No) mampahery anay\n  Ka hiasa am-pifaliana izahay.</h4></pre>",
+              "mark": "faneva faha-10 taona ugbm (1986)"
+            },
+            {
+              "num": "8",
+              "titre": "Feno folo taona izao",
+              "hira": "<pre><h4 class='padding'>\n1.  Feno folo taona izao\n  Ny fikambananay\n  Folo taona mampitodika\n  Ny lasa indray\n  Ny mitory famonjena\n  No hany fenitray\n  Amin’ireo\n  Iray dabilio aminay\n  Folo taona niaretana\n  Ny mafy koa\n  Fanenjehana sy\n  Eson-teny nandrera-po\n  Nefa dia nahery hatrany\n  Rehefa nosokofanay\n  Ny Baiboly izay fandinikay.\n\n2.  Mbola mpianatra avokoa\n  Ny ankamaroanay\n  Ka matetika tsy ampy\n  Ny am-batanay\n  Ho entina manatanteraka\n  Ny asanay\n  Tsy nanao\n  Fitadiavam-bola izahay\n  Ireo lohalikay roa\n  No naforitray\n  Teny an-kalamanjana\n  Na niaretan-tory koa\n  Fa ny vavaka ihany\n  No fitaovana entinay\n  Nandresena ny olana hatrizay.\n\n3.  Teny am-piandohana\nDia fito no isanay\n  Nefa ankehitriny izao\n  Arivo izahay\n  Raha hibanjina ny hoavy\n  No fanevanay\n  Tsy isa ihany\n  No hitomboanay\n  Andriamanitra anefa\n  No hany tokinay\n  Ka na inona vita\n  N’inona inona hatao koa\n  Dia tsy ho hisy ho rehareha\n  Afa tsy izao ihany\n  Ny hazofijalianao Jeso.</h4></pre>",
+              "mark": "hira faha -10 taona (1986)"
+            },
+            {
+              "num": "9",
+              "titre": "Miorena tsara aza miova",
+              "hira": "<pre><h4 class='padding'>\nMiorena tsara aza miova\nRy sakaiza rahalahy malala\nMahefà be mandrakariva\nAmin’ny asan’i Jeso.\n\n1.  Folo taona nijoroana izao\n  Noho ny antso izay noraisinao\n  Ka ny Tompo ‘zay fanorenana\n  No mendrika deraina sy isaorana\n\n2.  Folo taona nanompoana izao\n  Tao anaty fiombonana \n  Tamin’ny asa maro izay natao\n  Dia vonona hanampy sy hanohana\n\n3.  Folo taona niasana izao\n  Nampahafantarinao, fa ianao\n  Ianao vavolombelona\n  Hitory an’Ilay Jeso Mpamonjinao.</h4></pre>",
+              "mark": "faneva faha-10 taona sakaiza (1986)"
+            },
+            {
+              "num": "10",
+              "titre": "Mifohaza,ry matory",
+              "hira": "<pre><h4 class='padding'>\n1.  Mifohaza(3), ry matory ô\n  Miantso anao Jeso Tompo\n  Hiarak’Aminy indray\n  Roapolo taona izao\n  No nijoro ny fikambananay\n  Ka am-pifaliana tokoa re\n  No iantsoany anao\n  Mifohaza (2), indro\n  (Mifohaza re ianao izay matory)\n  Fa miantso anao Jeso Tompo\n  Mifohaza (2), indro\n  (Mifohaza re ianao izay matory)\n  Fa miandry anao Jeso Tompo\n\n2.  Mitsangàna (3) ry matory ô\n  Mbola lavitra ny dia\n  Izay alehanao izao\n  Jeso Tompo kapiteny\n  No mitarika ny dianao\n  Ka am-pfaliana tokoa re\n  No itantanany anao\n  Mitsangàna (2), indro\n  (Mitsangàna ianao izay matory)\n  Fa miantso anao Jeso Tompo\n  Mitsangàna (2), indro\n  (Mitsangàna ianao izay matory)\n  Fa miandry anao Jeso Tompo\n\n3.  Indro Tompo (3) vonona izahay\n  Mahare ny antsonao\n  Na manaiky ho irakao\n  Ny hanao ny sitrakao\n  No tena ilofosanay\n  Ka am-pifaliana tokoa re\n  No hanaovanay ny asanao\n  Indro Tompo (2), indro\n  (Indro Tompo ho Anao manontolo)\n  Atolotray ny tenanay\n  Indro Tompo (2), indro\n  (Indro Tompo ho Anao manontolo)\n  Fa ho Anao mandrakizay.</h4></pre>",
+              "mark": "faneva faha-20 ugbm (1989)"
+            }
+        ],
         Sederas: [
             {
               "num" : "1",
@@ -430,7 +489,7 @@ angular.module('sedera.services', [])
           },
           {
             "num" : "81",
-            "titre": "Andriamanitra ô! Andriamanitraô!",
+            "titre": "Andriamanitra ô",
             "hira": "<pre><h4 class='padding'>\nAndriamanitra ô! Andriamanitraô!\nMiantso anao aho\nTe-hihaona Aminao\n\n1.  Hatramin’ny maraina\n    No iantsoako Anao\n    Mangetaheta Anao\n    ‘Zany fanahiko\n\n2.  Ny tany karakaina\n    Omeo ny orana\n    Ny foko mitaraina\n    Fa te hahita Anao\n\n3.  Iriko anie ry Tompo\n    Ny ho eo anilanao\n    Hibanjina isan’andro\n    Ny voninahitrao\n\n4.  Ny tara-masoandro\n    Andrasan’ny maraina\n    Manoatra noho izany\n    Ny fiandrasako Anao\n\n5.  Fa Ianao no aina\n    Hamelombelona ahy\n    Fa Ianao ry Ray ô, \n    No hasambarako</h4></pre>"
           },
           {

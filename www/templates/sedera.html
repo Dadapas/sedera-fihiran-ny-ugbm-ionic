@@ -12,27 +12,23 @@
     </div>
         <ion-list>
             <ion-item class='item-icon-right'
-                      ng-repeat="sedera in sederas track by sedera.num | filter: query"
+                      ng-repeat="sedera in sederas | filter: query :num : titre: hira"
                       type="item-text-wrap"
                       href="#/sedera/{{sedera.num}}">
+                <!--<img ng-src="img/sedera_num/1 - Copie ({{sedera.num}}).jpg" alt="{{sedera.num}}">-->
                 <h1>{{sedera.num}}</h1>
-                <p>{{sedera.titre}}</p>
+                <p class="text-italic">{{sedera.titre}}</p>
                 <i class="icon ion-chevron-right icon-accessory"></i>
 
-                <div ng-show="noMoreSedera">
+                <!-- <div ng-if="">
                 <div class="card">
                   <div class="item item-text-wrap">
                     Ooups ! Tsy hita na misy diso ny hira tadiavinao ! Avereno indray mandeha
-                  </div>
+                  </div> -->
                 </div>
               </div>
+              <ion-infinite-scroll class="hidden" icon="ion-loading-c" on-infinite="loadMore()" distance="10%" ></ion-infinite-scroll>
             </ion-item>
         </ion-list>
-        <div class="text-right">
-            <button ng-click="scrollTop()" class="btn btn-toolbar btn-primary btn-left">
-                <span class="glyphicon glyphicon-chevron-up"></span>
-            </button>
-        </div>
-        <ion-infinite-scroll ng-if="!noMoreItemsAvailable" on-infinite="loadMore()" distance="10%"></ion-infinite-scroll>
     </ion-content>
 </ion-view>
