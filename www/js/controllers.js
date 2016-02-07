@@ -1,4 +1,4 @@
-angular.module('sedera.controllers', ['ngSanitize'])
+angular.module('sedera.controllers', ['ngSanitize', 'ngCordova'])
 // Ici les messages de bienvenue dans l'application
 .controller('HomeCtrl', function ($scope) {
     /*
@@ -9,19 +9,13 @@ angular.module('sedera.controllers', ['ngSanitize'])
         $scope.sederas = SederaFactory.SomeSedera;
 
         $scope.loadMore = function (){
-
             $scope.sederas.push(SederaFactory.findOneByNum($scope.sederas.length));
-            
             $scope.$broadcast('scroll.infiniteScrollComplete');
         }
 
-
-        $scope.clearSearch = function () {
-            $scope.query = "";
-        }
-        $scope.scrollTop = function () {
-            $ionicScrollDelegate.scrollTop();
-        }
+        $scope.$on('$stateChangeSuccess', function () {
+            $scope.loadMore();
+        })
     })
 
 .controller('HiraCtrl', function ($scope, SederaFactory, $stateParams) {
@@ -35,4 +29,54 @@ angular.module('sedera.controllers', ['ngSanitize'])
      * A propos du concepteur et réalisateur du projet
      */
   $scope.version = "1.0.0@dev"
-});
+})
+
+.controller('DiviceOrientationCtrl', function($cordovaDeviceOrientation) {
+
+  document.addEventListener("deviceready", function () {
+
+    $cordovaDeviceOrientation.getCurrentHeading().then(function(result) {
+       var magneticHeading = result.magneticHeading;
+       var trueHeading = result.trueHeading;
+       var accuracy = result.headingAccuracy;
+       var timeStamp = result.timestamp;
+    }, function(err) {
+      // An error occurred
+      console.log(err);
+    });
+
+
+
+    var options = {
+      frequency: 3000,
+      filter: true     // if frequency is set, filter is ignored
+    }
+
+    var watch = $cordovaDeviceOrientation.watchHeading(options).then(
+      null,
+      function(error) {
+        // An error occurred
+        console.log(error);
+      },
+      function(result) {   // updates constantly (depending on frequency value)
+        var magneticHeading = result.magneticHeading;
+        var trueHeading = result.trueHeading;
+        var accuracy = result.headingAccuracy;
+        var timeStamp = result.timestamp;
+      });
+
+
+    watch.clearWatch();
+    // OR
+    $cordovaDeviceOrientation.clearWatch(watch)
+      .then(function(result) {
+        // Success!
+        console.log(result);
+      }, function(err) {
+        // An error occurred
+        console.log(err);
+      });
+
+  }, false);
+})
+;

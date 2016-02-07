@@ -1,34 +1,34 @@
-<ion-view view-title="Sedera" class="padding">
-
-  <ion-content class='padding-top padding-bottom' ng-controller="SederaCtrl">
-    <div style="padding: 0; margin: 0;" class="bar bar-calm item-input-inset">
+<ion-view view-title="Sedera" class="padding" ng-controller="SederaCtrl">
+  <ion-nav-bar class="bar-positive">
+    <ion-nav-buttons side="left">
+      <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+      </button>
+    </ion-nav-buttons>
+    <div style="position: fixed; top: 38px; bottom: 2px; display: block;" class="bar bar-header item-input-inset top-bar">
       <label class="item-input-wrapper">
         <i class="icon ion-ios-search placeholder-icon"></i>
-        <input id="search" ng-model="query" type="search" placeholder="Laharana na Titra na andian-tsoratra ny hira...">
+        <input type="search" ngModel="query" placeholder="Itady hira...">
       </label>
-      <button ng-click="clearSearch()" class="button button-clear">
-        Fafana
-      </button>
     </div>
-        <ion-list>
-            <ion-item class='item-icon-right'
-                      ng-repeat="sedera in sederas | filter: query :num : titre: hira"
-                      type="item-text-wrap"
-                      href="#/sedera/{{sedera.num}}">
-                <!--<img ng-src="img/sedera_num/1 - Copie ({{sedera.num}}).jpg" alt="{{sedera.num}}">-->
-                <h1>{{sedera.num}}</h1>
-                <p class="text-italic">{{sedera.titre}}</p>
-                <i class="icon ion-chevron-right icon-accessory"></i>
+  </ion-nav-bar>
+  <ion-content style='top: 70px' class='padding-top padding-bottom'>
+    <ion-list>
+      <ion-item class='item-icon-right item-avatar'
+                ng-repeat="sedera in sederas | filter: query"
+                type="item-text-wrap"
+                href="#/sedera/{{sedera.num}}">
+        <img ng-src="img/sedera_num/1 - Copie ({{sedera.num}}).jpg" alt="{{sedera.num}}">
+        
+        <p>{{sedera.titre}}</p>
+        <i class="icon ion-chevron-right icon-accessory"></i>
 
-                <!-- <div ng-if="">
-                <div class="card">
-                  <div class="item item-text-wrap">
-                    Ooups ! Tsy hita na misy diso ny hira tadiavinao ! Avereno indray mandeha
-                  </div> -->
-                </div>
-              </div>
-              <ion-infinite-scroll class="hidden" icon="ion-loading-c" on-infinite="loadMore()" distance="10%" ></ion-infinite-scroll>
-            </ion-item>
-        </ion-list>
-    </ion-content>
+        <!-- <div ng-if="">
+              <div class="card">
+                <div class="item item-text-wrap">
+                  Ooups ! Tsy hita na misy diso ny hira tadiavinao ! Avereno indray mandeha
+              </div> -->
+      </ion-item>
+      <ion-infinite-scroll icon="ion-loading-c" on-infinite="loadMore()" distance="5%" ></ion-infinite-scroll>
+    </ion-list>
+  </ion-content>
 </ion-view>

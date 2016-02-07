@@ -31,7 +31,7 @@ angular.module('sedera.services', [])
             {
               "num": "4",
               "titre": "Anao ry Tomponay",
-              "hira": "<pre><h4 class='padding'>\n1.  Anao ry Tomponay (Tomponay)\n     Anao ny saotra sy fankasitrahanay\n     (Anao ny fankasitrahanay)\n     Izahay mandray ny teny mamy\n     Teninao ‘zay ifalianay\n     Ny hamoa voa tsara ihany\n     Sitrakao ho fiainanay (fiainanay)\n     Mba ho tena hasin’ny tany\n     ‘Reo nateraka indray.\n\n          (Satry re) Satry re hiray Aminao\n          (Mba) Mba hamoa bebe kokoa.\n\n2.  Irinay hanasoa ny tanindrazanay\n     (Irinay hanasoa ny taninay)\n     Ka hikatsaka izay hampandroso\n     Sy honenam-piadanana\n     Ianao Jeso no hambara\n     Amin’ireo havanay (havanay)\n     Aminao no misy ny tsara\n     Dia fiainana ho anay.\n\n3.  Havaozinay anie (anie)\n     Ny fanoloran-tena\n     Hanompoana Anao\n     (Ny fanoloran-tena ho Anao)\n     ‘Zay rehetra mbola ho tontosaina\n     Mba hombay ny fitantananao\n     Ianao Ray no mampitombo\n     Mampaharitra ny voa (vokatray)\n     Miarova ireto mpanompo\n     Kely tsy mba mahasoa. </h4></pre>",
+              "hira": "<pre><h4 class='padding'>\n1.   Anao ry Tomponay (Tomponay)\n     Anao ny saotra sy fankasitrahanay\n     (Anao ny fankasitrahanay)\n     Izahay mandray ny teny mamy\n     Teninao ‘zay ifalianay\n     Ny hamoa voa tsara ihany\n     Sitrakao ho fiainanay (fiainanay)\n     Mba ho tena hasin’ny tany\n     ‘Reo nateraka indray.\n\n          (Satry re) Satry re hiray Aminao\n          (Mba) Mba hamoa bebe kokoa.\n\n2.   Irinay hanasoa ny tanindrazanay\n     (Irinay hanasoa ny taninay)\n     Ka hikatsaka izay hampandroso\n     Sy honenam-piadanana\n     Ianao Jeso no hambara\n     Amin’ireo havanay (havanay)\n     Aminao no misy ny tsara\n     Dia fiainana ho anay.\n\n3.   Havaozinay anie (anie)\n     Ny fanoloran-tena\n     Hanompoana Anao\n     (Ny fanoloran-tena ho Anao)\n     ‘Zay rehetra mbola ho tontosaina\n     Mba hombay ny fitantananao\n     Ianao Ray no mampitombo\n     Mampaharitra ny voa (vokatray)\n     Miarova ireto mpanompo\n     Kely tsy mba mahasoa. </h4></pre>",
               "mark": "faneva zaikabe -iv (1983)"
             },
             {
@@ -43,7 +43,7 @@ angular.module('sedera.services', [])
             {
               "num": "6",
               "titre": "Misikina",
-              "hira": "<pre><h4 class='padding'>\n1.  Misikina, aoka hirehitra\nNy jironareo\n‘Ndeha izao anio izao\nJereo izao tontolo izao\nFaingàna fa rakotra aizina ny tany\nMaro ireo mitomany,\nMiomàna ka andao.\n  Mihazavà ka mandehana\n  Mitoria ny famonjena\n  Vitan’i Jeso Tomponao\n  Asehoy ny tena fahazavana\n  Malakia, ’ndao zarao, izay azonao.\n\n2.  Misikìna, aoka ho\nMendrika izay atao\nFa izao tontolo izao\nDia mijery anao\nMiaingà ka asehoy Jeso Tompo\n‘Zay fitafiana mendrika\nNy mpanompo\n\n3.  Ry Fanahy Masina ô!\nMiandrandra Anao ’zahay\nMitoera maharitra aty anatinay\nKa havaozy isan’andro\nNy fanahinay\nMba hahaizanay\nHanazava ireo namanay.</h4></pre>",
+              "hira": "<pre><h4 class='padding'>\n1.  Misikina, aoka hirehitra\n    Ny jironareo\n    ‘Ndeha izao anio izao\n    Jereo izao tontolo izao\n    Faingàna fa rakotra aizina ny tany\n    Maro ireo mitomany,\n    Miomàna ka andao.\n    Mihazavà ka mandehana\n    Mitoria ny famonjena\n    Vitan’i Jeso Tomponao\n    Asehoy ny tena fahazavana\n    Malakia, ’ndao zarao, izay azonao.\n\n2.  Misikìna, aoka ho\n    Mendrika izay atao\n    Fa izao tontolo izao\n    Dia mijery anao\n    Miaingà ka asehoy Jeso Tompo\n    ‘Zay fitafiana mendrika\n    Ny mpanompo\n\n3.  Ry Fanahy Masina ô!\n    Miandrandra Anao ’zahay\n    Mitoera maharitra aty anatinay\n    Ka havaozy isan’andro\n    Ny fanahinay\n    Mba hahaizanay\n    Hanazava ireo namanay.</h4></pre>",
               "mark": "faneva zaikabe -vi (1989)"
             },
             {
@@ -66,10 +66,10 @@ angular.module('sedera.services', [])
             },
             {
               "num": "10",
-              "titre": "Mifohaza,ry matory",
+              "titre": "Mifohaza",
               "hira": "<pre><h4 class='padding'>\n1.  Mifohaza(3), ry matory ô\n  Miantso anao Jeso Tompo\n  Hiarak’Aminy indray\n  Roapolo taona izao\n  No nijoro ny fikambananay\n  Ka am-pifaliana tokoa re\n  No iantsoany anao\n  Mifohaza (2), indro\n  (Mifohaza re ianao izay matory)\n  Fa miantso anao Jeso Tompo\n  Mifohaza (2), indro\n  (Mifohaza re ianao izay matory)\n  Fa miandry anao Jeso Tompo\n\n2.  Mitsangàna (3) ry matory ô\n  Mbola lavitra ny dia\n  Izay alehanao izao\n  Jeso Tompo kapiteny\n  No mitarika ny dianao\n  Ka am-pfaliana tokoa re\n  No itantanany anao\n  Mitsangàna (2), indro\n  (Mitsangàna ianao izay matory)\n  Fa miantso anao Jeso Tompo\n  Mitsangàna (2), indro\n  (Mitsangàna ianao izay matory)\n  Fa miandry anao Jeso Tompo\n\n3.  Indro Tompo (3) vonona izahay\n  Mahare ny antsonao\n  Na manaiky ho irakao\n  Ny hanao ny sitrakao\n  No tena ilofosanay\n  Ka am-pifaliana tokoa re\n  No hanaovanay ny asanao\n  Indro Tompo (2), indro\n  (Indro Tompo ho Anao manontolo)\n  Atolotray ny tenanay\n  Indro Tompo (2), indro\n  (Indro Tompo ho Anao manontolo)\n  Fa ho Anao mandrakizay.</h4></pre>",
               "mark": "faneva faha-20 ugbm (1989)"
-            }
+            },
         ],
         Sederas: [
             {
@@ -796,7 +796,8 @@ angular.module('sedera.services', [])
           {
             "num" : "141",
             "titre": "Un commandment nouveau",
-            "hira": "<pre><h4 class='padding'></h4></pre>"
+            "hira": "<pre><h4 class='padding'>\nUn commandement nouveau\nQue je vous donne :\nAimez-vous les uns, les autres \nComme je vous ai aimés\nA ceci tous connaîtront \nQue vous êtes mes disciples\nSi vous vous aimez \nLes uns, les autres. </h4></pre>",
+            "mark": "JN 13 : 34 - 35"
           },
           {
             "num" : "142",
