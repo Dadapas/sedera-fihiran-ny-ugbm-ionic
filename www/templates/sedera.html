@@ -7,18 +7,18 @@
     <div style="position: fixed; top: 38px; bottom: 2px; display: block;" class="bar bar-header item-input-inset top-bar">
       <label class="item-input-wrapper">
         <i class="icon ion-ios-search placeholder-icon"></i>
-        <input type="search" ngModel="query" placeholder="Itady hira...">
+        <input type="search" ng-model="query" placeholder="Itady hira...">
       </label>
+      <button class="button button-block button-assertive">Fafana</button>
     </div>
   </ion-nav-bar>
   <ion-content style='top: 70px' class='padding-top padding-bottom'>
     <ion-list>
-      <ion-item class='item-icon-right item-avatar'
-                ng-repeat="sedera in sederas | filter: query"
+      <ion-item class='item-icon-right'
+                collection-repeat="sedera in sederas | filter: query"
                 type="item-text-wrap"
                 href="#/sedera/{{sedera.num}}">
-        <img ng-src="img/sedera_num/1 - Copie ({{sedera.num}}).jpg" alt="{{sedera.num}}">
-        
+        <h1>{{sedera.num}}</h1>
         <p>{{sedera.titre}}</p>
         <i class="icon ion-chevron-right icon-accessory"></i>
 
@@ -28,7 +28,6 @@
                   Ooups ! Tsy hita na misy diso ny hira tadiavinao ! Avereno indray mandeha
               </div> -->
       </ion-item>
-      <ion-infinite-scroll icon="ion-loading-c" on-infinite="loadMore()" distance="5%" ></ion-infinite-scroll>
     </ion-list>
   </ion-content>
 </ion-view>
