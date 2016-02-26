@@ -1,25 +1,25 @@
-<ion-view view-title="Sedera" class="padding" ng-controller="SederaCtrl">
-  <ion-nav-bar class="bar-positive">
-    <ion-nav-buttons side="left">
-      <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
-      </button>
-    </ion-nav-buttons>
-    <div style="position: fixed; top: 38px; bottom: 2px; display: block;" class="bar bar-header item-input-inset top-bar">
-      <label class="item-input-wrapper">
-        <i class="icon ion-ios-search placeholder-icon"></i>
-        <input type="search" ng-model="query" placeholder="Itady hira...">
-      </label>
-      <button class="button button-block button-assertive">Fafana</button>
-    </div>
-  </ion-nav-bar>
-  <ion-content style='top: 70px' class='padding-top padding-bottom'>
+<ion-view view-title="" class="padding" ng-controller="SederaCtrl">
+  <ion-header-bar class="bar-positive">
+    <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+    </button>
+    </ion-header-bar>
+      <ion-header-bar class="bar-light bar-subheader">
+        <input type="search"
+          placeholder="Itady hira...."
+          ng-model="search">
+        <button ng-if="search.length"
+          class="button button-icon ion-android-close input-button"
+          ng-click="clearSearch()">
+        </button>
+      </ion-header-bar>
+  <ion-content style="top: 75px" overflow-scroll="true" class="has-header">
     <ion-list>
-      <ion-item class='item-icon-right'
-                collection-repeat="sedera in sederas | filter: query"
-                type="item-text-wrap"
+      <ion-item class='item-icon-right item-thumbnail-left'
+                collection-repeat="sedera in sederas | filter:search"
                 href="#/sedera/{{sedera.num}}">
         <h1>{{sedera.num}}</h1>
         <p>{{sedera.titre}}</p>
+        <p class="hidden">{{sedera.hira}}</p>
         <i class="icon ion-chevron-right icon-accessory"></i>
 
         <!-- <div ng-if="">
