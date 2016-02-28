@@ -23,7 +23,7 @@ angular.module('sedera.controllers', ['ngSanitize', 'ngCordova'])
      * ugbm
      * A propos du concepteur et réalisateur du projet
      */
-  $scope.version = "1.0.0@dev",
+  $scope.version = "1.5.2",
   $scope.angularVersion = angular.version;
 })
 

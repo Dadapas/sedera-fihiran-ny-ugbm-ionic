@@ -5,20 +5,21 @@
     </ion-header-bar>
       <ion-header-bar class="bar-light bar-subheader">
         <input type="search"
-          placeholder="Itady hira...."
+          placeholder="15 na 'Raha eo am-pahitana'"
           ng-model="search">
+
         <button ng-if="search.length"
           class="button button-icon ion-android-close input-button"
           ng-click="clearSearch()">
         </button>
       </ion-header-bar>
-  <ion-content style="top: 75px" overflow-scroll="true" class="has-header">
+  <ion-content style="top: 85px" overflow-scroll="true" class="has-header">
     <ion-list>
-      <ion-item class='item-icon-right item-thumbnail-left'
+      <ion-item class='item-icon-right'
                 collection-repeat="sedera in sederas | filter:search"
                 href="#/sedera/{{sedera.num}}">
-        <h1>{{sedera.num}}</h1>
-        <p>{{sedera.titre}}</p>
+        <h1 style="display: inline; color: black; padding: 10px;">{{sedera.num}}</h1>
+        <p style="display: inline; padding: 5%;">{{sedera.titre}}</p>
         <p class="hidden">{{sedera.hira}}</p>
         <i class="icon ion-chevron-right icon-accessory"></i>
 
