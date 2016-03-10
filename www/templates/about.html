@@ -8,7 +8,6 @@
           </div>
           <h1 class="text-center">SEDERA</h1>
           <h6 class="text-center">Version {{ version }}</h6>
-          <h6 class="hidden">AngularJS Version {{ angularVersion.full }}</h6>
           <br>
           <h2 class="text-center text-lowercase text-capitalize">Fihiranan'ny Union des Groupes Bibliques de Madagascar</h2>
           <br>
@@ -20,11 +19,6 @@
             Izany dia natao fa hita tokoa fa miahavitsy izao no manana Sedera.
             Izy ity dia natao maimaim-poana ho an'izay manana Téléphone Android.
           </p>
-
-          <p>
-            Tsy mbola azo lazaina mahafa-po misy zavatra be dia be tokony amboarina
-          </p>
-
           <p>
             Ampiasao ka lazao raha misy zavatra tsikaritrao fa tsy mety
             na tokony amboarina, izany no natao ho fanatsarana azy.
@@ -34,20 +28,16 @@
           <div class="text-info">
             <h4>- Andriamanitra nonemezany fahafahana anamboatra ity Application ity</h4>
             <h4>- Ny FOIBE ny UGBM nanome malalaka</h4>
-            <h4>- Zk Hasina izay nanome SEDERA version pdf</h4>
-            <h4>- Isaorana isika izay nandray anjara tamin'ny fanatsarana</h4>
+            <h4>- Isaorana isika izay nandray anjara na ny lavitra na ny akaiky tamin'ny fanatontosana</h4>
           </div>
-          <h3>Développeur:</h3>
-          <div class="list-group">
-            <a href="http://www.facebook.com/tovohery.z.pascal" class="list-group-item">
-              <h4 class="list-group-item-heading">TOVOHERY Zafimanantsoa Pascal</h4>
-              <p class="list-group-item-text"><span class="glyphicon glyphicon-education"></span> GBU Antsirabe</p>
-              <p class="list-group-item-text">
-                <span class="glyphicon glyphicon-earphone"></span> +261(0)34 25 160 25
-              </p>
-              <p class="list-group-item-text"><span class="glyphicon glyphicon-envelope"></span> tovoherypascal@gmail.com</p>
-            </a>
-          </div>
+          <!--
+            Below we include the Login Button social plugin. This button uses
+            the JavaScript SDK to present a graphical Login button that triggers
+            the FB.login() function when clicked.
+          -->
+
+          <fb:login-button scope="public_profile,email" onlogin="checkLoginState();">
+          </fb:login-button>
           <div class="alert">
             <h2 class="text-warning text-center">
               <span class="glyphicon glyphicon-warning-sign"></span>
@@ -56,8 +46,20 @@
 
             <h2 class="text-center text-danger"><span class="glyphicon glyphicon-ban-circle"></span> Tsy azo amidy</h2>
             <br>
-            <h3 class="text-center">Samy hotahin'ny Tompo Daholo.</h3>
-            <h1 class="text-center">:)</h1>
+            <h3 class="text-center">Samy hotahin'ny Tompo Daholo.</h3><br>
+            <div class="text-right">
+              <h4 class="underline"><u><strong>Ny nanantotosa</strong></u></h4><br>
+              <address>
+                <strong>TOVOHERY Zafimanantsoa Pascal</strong><br>
+                <a href="mailto:tovoherypascal@gmail.com">tovoherypascal@gmail.com</a><br>
+                GBU Antsirabe<br>
+                <abbr title="Téléphone">Tél:</abbr> +261(0)34 25 160 25
+              </address>
+            </div>             
+              
+              
+            </a>
+          </div>
           </div>
         </div>
       </div>
